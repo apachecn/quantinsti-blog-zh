@@ -12,7 +12,7 @@
 
 ## **关于作者**
 
-<figure class="kg-card kg-image-card">![](img/f7dfd46cdbfb0ef5efff660b1e4c8893.png)</figure>
+![](img/f7dfd46cdbfb0ef5efff660b1e4c8893.png)
 
 Vijayabhasker Iyer 是一名学习型&发展专家，在 BFSI 拥有超过 15 年的工作经验。他曾与跨国金融机构、再保险经纪人、国内 kpo/BPO 合作，并持有英国特许保险协会颁发的保险证书。他目前在一家全球银行担任能力开发的现场主管。
 
@@ -68,7 +68,7 @@ ADX 是一个技术指标，帮助我们确定趋势的强弱。一般来说，�
 
 图 1 展示了 ADX 的工作原理:从左图看，随着价格的上涨，ADX 上升，表示强劲的上升趋势。当它下跌时，你可以看到趋势失去了势头，或者价格在中间盘整。在右边，随着价格下跌，ADX 指数再次上升，预示着潜在的下跌趋势。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/85cf9f922ede9ec113deb8e9dd6f6a90.png)</figure>
+![](img/85cf9f922ede9ec113deb8e9dd6f6a90.png)
 
 在这个策略中，我们只希望执行多头交易。因此，指数移动平均线被选择为 21、42 和 63，以识别最有可能上升的市场。当 ADX 开始从 25 或以下的水平向上倾斜时，我们预计上升趋势将开始/继续。
 

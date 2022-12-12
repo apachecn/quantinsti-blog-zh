@@ -143,7 +143,7 @@ Quantra 上最好的学习途径是:
 
 此外，这是一个为期六个月的在线部分时间制课程，在课程中，您可以接触到以下概念:
 
-<figure class="kg-card kg-image-card">![](img/6ff85c57dae6914e738d313e7d7f263b.png)</figure>
+![](img/6ff85c57dae6914e738d313e7d7f263b.png)
 
 上述模块提供了对统计、Python、市场微观结构等概念的全面了解。此外，最后，你将利用动手项目，在指定导师的帮助下，你将能够从零开始建立自己的交易策略。之后，举行一次考试，这是为了帮助你确定你对这些概念的理解程度。
 
@@ -153,7 +153,7 @@ Quantra 提供学习课程，每个课程下都有各种课程。一旦你进入
 
 下面你可以看到如何根据你的学习目标找到最适合你的学习路线:
 
-<figure class="kg-card kg-image-card">![](img/d60a75dc915c82047000ad2e49234040.png)</figure>
+![](img/d60a75dc915c82047000ad2e49234040.png)
 
 现在让我们来看看是什么让我们与其他在线课程区分开来。
 
@@ -191,7 +191,7 @@ EPAT 和 Quantra 课程都是互补的课程，为您提供显著的好处。作
 
 Career cell 为来自世界各地的 EPATians 人带来最好的 Algo 和 Quant 交易工作机会。他们还协助面试准备和简历建设。下面你可以看到 EPAT-伊恩的逐步旅程:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/dc870b06123a13e70df740e9ec256188.png)</figure>
+![](img/dc870b06123a13e70df740e9ec256188.png)
 
 我们为您提供校友支持，并帮助您快速安置，因为安置从批次开始就可用，而不仅仅是在完成您的 EPAT 课程之后。
 
@@ -219,7 +219,7 @@ EPAT 是一个平台，在这里你将从许多从业者和他们的经验中获
 
 此外，我们很自豪能够满足具有不同要求和偏好的学生的不同需求，以下是对其中一个 EPATians 的引用:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/7e438256517a91ad59cce5e18e95bcaf.png)</figure>
+![](img/7e438256517a91ad59cce5e18e95bcaf.png)
 
 ### Quantra
 
@@ -229,7 +229,7 @@ Quantra 课程是专为满足您的需求而设计的学习课程。每条学习
 
 以下是其中一个学习项目的简介:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0f9253382d09b7616f58c814a797abfe.png)</figure>
+![](img/0f9253382d09b7616f58c814a797abfe.png)
 
 Quantra 课程的一些独特之处如下:
 
@@ -253,11 +253,11 @@ Quantra 课程的一些独特之处如下:
 
 在此视频中了解更多关于 Quantra 课程的信息和学习体验:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/E6waVks18s0?feature=oembed](https://www.youtube.com/embed/E6waVks18s0?feature=oembed)
 
-</figure>
+
 
 此外，让我们找出什么是最适合你的，取决于各种因素。
 
@@ -286,11 +286,11 @@ Quantra 课程的一些独特之处如下:
 
 观看这个来自纽约的 EPATian 人和 Quantra 课程的热心学生 Kevin Gaughan 先生的锁定故事，了解他的经历:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/aTqXuvjP5A0?feature=oembed](https://www.youtube.com/embed/aTqXuvjP5A0?feature=oembed)
 
-</figure>
+
 
 此外，你可以浏览 EPAT 和 Quantra 课程的快速对比分析。
 

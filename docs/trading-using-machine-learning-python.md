@@ -63,11 +63,11 @@
 
 根据 Stack Overflow 的 [2020 年开发者调查](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages-wanted)，开发者报告说他们想学习 Python，这是连续第四年占据榜首。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![python ranking on stackoverflow](img/a695fd5e62962413ea3fe48baa108263.png)
+![python ranking on stackoverflow](img/a695fd5e62962413ea3fe48baa108263.png)
 
-<figcaption>Python ranking #1 on StackOverflow</figcaption>
+Python ranking #1 on StackOverflow
 
-</figure>
+
 
 [Python trading](https://quantra.quantinsti.com/course/python-for-trading) 已经在 quant finance 社区获得了关注，因为它可以轻松地构建复杂的统计模型，因为有足够的科学库可用，如:
 
@@ -182,7 +182,7 @@
 
 让我们执行代码，看看会得到什么。
 
-<figure class="kg-card kg-image-card kg-width-full">![average range predicting the future close values](img/9436cc1d22e55b76390c5e6b7cce34b9.png)</figure>
+![average range predicting the future close values](img/9436cc1d22e55b76390c5e6b7cce34b9.png)
 
 一些值得思考的问题。
 
@@ -216,7 +216,7 @@
 
 第二，如果我们运行这段代码，那么输出看起来会像这样。
 
-<figure class="kg-card kg-image-card kg-width-full">![test train data error graph](img/be4c915e7fb20463344a4c9e7d501683.png)</figure>
+![test train data error graph](img/be4c915e7fb20463344a4c9e7d501683.png)
 
 与训练数据相比，我们的算法在测试数据中表现更好。这一观察本身就是一个危险信号。我们的测试数据误差可能优于列车数据误差的原因有几个:
 
@@ -229,7 +229,7 @@
 
 如果我们运行代码，结果将如下所示:
 
-<figure class="kg-card kg-image-card kg-width-full">![test train error graph to check trend](img/407f505e996810291783b034da5b65fa.png)</figure>
+![test train error graph to check trend](img/407f505e996810291783b034da5b65fa.png)
 
 因此，给出更多的数据并没有让你的算法更好地工作，而是让它变得更糟。在时间序列数据中，内在趋势对算法在测试数据上的表现起着非常重要的作用。
 
@@ -267,7 +267,7 @@
 
 最终的政权区分如下所示:
 
-<figure class="kg-card kg-image-card kg-width-full">![final regime differentiation](img/fa490e9e53e3fa3666ea9c508a3b8dda.png)</figure>
+![final regime differentiation](img/fa490e9e53e3fa3666ea9c508a3b8dda.png)
 
 这张图表对我来说很不错。不用实际查看分类所基于的因素，我们只需查看图表就可以得出一些结论。
 
@@ -280,7 +280,7 @@
 
 输出如下所示:
 
-<figure class="kg-card kg-image-card">![print the relevant data for each regime](img/ee3897d577a0ddd26db0567b881b4782.png)</figure>
+![print the relevant data for each regime](img/ee3897d577a0ddd26db0567b881b4782.png)
 
 数据可以推断如下:
 

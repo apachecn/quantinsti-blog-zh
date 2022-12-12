@@ -33,7 +33,7 @@
 
 **阿克谢·乔杜里(量化分析师，QuantInsti)**
 
-<figure class="kg-card kg-image-card">![Akshay Choudhary pic](img/e2943791ebea83c1ba375fab3753741f.png)</figure>
+![Akshay Choudhary pic](img/e2943791ebea83c1ba375fab3753741f.png)
 
 阿克谢拥有 IIT 坎普尔大学的学士学位。他在 QuantInsti 的 Quantra 研究和内容团队担任定量分析师。在此之前，他在 Jio 担任数据科学家。他喜欢交易期权，阅读市场心理学。
 

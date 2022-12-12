@@ -28,4 +28,4 @@ QuantInsti 的 Rajib 受邀与 Bullet Hill Capital LLC 的创始人兼管理成�
 
 ### **芝加哥 2015 交易展图片**
 
-<figure class="kg-card kg-image-card">![](img/b5c4287e7527f8898c426b83df77d51f.png)</figure>
+![](img/b5c4287e7527f8898c426b83df77d51f.png)

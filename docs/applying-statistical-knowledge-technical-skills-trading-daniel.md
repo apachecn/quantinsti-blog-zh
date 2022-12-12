@@ -6,7 +6,7 @@
 
 [丹尼尔·武科塔](https://www.linkedin.com/in/danvukota/) ，量化交易数据分析师，凭借其技术专长和统计知识进入算法交易领域并在其中表现出色。
 
-<figure class="kg-card kg-image-card">![](img/d082acf3baec216643dae8a2ee18d2fc.png)</figure>
+![](img/d082acf3baec216643dae8a2ee18d2fc.png)
 
 ## **下面是我们与丹尼尔的对话**
 

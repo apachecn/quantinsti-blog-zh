@@ -12,7 +12,7 @@
 
 ## 嗨，穆罕默德，给我们介绍一下你自己吧！
 
-<figure class="kg-card kg-image-card">![Muhammad Shamoon Tariq pic](img/600223a8f4010388d084eeae6e024579.png)</figure>
+![Muhammad Shamoon Tariq pic](img/600223a8f4010388d084eeae6e024579.png)
 
 嗨！我是[默罕默德·沙蒙·塔里克](https://www.linkedin.com/in/muhammad-shamoon-tariq-cfa-fdp-24b40a80/)，我是巴基斯坦人，曾在瑞典&生活和工作。在过去的 12 年里，我一直与资本市场联系在一起，我的职业生涯始于分析师，这让我对金融建模有了相当的了解。
 

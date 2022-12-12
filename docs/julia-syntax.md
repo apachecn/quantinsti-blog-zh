@@ -23,7 +23,7 @@
 
 让我们从学习任何新的编程语言的最传统的方法开始。
 
-<figure class="kg-card kg-image-card kg-width-full">![Julia hello world](img/edcb3b0acdff7d573c7cc1b56d118cc9.png)</figure>
+![Julia hello world](img/edcb3b0acdff7d573c7cc1b56d118cc9.png)
 
 对于前几个代码片段，我特意使用了我的 Julia 控制台中的屏幕截图，以便您更好地了解它。
 
@@ -33,11 +33,11 @@
 
 让我们用 Julia 做一些基本的算术运算。执行同一操作有多种方式。
 
-<figure class="kg-card kg-image-card kg-width-full">![Julia addition](img/3f1cb9b5ab3af49135aeff8d0ff1781b.png)</figure>
+![Julia addition](img/3f1cb9b5ab3af49135aeff8d0ff1781b.png)
 
 以下是如何编写复数并对其进行基本运算的方法。
 
-<figure class="kg-card kg-image-card kg-width-full">![Julia complex numbers](img/7cbc7135a511e9d3a4c8c2a360454201.png)</figure>
+![Julia complex numbers](img/7cbc7135a511e9d3a4c8c2a360454201.png)
 
 当你将一个浮点数加到一个整数上时，它返回一个浮点数。
 

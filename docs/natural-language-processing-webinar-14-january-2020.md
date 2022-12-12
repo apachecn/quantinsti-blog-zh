@@ -27,7 +27,7 @@
 
 ## 扬声器简介
 
-<figure class="kg-card kg-image-card kg-width-full">![Terry Benzschawel](img/b769b5c4232eae5d628554effa9a6a84.png)</figure>
+![Terry Benzschawel](img/b769b5c4232eae5d628554effa9a6a84.png)
 
 ### **terry benza wel**
 
@@ -36,7 +36,7 @@ Terry Benzschawel 是 Benzschawel Scientific，LLC 的创始人和负责人。�
 
 在此之前，他曾在大通曼哈顿银行和花旗银行工作，构建预测公司破产和检测信用卡交易中的信用欺诈的算法。他已经写了两本关于信用建模的书。
 
-<figure class="kg-card kg-image-card kg-width-full">![Ishan Shah](img/2bf0b94e9cb3e8aa87b2668663d3aa06.png)</figure>
+![Ishan Shah](img/2bf0b94e9cb3e8aa87b2668663d3aa06.png)
 
 ### **伊山沙阿**
 
@@ -67,10 +67,10 @@ Terry Benzschawel 是 Benzschawel Scientific，LLC 的创始人和负责人。�
 
 您可以点击此处查看本次网络研讨会的 powerpoint 演示文稿:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/fBppWVfF9nPIj4](https://www.slideshare.net/slideshow/embed_code/key/fBppWVfF9nPIj4)
 
-**[Masterclass: Natural Language Processing in Trading with Terry Benzschawel & Ishan Shah](https://www.slideshare.net/QuantInsti/masterclass-natural-language-processing-in-trading-with-terry-benzschawel-ishan-shah "Masterclass: Natural Language Processing in Trading with Terry Benzschawel & Ishan Shah")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[Masterclass: Natural Language Processing in Trading with Terry Benzschawel & Ishan Shah](https://www.slideshare.net/QuantInsti/masterclass-natural-language-processing-in-trading-with-terry-benzschawel-ishan-shah "Masterclass: Natural Language Processing in Trading with Terry Benzschawel & Ishan Shah")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**
 
 在 Slideshare 上查看我们所有的 [50 多个之前的网络研讨会 powerpoint 演示文稿。](https://www.slideshare.net/QuantInsti/presentations)

@@ -30,7 +30,7 @@
 
 ## **面板**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/3fc6dc55681e5755094f59af49c3856a.png)</figure>
+![](img/3fc6dc55681e5755094f59af49c3856a.png)
 
 ### Vivek Krishnamoorthy
 

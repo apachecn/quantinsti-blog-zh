@@ -10,7 +10,7 @@
 
 AlphaZero 明白，要实现将死的长期目标，它必须在游戏中遭受损失。我们称之为延迟满足。令人印象深刻的是，在 AlphaZero 之前，很少有人想到以这种方式玩游戏。从那以后，不同学科的不同专家一直在研究如何在他们的研究中适应强化学习。AlphaZero 的这一令人兴奋的成就引发了我们探索强化学习在交易中的应用的兴趣。
 
-<figure class="kg-card kg-image-card kg-width-full">![reinforcement learning for trading](img/74cd6b64c46ea99a8565f4f1c094e217.png)</figure>
+![reinforcement learning for trading](img/74cd6b64c46ea99a8565f4f1c094e217.png)
 
 这篇文章的结构如下。重点是描述强化学习在交易中的应用，并讨论 RL 可以解决的问题，这可能是通过传统的[机器学习](https://quantra.quantinsti.com/course/introduction-to-machine-learning-for-trading)方法无法解决的。你不会找到任何代码来实现，但有很多例子来启发你探索交易的强化学习框架。
 
@@ -37,11 +37,11 @@ AlphaZero 明白，要实现将死的长期目标，它必须在游戏中遭受�
 
 在交易领域，这个问题可以用多种方式来表述，比如利润最大化、减少提款或投资组合分配。RL 算法将学习最大化长期回报的策略。
 
-<figure class="kg-card kg-image-card kg-width-full">![Amazon-share-price-2015-2019](img/25d5066b9ecc1eb596c9ced5ccb07df3.png)</figure>
+![Amazon-share-price-2015-2019](img/25d5066b9ecc1eb596c9ced5ccb07df3.png)
 
 例如，亚马逊的股价从 2018 年末到 2020 年初几乎持平。我们大多数人会认为均值回归策略在这里会更好。
 
-<figure class="kg-card kg-image-card kg-width-full">![Amazon-share-price-2015-2020](img/36d85a7079c8d934920cf9fc02b033e0.png)</figure>
+![Amazon-share-price-2015-2020](img/36d85a7079c8d934920cf9fc02b033e0.png)
 
 但如果你从 2020 年初开始观察，价格会回升并开始形成趋势。因此，从 2020 年初开始，部署一个均值回复策略会导致亏损。看看前一年的均值回归市场条件，当市场开始形成趋势时，大多数交易者已经退出了市场。
 
@@ -101,7 +101,7 @@ RL 模型需要有意义的信息来采取行动。这个有意义的信息就�
 
 让我们把所有的东西放在一起，看看它是如何工作的。
 
-<figure class="kg-card kg-image-card">![Reinforcement-Learning-Model](img/5be4ea19dd90c523fc6f9d8f57741df9.png)</figure>
+![Reinforcement-Learning-Model](img/5be4ea19dd90c523fc6f9d8f57741df9.png)
 
 ### 第一步:
 

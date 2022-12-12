@@ -14,7 +14,7 @@
 
 ## **关于作者**
 
-<figure class="kg-card kg-image-card">![Vatsin Thaker pic](img/b4f327c8ba6fdfdef47d29e8ea375358.png)</figure>
+![Vatsin Thaker pic](img/b4f327c8ba6fdfdef47d29e8ea375358.png)
 
 [Vatsin Thaker](https://www.linkedin.com/in/vatsin-thaker-09b5a1184/) 将自己描述为一个期待整合金融知识和技术的人。Vatsin 目前在 Vista Intelligence 担任研究主管，在那里他将技术&人工智能与金融界&商业融合在一起。
 
@@ -157,7 +157,7 @@ z 也称为比值比，由下式给出:
 
 ## **主要发现**
 
-<figure class="kg-card kg-image-card kg-width-full">![regression model comparison](img/1a0d0520c8c2aac3279c29c22234a045.png)</figure>
+![regression model comparison](img/1a0d0520c8c2aac3279c29c22234a045.png)
 
 上表总结了使用逻辑回归模型和线性回归模型构建的策略的各种指标。
 

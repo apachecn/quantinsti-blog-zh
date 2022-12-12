@@ -247,11 +247,11 @@ T29】Varun diva kar:是。有许多交易者一直这样做。
 
 您可以点击此处查看本次网络研讨会的 powerpoint 演示文稿:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/e9ujBrSJtPCedz](https://www.slideshare.net/slideshow/embed_code/key/e9ujBrSJtPCedz)
 
-</figure>
+
 
 **[交易中的机器学习 Q & A 作者欧内斯特·陈博士](https://www.slideshare.net/QuantInsti/machine-learning-in-trading-qa-by-dr-ernest-p-chan-149304035)** 来自 **[QuantInsti](https://www.slideshare.net/QuantInsti)** 查看我们所有的 [40+之前的幻灯片演示文稿](https://www.slideshare.net/QuantInsti/presentations)。
 
@@ -259,11 +259,11 @@ T29】Varun diva kar:是。有许多交易者一直这样做。
 
 ## ******网上研讨会录制******
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/m4BFOSaos7M](https://www.youtube.com/embed/m4BFOSaos7M)
 
-</figure>
+
 
 * * *
 

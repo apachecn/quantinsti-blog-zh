@@ -32,6 +32,6 @@
 
 ## **关于演讲者**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/8578f1ba9f0ee3e280303a79be5ee9da.png)</figure>
+![](img/8578f1ba9f0ee3e280303a79be5ee9da.png)
 
 伊桑·沙阿是 quanti nsti Quantra 的助理副总裁，领导该公司的内容和研究团队。在此之前，他曾在巴克莱银行的全球市场团队和美银美林工作。他在金融市场拥有丰富的经验，在不同的资产类别中担任不同的角色。

@@ -166,7 +166,7 @@
 
 ### *期权收益图*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![call-put](img/644a3637187592087dfc033881bf6b73.png)*</figure>
+*![call-put](img/644a3637187592087dfc033881bf6b73.png)*
 
 *在哪里，*
 
@@ -187,13 +187,13 @@ X =执行价格*
 
 *如果你要寻找苹果股票的期权报价，它会是这样的:*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![options-quote](img/7e06c93c701a78c690038db17ae427a0.png)*</figure>
+*![options-quote](img/7e06c93c701a78c690038db17ae427a0.png)*
 
 *记录这段视频时，苹果公司的股价是 196 美元。现在让我们从列表中选取一行，并进一步细分。
 
 **如是***
 
-<figure class="kg-card kg-image-card kg-width-wide">*![options-quote-example](img/7521f298304f590e7be7fb9c6f8c120a.png)*</figure>
+*![options-quote-example](img/7521f298304f590e7be7fb9c6f8c120a.png)*
 
  *在一个典型的期权链中，你会有一个看涨期权和看跌期权的清单，有不同的执行价格和相应的溢价。买入期权的细节在左边，卖出期权的细节在右边，执行价格在中间。*
 
@@ -223,13 +223,13 @@ X =执行价格*
 
 *股票的当前**价格:110 美元。**成交价格**:120 美元***
 
-<figure class="kg-card kg-image-card kg-width-wide">*![case-1](img/8758032c2bd3f234b10f7a5ed79eadd0.png)*</figure>
+*![case-1](img/8758032c2bd3f234b10f7a5ed79eadd0.png)*
 
 ### *****案例二:*****
 
 *股票的当前**价格:120 美元。**成交价格**:110 美元***
 
-<figure class="kg-card kg-image-card kg-width-wide">*![case2](img/180e2adeb6ed037d17412ac70cba4782.png)*</figure>
+*![case2](img/180e2adeb6ed037d17412ac70cba4782.png)*
 
 *考虑到我们已经讨论了每个选项的详细场景，我们将几个选项组合在一起怎么样？让我们来理解许多专业人士在期权交易中使用的一个重要概念。*
 
@@ -257,9 +257,9 @@ X =执行价格*
 
 ***投资组合 B =看跌期权+标的资产***
 
-<figure class="kg-card kg-image-card kg-width-wide">*![portfolio-a](img/c8f549be9940555b09cfe348bd86888b.png)*</figure>
+*![portfolio-a](img/c8f549be9940555b09cfe348bd86888b.png)*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![portfoliob](img/03fe605898fce618424f4e996a34de4f.png)*</figure>
+*![portfoliob](img/03fe605898fce618424f4e996a34de4f.png)*
 
 *如果股价高于 X，看涨期权将被执行。否则，现金将被保留。因此，在“T”时，投资组合 A 的价值将由 max(ST，X)给出。
 
@@ -280,7 +280,7 @@ X =执行价格*
 
 *我们可以总结两个投资组合在不同条件下的收益，如下表所示。*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![portfolio-payoff](img/6f8890b27f6de3aabb7ce5d302d8f1f9.png)*</figure>
+*![portfolio-payoff](img/6f8890b27f6de3aabb7ce5d302d8f1f9.png)*
 
 *从上表中，我们可以看到，在两种情况下，两个投资组合的收益是相等的。*
 
@@ -331,9 +331,9 @@ X =执行价格*
 
 *下面的代码可以用来绘制投资组合的收益。*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![portfolio-payoff-python](img/1daf61ccd3ec6ef4e0829c00b0a1b777.png)*</figure>
+*![portfolio-payoff-python](img/1daf61ccd3ec6ef4e0829c00b0a1b777.png)*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![options-payoff-charts](img/778b8a86e091217d37a380735807945e.png)*</figure>
+*![options-payoff-charts](img/778b8a86e091217d37a380735807945e.png)*
 
 *到目前为止，我们已经学习了期权交易的基础知识，也学习了期权交易策略。在这个节骨眼上，让我们看看期权交易的世界，试着回答一个简单的问题。*
 
@@ -386,7 +386,7 @@ X =执行价格*
 *让我们以一个看涨期权为例来理解这一点:
 我们将创建一个历史价格表，用作样本数据。让我们假设期权将于 3 月 5 日到期，约定的执行价格为 140 美元。*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![delta](img/3538d2b0f215af3d8ee98bf703800a91.png)*</figure>
+*![delta](img/3538d2b0f215af3d8ee98bf703800a91.png)*
 
 *因此，如果我们必须在 3 月 2 日计算期权的 delta，它将是$5/$10 = 0.5。
 
@@ -412,7 +412,7 @@ X =执行价格*
 
 *现在，*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![delta-formula](img/82a1faa8dd0b1a1e312f0404231883c1.png)*</figure>
+*![delta-formula](img/82a1faa8dd0b1a1e312f0404231883c1.png)*
 
 *因此，溢价变化= Delta *股票价格变化= 0.2 * 30 = 6。
 由此，新溢价= $ 15+$ 6 = $ 21
@@ -428,7 +428,7 @@ delta 的变化= Gamma *股价的变化= 0.005 * 30 = 0.15
 
 现在，*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![delta-formula](img/82a1faa8dd0b1a1e312f0404231883c1.png)*</figure>
+*![delta-formula](img/82a1faa8dd0b1a1e312f0404231883c1.png)*
 
 *溢价的变化= Delta * 0.35 * 30 的变化= 10.5 美元
 由此，新溢价= 21 美元+10.5 美元= 31.5 美元
@@ -461,7 +461,7 @@ Delta 的变化= Gamma *股价的变化= 0.005 * 30 = 0.15
 
 *布莱克-斯科尔斯期权定价模型的公式如下:*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![black-scholes-model](img/632f333f295aa8b17c70110fa7785039.png)*</figure>
+*![black-scholes-model](img/632f333f295aa8b17c70110fa7785039.png)*
 
 *在哪里，*
 
@@ -477,23 +477,23 @@ Delta 的变化= Gamma *股价的变化= 0.005 * 30 = 0.15
 
 *d1 和 d2 的公式如下所示:*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![d1-d2](img/34bc7e67f4cf1353e7e0513a6dfafe3c.png)*</figure>
+*![d1-d2](img/34bc7e67f4cf1353e7e0513a6dfafe3c.png)*
 
 *为了计算希腊人的期权，我们使用了布莱克-斯科尔斯期权定价模型。
 
 δ和γ的计算方法为:*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![delta-gamma](img/30031d24e43cf9305428039e4b400e55.png)*</figure>
+*![delta-gamma](img/30031d24e43cf9305428039e4b400e55.png)*
 
 *在下面的例子中，我们使用了 BS 模型的决定因素来计算希腊人的期权。*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![greeks-options](img/b7820049a0b269cbac0e6273ebaef844.png)*</figure>
+*![greeks-options](img/b7820049a0b269cbac0e6273ebaef844.png)*
 
 *在基础价格为 **1615.45** 时，看涨期权的价格为 **21.6332** 。
 
 如果我们将底层的价格提高了 Rs。1，希腊人在期权中的看涨、看跌价格和价值的变化如下所示。*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![greeks-values](img/930927e639117d2c66083438d12520d6.png)*</figure>
+*![greeks-values](img/930927e639117d2c66083438d12520d6.png)*
 
 *正如可以观察到的，第一个表中看涨期权的 Delta 为 **0.5579** 。因此，根据 delta 的定义，当基础价格上涨 1 卢比时，我们可以预计看涨期权的价格大约会上涨该值。看涨期权的新价格为 22.1954，即*
 
@@ -508,9 +508,9 @@ Delta 的变化= Gamma *股价的变化= 0.005 * 30 = 0.15
 
 第三个希腊文，Theta 对看涨期权和看跌期权都有不同的公式。这些内容如下:*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![theta-formula](img/ce87d22ca563db7cca34c4d99f274fc3.png)*</figure>
+*![theta-formula](img/ce87d22ca563db7cca34c4d99f274fc3.png)*
 
-<figure class="kg-card kg-image-card kg-width-wide">*![greeks-options](img/b7820049a0b269cbac0e6273ebaef844.png)*</figure>
+*![greeks-options](img/b7820049a0b269cbac0e6273ebaef844.png)*
 
 *在 LHS 的第一张表上，期权合约还有 30 天到期。我们有一个负的θ值-0.4975，这意味着期权交易者正在与时间赛跑。为了从交易中获利，他必须确定自己的分析，因为时间的流逝会影响他的头寸。这种时间衰减的影响在 RHS 的表格中很明显，其中剩余的到期时间现在是 21 天，其他因素保持不变。*
 
@@ -699,7 +699,7 @@ c.gamma         Returns the option gamma*
 让我们借助一个例子来试着理解这个。
 下表为同一标的股票和同一到期日的可用期权:***
 
-<figure class="kg-card kg-image-card kg-width-wide">***![bull-call](img/cdce460a9086eca2ffbce8240dc8494e.png)***</figure>
+***![bull-call](img/cdce460a9086eca2ffbce8240dc8494e.png)***
 
 ***通常，如果我们做了分析，认为股票可以涨到 200 美元，一种方法是以 15 美元的溢价购买一个执行价格为 180 美元的看涨期权。因此，如果我们是正确的，股票在到期时达到 200 美元，我们以 180 美元的执行价买入，由于我们支付了 15 美元的溢价，因此获得了(20-15 美元)= 5 美元的利润。
 
@@ -711,7 +711,7 @@ c.gamma         Returns the option gamma*
 
 让我们构建一个表格来了解各种场景。***
 
-<figure class="kg-card kg-image-card kg-width-wide">***![bull-call-2](img/b0912e56540df16ab07038263b3cd308.png)***</figure>
+***![bull-call-2](img/b0912e56540df16ab07038263b3cd308.png)***
 
 ***您也可以理解如何实现看涨期权价差，使用 Python 实现它，并查看[看涨期权价差收益图](/bull-call-spread-strategy/)。***
 
@@ -721,13 +721,13 @@ c.gamma         Returns the option gamma*
 
 假设我们看的是同一个到期日的同一只股票的不同行权价。***
 
-<figure class="kg-card kg-image-card kg-width-wide">***![bear-put](img/8b9981fd187ef36660e779f38977f05b.png)***</figure>
+***![bear-put](img/8b9981fd187ef36660e779f38977f05b.png)***
 
 ***一种方法是以 15 美元的溢价买入执行价为 160 美元的看跌期权，同时以 10 美元的执行价卖出执行价为 140 美元的看跌期权。
 
 这样，我们创建一个场景表如下:***
 
-<figure class="kg-card kg-image-card kg-width-wide">***![bear-put-2](img/cd01c10ec0442211b2b1565866156ce6.png)***</figure>
+***![bear-put-2](img/cd01c10ec0442211b2b1565866156ce6.png)***
 
 ***这样，我们可以通过同时买入和卖出期权来最大限度地减少损失。可以查看[熊点差](/bear-spread-options-trading-strategy-in-python)期权交易策略，了解如何用 Python 实现。***
 

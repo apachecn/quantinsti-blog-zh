@@ -27,13 +27,13 @@
 
 ### Thomas Starke 博士(AAAQuants 首席执行官)
 
-<figure class="kg-card kg-image-card">![](img/9f7049809bf4d72f06f5207f75a31ffd.png)</figure>
+![](img/9f7049809bf4d72f06f5207f75a31ffd.png)
 
 Starke 博士拥有物理学博士学位，目前担任澳大利亚领先的自营交易公司 AAAQuants 的首席执行官，领导着该公司的量化交易团队。他还在牛津大学担任高级研究员。
 
 ### rushda an sari(QuantInsti 技术内容经理)
 
-<figure class="kg-card kg-image-card">![](img/6b31762e2e87caa6e1214cba952597e5.png)</figure>
+![](img/6b31762e2e87caa6e1214cba952597e5.png)
 
 Rushda 是 quantin STI Quantra 研究和内容团队的技术内容经理。她的教育背景包括金融管理研究生文凭。此外，在股票交易方面，她也有实践经验。
 

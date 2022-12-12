@@ -16,7 +16,7 @@ Raghav Anand 毕业于商业专业，在进入交易行业之前，他对交易�
 
 嗨！我是 Raghav Anand，来自印度旁遮普的 Ludhiana。我毕业于孟买的纳尔西·蒙吉学院，主修金融市场。
 
-<figure class="kg-card kg-image-card">![](img/32fdaf8d56b68b632677da9e55f3b7ef.png)</figure>
+![](img/32fdaf8d56b68b632677da9e55f3b7ef.png)
 
 我热衷于弹吉他，甚至一度把它当作职业。我喜欢阅读(我一个月能读完 3 本书)，喜欢旅行、徒步旅行和公路旅行。
 

@@ -21,7 +21,7 @@
 
 ### **陈博士(PredictNow.ai Inc .创始人&首席执行官)**
 
-<figure class="kg-card kg-image-card">![Dr. Ernest Chan pic](img/5fb3713f300d441a677f478d7ad5c516.png)</figure>
+![Dr. Ernest Chan pic](img/5fb3713f300d441a677f478d7ad5c516.png)
 
 陈博士是 PredictNow.ai Inc .的创始人兼首席执行官，也是 QTS 资本管理有限公司的管理成员。自 1997 年以来，他曾在多家投资银行(摩根士丹利、瑞士瑞信银行、Maple)和对冲基金(Mapleridge、Millennium Partners、MANE)工作。
 

@@ -8,7 +8,7 @@
 
 ## **关于作者**
 
-<figure class="kg-card kg-image-card">![](img/a3eba0c6a21632c5a454704f1e312d17.png)</figure>
+![](img/a3eba0c6a21632c5a454704f1e312d17.png)
 
 [Chandrashekhar Satoskar](https://www.linkedin.com/in/chandrashekhar-satoskar-57a37285/) 是 Religare Securities Ltd .的套利交易员。他拥有孟买大学的商业学士学位，并在 Vinayaka Mission 的研究基金会完成了工商管理硕士学位(M.B.A .)。他目前是 Westbury Tradecom 有限公司的黄金、股票&衍生品交易员。
 

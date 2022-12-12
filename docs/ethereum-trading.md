@@ -53,11 +53,11 @@
 
 ## 以太坊简史
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![History of Ethereum](img/af766eae8beec352d5b8940de5ad2abc.png)
+![History of Ethereum](img/af766eae8beec352d5b8940de5ad2abc.png)
 
-<figcaption>[Source](https://3commas.io/blog/wp-content/uploads/2020/08/0_H8uF9FXzLg0u6xG6.png)</figcaption>
+[Source](https://3commas.io/blog/wp-content/uploads/2020/08/0_H8uF9FXzLg0u6xG6.png)
 
-</figure>
+
 
 2011 年，17 岁的俄裔加拿大少年维塔利克·布特林(Vitalik Buterin)发现自己对比特币非常感兴趣。他对比特币如此着迷，以至于创办了《比特币杂志》，并积极开始为其写作。
 
@@ -67,11 +67,11 @@
 
 2014 年 4 月 1 日，当时以太坊项目的 CTO Gavin Wood 发布了以太坊[黄皮书](https://web.archive.org/web/20140410013339/http://gavwood.com/Paper.pdf)。创始人在 2014 年 7 月 22 日至 9 月 2 日期间发起了一场众筹活动，他们出售以太(以太币)以换取比特币，并筹集了超过 1800 万美元。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Ethereum ICO](img/fb53ead2be4bfaf1b7f7225f61ddeb68.png)
+![Ethereum ICO](img/fb53ead2be4bfaf1b7f7225f61ddeb68.png)
 
-<figcaption>[Source](https://3commas.io/blog/wp-content/uploads/2020/08/0_1sEfdHWifKE2XjHx.png)</figcaption>
+[Source](https://3commas.io/blog/wp-content/uploads/2020/08/0_1sEfdHWifKE2XjHx.png)
 
-</figure>
+
 
 以太坊于 2015 年 7 月上线，这是其第一个名为 Frontier 的现场发布。
 
@@ -97,11 +97,11 @@
 
 在以太坊上，Solidity 通常用于智能合约的编码。支持智能合约编码的其他流行语言有 [Vyper](https://vyper.readthedocs.io/en/stable/index.html) 、 [Yul](https://docs.soliditylang.org/en/v0.8.10/yul.html) 和 [DAML](https://daml.com/) 。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Smart Contracts](img/4b6d6c98fa5095e3fcf090e95de69656.png)
+![Smart Contracts](img/4b6d6c98fa5095e3fcf090e95de69656.png)
 
-<figcaption>[Source](https://101blockchains.com/wp-content/uploads/2020/08/what-is-a-smart-contract-1-2048x2048.png)</figcaption>
+[Source](https://101blockchains.com/wp-content/uploads/2020/08/what-is-a-smart-contract-1-2048x2048.png)
 
-</figure>
+
 
 ### 以太坊虚拟机
 
@@ -119,11 +119,11 @@ Solidity 编译器将代码编译成 EVM 字节码和 ABI(应用二进制接口)
 
 除了以太坊，Solidity 在其他平台也有[以太坊经典](https://ethereumclassic.org/)、[币安](https://www.binance.com/)连锁、[雪崩](https://www.avax.network/)、 [Tron](https://tron.network/) 等。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Smart Contracts on EVM](img/c0348a6e8dd391a765b5169e094d2949.png)
+![Smart Contracts on EVM](img/c0348a6e8dd391a765b5169e094d2949.png)
 
-<figcaption>[Source](https://hackernoon.com/hn-images/1*Sz1a7G2pQ62UnkHoieve4w.jpeg)</figcaption>
+[Source](https://hackernoon.com/hn-images/1*Sz1a7G2pQ62UnkHoieve4w.jpeg)
 
-</figure>
+
 
 ### 气体
 
@@ -133,11 +133,11 @@ Solidity 编译器将代码编译成 EVM 字节码和 ABI(应用二进制接口)
 
 天然气价格以 gwei 表示。在这里，g 代表“气体”，而“微”指的是引入 b 货币概念的。1 ETH 等于 1，000，000，000 gwei。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Gas prices this week](img/ea67da5736015eabb8c87fa1364a3e98.png)
+![Gas prices this week](img/ea67da5736015eabb8c87fa1364a3e98.png)
 
-<figcaption>[Source](https://ethereumprice.org/gas/)</figcaption>
+[Source](https://ethereumprice.org/gas/)
 
-</figure>
+
 
 以太坊因其[高昂的燃气费](https://coinmarketcap.com/alexandria/article/ethereum-faces-fresh-attacks-for-high-gas-fees)而面临[批评](https://www.fool.com/investing/2021/12/15/gas-fees-are-ethereums-kryptonite/)。不符合矿工门槛的交易可能会被延迟或干脆拒绝。有时费用会涨到 100 美元！用户可能需要利用来自各个[站点](http://gasnow.org)的数据，在汽油费较低的时候为他们的交易计时。这对于寻找更便宜和更有效的选择的用户来说是令人沮丧的。
 
@@ -159,11 +159,11 @@ Solidity 编译器将代码编译成 EVM 字节码和 ABI(应用二进制接口)
 
 这些年来，web 的面貌从前端使用静态脚本的 Web 1.0 转变为前端使用动态脚本的 Web 2.0，从而带来了更好的用户交互。现在我们在区块链上有了后端的 **Web 3.0** ，真正革新了应用程序的结构。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![The Evolution of the Web](img/5770f49d1b1b70a48c57221be32b703a.png)
+![The Evolution of the Web](img/5770f49d1b1b70a48c57221be32b703a.png)
 
-<figcaption>[Source](https://miro.medium.com/max/2000/1*tsGHBQcFD6GzgprvV4a01A.jpeg)</figcaption>
+[Source](https://miro.medium.com/max/2000/1*tsGHBQcFD6GzgprvV4a01A.jpeg)
 
-</figure>
+
 
 当您登录到一个常规应用程序时，数据是通过一个 API 从数据库中获取的。类似地，当您登录到 dapp 时，将通过智能合约接口从区块链获取数据。一些著名的 dapps 例子有:
 
@@ -173,11 +173,11 @@ Solidity 编译器将代码编译成 EVM 字节码和 ABI(应用二进制接口)
 *   [Cryptokitties](https://www.cryptokitties.co/) (一款游戏)
 *   Ethlance (首个完全在以太坊区块链运营的就业市场平台)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Real life examples of Dapps](img/0bc077a3b4e3e319f08d0321cc2ff2b9.png)
+![Real life examples of Dapps](img/0bc077a3b4e3e319f08d0321cc2ff2b9.png)
 
-<figcaption>[Source](https://appinventiv.com/wp-content/uploads/sites/1/2019/10/Web-3.0-dapps-Real-Life-Examples-1.png)</figcaption>
+[Source](https://appinventiv.com/wp-content/uploads/sites/1/2019/10/Web-3.0-dapps-Real-Life-Examples-1.png)
 
-</figure>
+
 
 ### 分散的自治组织
 
@@ -243,10 +243,9 @@ PoW 是高度安全的，激励采矿节点，并分散网络。
 
 目前，比特币只能使用 ASICs(专用集成电路)进行挖掘，挖掘过程消耗大量能量。
 
-<figure class="kg-card kg-embed-card">
+
 
 > 明确地说，我非常相信加密，但是它不能推动化石燃料使用的大规模增长，尤其是煤
 > 
 > — Elon Musk (@elonmusk) [May 13, 2021](https://twitter.com/elonmusk/status/1392950720979030019?ref_src=twsrc%5Etfw)
 
-</figure>

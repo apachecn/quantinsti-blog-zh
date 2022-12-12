@@ -206,11 +206,11 @@ API 调用向系统提供输入，以访问我们需要的数据。每个系统�
 
 以下是“帐户设置”部分的外观:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![generating a free API key by creating an account on Nasdaq Data Link](img/d0a802174976d279b6095cbe105ad516.png)
+![generating a free API key by creating an account on Nasdaq Data Link](img/d0a802174976d279b6095cbe105ad516.png)
 
-<figcaption>Generating a free API key by creating an account on Nasdaq Data Link</figcaption>
+Generating a free API key by creating an account on Nasdaq Data Link
 
-</figure>
+
 
 ### 如何用 Python 安装 Quandl 包？
 
@@ -246,11 +246,11 @@ tsla = quandl.get('WIKI/TSLA', start_date = "2010-06-29", end_date = "2018-03-27
 
 下面是输出的样子:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![output for tsla stock](img/f48cab9e192a7c4ae7d6f2ae6992c055.png)
+![output for tsla stock](img/f48cab9e192a7c4ae7d6f2ae6992c055.png)
 
-<figcaption>Output for TSLA stock</figcaption>
+Output for TSLA stock
 
-</figure>
+
 
 让我们绘制一个[时间序列](https://quantra.quantinsti.com/course/financial-time-series-analysis-trading)图，看看价格是如何随时间变化的。
 
@@ -264,11 +264,11 @@ fig.set_ylabel("Price", size=18)
 
 下面是输出的样子:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![graph for the close price of tesla](img/8bec7b4afd8e229a9c3b8dd08aeaf348.png)
+![graph for the close price of tesla](img/8bec7b4afd8e229a9c3b8dd08aeaf348.png)
 
-<figcaption>graph for the close price of Tesla</figcaption>
+graph for the close price of Tesla
 
-</figure>
+
 
 我们可以将数据按周、月、季等分类。，使用折叠参数。
 
@@ -291,11 +291,11 @@ quandl.get('LBMA/SILVER', start_date='2011-09-06', end_date='2021-09-08')
 
 下面是输出的样子:
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![data output for silver markets from london bullion market association](img/25b67b1ffba4ff74ce0c32048ea3d766.png)
+![data output for silver markets from london bullion market association](img/25b67b1ffba4ff74ce0c32048ea3d766.png)
 
-<figcaption>Data output for Silver markets from London Bullion Market Association</figcaption>
+Data output for Silver markets from London Bullion Market Association
 
-</figure>
+
 
 **美国核心基本面数据-高级订阅数据集样本**
 
@@ -309,11 +309,11 @@ quandl.get_table('SHARADAR/DAILY', ticker='TSLA')
 
 下面是输出的样子:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![fundamental data for Tesla stock](img/ca674f4e810fb1db0a243994c7912fa8.png)
+![fundamental data for Tesla stock](img/ca674f4e810fb1db0a243994c7912fa8.png)
 
-<figcaption>Fundamental data for Tesla stock</figcaption>
+Fundamental data for Tesla stock
 
-</figure>
+
 
 * * *
 

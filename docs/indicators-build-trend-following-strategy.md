@@ -28,11 +28,11 @@
 
 让我们以亚马逊的股票作为趋势跟踪策略的例子。在下图中，我标记了两条蓝色的线，亚马逊的价格呈现两种趋势，即上升趋势和下降趋势。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Amazon](img/b8e396453827fa6474b050c45fdae37a.png)
+![Amazon](img/b8e396453827fa6474b050c45fdae37a.png)
 
-<figcaption>Amazon</figcaption>
+Amazon
 
-</figure>
+
 
 你可以在图中清楚地看到，在 2020 年，大约在 5 月份，亚马逊的股价持续上涨，甚至大部分时间都处于上涨趋势。
 

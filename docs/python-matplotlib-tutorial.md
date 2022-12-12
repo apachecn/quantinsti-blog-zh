@@ -49,7 +49,7 @@ Python Matplotlib 允许创建各种各样的绘图和图形。Matplotlib 是一
 
 ```py
 fig = plt.figure()
-<Figure size 432x288 with 0 Axes>
+
 
 ```
 
@@ -64,7 +64,7 @@ plt.show()
 
 ```py
 fig = plt.figure(figsize=(8, 4))
-<Figure size 576x288 with 0 Axes>
+
 plt.show()
 
 ```

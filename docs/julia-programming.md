@@ -49,21 +49,21 @@ Julia 声称通过结合两个世界的优点来解决这一挑战，即速度�
 
 正如我们所见，Julia 在大多数操作中最接近 C，在某些情况下落后于 LuaJIT 和 Rust。它比 Python 或 r 要快得多。关于这个基准测试的更多细节可以在[这里](https://julialang.org/benchmarks/)找到。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Julia benchmarks](img/f595307abb94251ccaab92261e7d80a4.png)
+![Julia benchmarks](img/f595307abb94251ccaab92261e7d80a4.png)
 
-<figcaption>Source: [https://julialang.org/benchmarks/](https://julialang.org/benchmarks/)</figcaption>
+Source: [https://julialang.org/benchmarks/](https://julialang.org/benchmarks/)
 
-</figure>
+
 
 ### 大型数据集上的多重操作
 
 下图比较了各种包中的`groupby`函数的任务。下图中的“查询 1”是执行的测试之一，DF.jl(一个 Julia 包)被证明是最快的。还有许多其他的查询在[这里执行](https://h2oai.github.io/db-benchmark/)。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Github Julia benchmark](img/efd2d18a462564b1a3536b7912c6f77a.png)
+![Github Julia benchmark](img/efd2d18a462564b1a3536b7912c6f77a.png)
 
-<figcaption>Source: [https://h2oai.github.io/db-benchmark/](https://h2oai.github.io/db-benchmark/)</figcaption>
+Source: [https://h2oai.github.io/db-benchmark/](https://h2oai.github.io/db-benchmark/)
 
-</figure>
+
 
 对于查询 1:“sum v1 by Id1”:100 组大约 10，000，000 行，Python (pandas 包)和 R (dplyr 包)分别导致内部错误和内存不足错误，而 Julia 第一次用了 2.4 秒，第二次用了 1.8 秒。
 
@@ -85,21 +85,21 @@ Julia 声称通过结合两个世界的优点来解决这一挑战，即速度�
 
 *   tar -xvzf "下载文件名称"
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![install julia linux](img/3d8af9cb99256d939213d00c9f9696ef.png)
+![install julia linux](img/3d8af9cb99256d939213d00c9f9696ef.png)
 
-<figcaption>Installing Julia on Linux</figcaption>
+Installing Julia on Linux
 
-</figure>
+
 
 *   sudo cp -r julia-1.6.3 /opt/
 *   sudo ln-s/opt/Julia-1 . 6 . 3/bin/Julia/usr/local/bin/Julia
 *   打开终端，键入“julia”:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![install julia linux 2](img/b022957bc8e6ef7d37ed2c3f00a7c5cb.png)
+![install julia linux 2](img/b022957bc8e6ef7d37ed2c3f00a7c5cb.png)
 
-<figcaption>Installing Julia on Linux</figcaption>
+Installing Julia on Linux
 
-</figure>
+
 
 **在 Mac 上安装 Julia:**
 
@@ -107,44 +107,44 @@ Julia 声称通过结合两个世界的优点来解决这一挑战，即速度�
 *   将 Julia 文件移动到应用程序文件夹
 *   点击朱莉娅图标。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![install julia mac](img/c7d05534fbbc2e32e4c7171c99739caa.png)
+![install julia mac](img/c7d05534fbbc2e32e4c7171c99739caa.png)
 
-<figcaption>Installing Julia on Mac</figcaption>
+Installing Julia on Mac
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![install julia mac 2](img/421ec903b769659e22e8c58b4299d250.png)
 
-<figcaption>Installing Julia on Mac</figcaption>
+![install julia mac 2](img/421ec903b769659e22e8c58b4299d250.png)
 
-</figure>
+Installing Julia on Mac
+
+
 
 **在 Windows 上安装 Julia:**
 
 *   运行下载的。exe 文件
 *   选择安装目录
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![install julia windows](img/a7ff8d961e236ce9a4da40da2d58d7c3.png)
+![install julia windows](img/a7ff8d961e236ce9a4da40da2d58d7c3.png)
 
-<figcaption>Installing Julia on Windows</figcaption>
+Installing Julia on Windows
 
-</figure>
+
 
 选中“将 Julia 添加到路径”复选框
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![add julia to path windows](img/cc5901dba79749a0a3b614a4213724da.png)
+![add julia to path windows](img/cc5901dba79749a0a3b614a4213724da.png)
 
-<figcaption>Add Julia to path Windows</figcaption>
+Add Julia to path Windows
 
-</figure>
+
 
 选中“运行朱莉娅”复选框
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![run julia on windows](img/8f8901506000087a076978bd54e5cbbf.png)
+![run julia on windows](img/8f8901506000087a076978bd54e5cbbf.png)
 
-<figcaption>Run Julia on Windows</figcaption>
+Run Julia on Windows
 
-</figure>
+
 
 现在，一个 Julia 窗口已经打开，您可以在 Julia 中编写代码了！
 
@@ -157,11 +157,11 @@ Julia 声称通过结合两个世界的优点来解决这一挑战，即速度�
 1.  使用 Pkg
 2.  Pkg.add("IJulia ")
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![run julia jupyter notebook](img/645f787da2836c1f448f6ec4b5c997c2.png)
+![run julia jupyter notebook](img/645f787da2836c1f448f6ec4b5c997c2.png)
 
-<figcaption>Run Julia in Jupyter Notebook</figcaption>
+Run Julia in Jupyter Notebook
 
-</figure>
+
 
 Julia 现已添加到您的 Jupyter 笔记本中。
 
@@ -170,11 +170,11 @@ Julia 现已添加到您的 Jupyter 笔记本中。
 3.  从下拉菜单中选择“Julia 1.6.3”。
 4.  您现在已经准备好使用 Jupyter Notebook 在 Julia 中编写代码了！
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![julia using jupyter notebook](img/915ef6b793197f72c37277aaf36650fa.png)
+![julia using jupyter notebook](img/915ef6b793197f72c37277aaf36650fa.png)
 
-<figcaption>Code Julia using Jupyter Notebook</figcaption>
+Code Julia using Jupyter Notebook
 
-</figure>
+
 
 * * *
 
@@ -192,11 +192,11 @@ Julia 现已添加到您的 Jupyter 笔记本中。
 
 比如——下面截图是添加包“CSV.jl”的例子，用来读”。csv”文件。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![add package julia](img/884c4948a61547d9c93c20a36197c191.png)
+![add package julia](img/884c4948a61547d9c93c20a36197c191.png)
 
-<figcaption>Adding Package in Julia</figcaption>
+Adding Package in Julia
 
-</figure>
+
 
 * * *
 

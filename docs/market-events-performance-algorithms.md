@@ -25,11 +25,11 @@
 
 *   黑天鹅(Black Swan)——这样的事件是不可预测的，会突然发生。它通常会对金融市场产生负面影响。例如，2007 年至 2008 年的金融危机是一场不可预测的事件，导致全球金融市场承受了极大的压力。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![black swan cboe vix volatility index](img/803caf116b131a78d8e9ebc9c44f6ac1.png)
+![black swan cboe vix volatility index](img/803caf116b131a78d8e9ebc9c44f6ac1.png)
 
-<figcaption>Black Swan - CBOE's VIX Volatility Index</figcaption>
+Black Swan - CBOE's VIX Volatility Index
 
-</figure>
+
 
 在上图中，你可以看到 [VIX](/exchange-traded-funds/#what-is-vix-and-how-does-it-help) 波动率指数显示了过去震动金融市场的各种黑天鹅事件。VIX 或波动率指数基本上是一种衡量市场波动的指标，因此也被称为“恐惧指数”。
 

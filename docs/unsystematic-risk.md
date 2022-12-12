@@ -47,11 +47,11 @@
 
 下面，你可以看到解释非系统性风险的图表。
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![unsystematic risk explained](img/2af66b032a532de3df7958de76c775bc.png)
+![unsystematic risk explained](img/2af66b032a532de3df7958de76c775bc.png)
 
-<figcaption>Source: [CFI](https://corporatefinanceinstitute.com/resources/knowledge/finance/systematic-risk/)</figcaption>
+Source: [CFI](https://corporatefinanceinstitute.com/resources/knowledge/finance/systematic-risk/)
 
-</figure>
+
 
 在图表中，我们在 y 轴上表示总投资组合风险，在 x 轴上表示股票数量。
 
@@ -82,7 +82,7 @@
 
 在下面你可以看到一个详细的计算方法，在你的投资组合中分解投资和回报:
 
-<figure class="kg-card kg-image-card kg-width-wide">![unsystematic risk breakdown example](img/8da68d69cca81f4a20319955acb8a9e7.png)</figure>
+![unsystematic risk breakdown example](img/8da68d69cca81f4a20319955acb8a9e7.png)
 
 当你试图找出哪些股票表现良好时，你就会知道，如果你只投资于花旗银行(Citibank)和伯克希尔哈撒韦(Berkshire Hathaway)这样的金融服务行业，回报率会低得多。
 

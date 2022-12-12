@@ -39,7 +39,7 @@
 
 克里斯特斯·Gklinavos(独立软件开发者和机器人教育家)
 
-<figure class="kg-card kg-image-card">![](img/5695e2bdd304d161330892bf5ecf6c57.png)</figure>
+![](img/5695e2bdd304d161330892bf5ecf6c57.png)
 
 克里斯特斯·克兰沃斯是人工智能、机器人、无人机和金融科技的爱好者。他学习经济学、工商管理和信息学。他拥有 ICT 理学硕士学位，以及 Udacity、Kaggle 和 Google 在编程和机器学习方面的多项认证。2019 年 7 月，他因成功完成 QuantInsti Ltd.
 
@@ -47,6 +47,6 @@
 
 **马蒂·卡斯塔尼**(创始人&投资组合经理)
 
-<figure class="kg-card kg-image-card">![](img/d1d7f46f9df8104aa09d6dc75100d653.png)</figure>
+![](img/d1d7f46f9df8104aa09d6dc75100d653.png)
 
 Marti 是一名定量研究员，专注于开发中低频系统交易模型。他的经验包括衍生品定价和交易、场外流动性基础设施以及买卖双方的咨询服务。他也是 KomaLogic 的创始人和投资组合经理，koma logic 是一家专有的系统交易公司。

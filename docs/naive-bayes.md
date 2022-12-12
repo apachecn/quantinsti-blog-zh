@@ -109,7 +109,7 @@ python 的伟大之处在于 sklearn 库包含了所有这些模型。我们可�
 
 在开始编写代码之前，我们将首先尝试理解我们练习的逻辑。我们将使用从雅虎财经导入的苹果价格数据，我们的数据集是从 2010 年 8 月 1 日到 2019 年 1 月 1 日。
 
-<figure class="kg-card kg-image-card kg-width-full">![Apple Price Graph](img/08a4fc8c8b8f8eac19d23305ef2c9b0f.png)</figure>
+![Apple Price Graph](img/08a4fc8c8b8f8eac19d23305ef2c9b0f.png)
 
 此外，我们将使用两个特性。
 

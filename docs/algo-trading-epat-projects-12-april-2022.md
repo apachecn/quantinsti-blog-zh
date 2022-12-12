@@ -44,7 +44,7 @@
 
 ### Luiz Guedes 博士(巴西奥卡姆定量分析主管)
 
-<figure class="kg-card kg-image-card">![Dr Luiz Guedes pic](img/b8821df039b638f7b4e7aaf9416faa91.png)</figure>
+![Dr Luiz Guedes pic](img/b8821df039b638f7b4e7aaf9416faa91.png)
 
 Luiz Guedes 博士在软件开发领域拥有 30 多年的经验，尤其是在支付卡行业。此外，他还是 IME 军事学院的教员，教授编译器和编程语言。
 
@@ -56,7 +56,7 @@ Guedes 博士拥有 PUC/里约热内卢天主教大学计算机科学博士学�
 
 ### 西达尔特·巴蒂亚(阿联酋第三集团 FZ 有限责任公司执行董事)
 
-<figure class="kg-card kg-image-card">![Siddharth Bhatia pic](img/817023c8b05f53e6af499a5002e6d4ac.png)</figure>
+![Siddharth Bhatia pic](img/817023c8b05f53e6af499a5002e6d4ac.png)
 
 西达尔特自 2006 年以来一直在孟买工作，目前在迪拜工作，自 2011 年以来拥有具体的交易经验。他最初是一家活跃在美国和欧盟债券期货市场的阿联酋本地自营公司的交易员，拥有交易期货的经验。
 

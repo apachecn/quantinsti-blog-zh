@@ -146,11 +146,11 @@ Edelweiss Capital、India Infoline 和 Motilal Oswal Securities 等公司向证�
 *   逻辑和推理
 *   计量经济学
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Skills for quants](img/e766357721c1364804781c9a64c8b278.png)
+![Skills for quants](img/e766357721c1364804781c9a64c8b278.png)
 
-<figcaption>Skills for quants</figcaption>
+Skills for quants
 
-</figure>
+
 
 向前看，让我们找出可靠的资源来学习算法交易。
 
@@ -291,11 +291,11 @@ Edelweiss Capital、India Infoline 和 Motilal Oswal Securities 等公司向证�
 
 看看下面的列表。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![List of US stocks available for trading](img/5860b08980bd97dfb06c7611097a92a0.png)
+![List of US stocks available for trading](img/5860b08980bd97dfb06c7611097a92a0.png)
 
-<figcaption>List of US stocks available for trading</figcaption>
+List of US stocks available for trading
 
-</figure>
+
 
 我们整理了一些最受欢迎的由专家撰写的关于算法交易的博客。
 

@@ -56,7 +56,7 @@
 
 普通期权和特殊期权的划分如下。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/a44df3516bf595bf56842369ca47263b.png)</figure>
+![](img/a44df3516bf595bf56842369ca47263b.png)
 
 ### 普通选项
 

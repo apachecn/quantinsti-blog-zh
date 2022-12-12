@@ -19,7 +19,7 @@ Vilvamoorthy 本人是一名散户交易者，他对各种编程语言有着丰�
 
 ## 嗨，给我们介绍一下你自己吧！
 
-<figure class="kg-card kg-image-card">![epat alumnus vilvamoorthy tamildoss](img/7597f2c547edbeb0fec2cad5197994a9.png)</figure>
+![epat alumnus vilvamoorthy tamildoss](img/7597f2c547edbeb0fec2cad5197994a9.png)
 
 我是来自本地治里的电气工程师。在我的职业生涯中，我参与过多个项目，扮演过不同的角色。我在 IT 行业工作了 14 年，经历了产品生命周期的所有阶段，从编码、测试到部署。我喜欢踢足球。
 

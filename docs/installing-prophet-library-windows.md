@@ -44,11 +44,11 @@ Prophet 安装可能比较棘手，主要是因为以下三个原因:
 
 在继续之前，我们将首先检查系统上安装的 Python 版本。我们在 Anaconda 提示符下运行 below 命令，如下所示。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Check Python version](img/ccc82e2d55286f54205c91736741b008.png)
+![Check Python version](img/ccc82e2d55286f54205c91736741b008.png)
 
-<figcaption>Check Python version</figcaption>
+Check Python version
 
-</figure>
+
 
 如果您有 Python 3.6 或更高版本，就可以开始了。
 
@@ -58,19 +58,19 @@ Prophet 安装可能比较棘手，主要是因为以下三个原因:
 conda create -n prophet39 python=3.9
 ```
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Create a new environment for Prophet](img/de70fea4e3e6c9da7b3c4660af7d6e93.png)
+![Create a new environment for Prophet](img/de70fea4e3e6c9da7b3c4660af7d6e93.png)
 
-<figcaption>Create a new environment for Prophet</figcaption>
+Create a new environment for Prophet
 
-</figure>
+
 
 当 conda 提示我们是否继续时，我们输入' ***y*** '。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Create a new environment for Prophet](img/84838ce0665982343a8cd83cd1a3ad78.png)
+![Create a new environment for Prophet](img/84838ce0665982343a8cd83cd1a3ad78.png)
 
-<figcaption>Create a new environment for Prophet</figcaption>
+Create a new environment for Prophet
 
-</figure>
+
 
 完成后，我们使用以下命令激活这个 prophet39 环境:
 
@@ -78,11 +78,11 @@ conda create -n prophet39 python=3.9
 conda activate prophet39
 ```
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Activate the environment](img/d0c56c06d1839e6a782ed83c2278bec7.png)
+![Activate the environment](img/d0c56c06d1839e6a782ed83c2278bec7.png)
 
-<figcaption>Activate the environment</figcaption>
+Activate the environment
 
-</figure>
+
 
 正如你所看到的，我们现在处于预言的环境中。现在，我们可以继续安装了。
 
@@ -102,11 +102,11 @@ conda activate prophet39
 conda install -c conda-forge prophet
 ```
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Conda installation for Prophet](img/64a9568456b978da1af861ee68083910.png)
+![Conda installation for Prophet](img/64a9568456b978da1af861ee68083910.png)
 
-<figcaption>Conda installation for Prophet</figcaption>
+Conda installation for Prophet
 
-</figure>
+
 
 在大多数情况下，这将在您的系统上成功安装 Prophet。如果这对你有用，你可以跳过博客的其余部分。
 
@@ -128,11 +128,11 @@ conda install -c conda-forge prophet
 conda install libpython m2w64-toolchain -c msys2
 ```
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Install Pystan dependencies](img/dbe01bd3260fdc7b9248f3aae269fc3d.png)
+![Install Pystan dependencies](img/dbe01bd3260fdc7b9248f3aae269fc3d.png)
 
-<figcaption>Install Pystan dependencies</figcaption>
+Install Pystan dependencies
 
-</figure>
+
 
 我们需要安装 Cython 和 Numpy。
 
@@ -146,11 +146,11 @@ conda install cython numpy
 conda install numpy cython -c conda-forge
 ```
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Install Cython and Numpy](img/989ecaed9c77642834f02dc0a04c6a2b.png)
+![Install Cython and Numpy](img/989ecaed9c77642834f02dc0a04c6a2b.png)
 
-<figcaption>Install Cython and Numpy</figcaption>
+Install Cython and Numpy
 
-</figure>
+
 
 现在，我们安装一些其他可选的依赖项，这将有助于我们的安装顺利进行。
 
@@ -158,11 +158,11 @@ conda install numpy cython -c conda-forge
 conda install matplotlib scipy pandas -c conda-forge
 ```
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Install Matplotlib, Scipy and Pandas](img/f198676ab250c24dfdcc5c82d17c6c0c.png)
+![Install Matplotlib, Scipy and Pandas](img/f198676ab250c24dfdcc5c82d17c6c0c.png)
 
-<figcaption>Install Matplotlib, Scipy and Pandas</figcaption>
+Install Matplotlib, Scipy and Pandas
 
-</figure>
+
 
 由于 Pystan 在 pip 上可用，我们建议使用 pip 来安装它，如下所示:
 
@@ -170,11 +170,11 @@ conda install matplotlib scipy pandas -c conda-forge
 pip install pystan
 ```
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/309f01045d95ece41e38f49cf3bb4057.png)
+![](img/309f01045d95ece41e38f49cf3bb4057.png)
 
-<figcaption>Install Pystan</figcaption>
+Install Pystan
 
-</figure>
+
 
 或者，我们可以使用 conda 安装它:
 
@@ -192,11 +192,11 @@ conda install pystan -c conda-forge
 pip install prophet
 ```
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Install Prophet](img/3a95d009b3db90d414e559213bf4fd85.png)
+![Install Prophet](img/3a95d009b3db90d414e559213bf4fd85.png)
 
-<figcaption>Install Prophet</figcaption>
+Install Prophet
 
-</figure>
+
 
 * * *
 

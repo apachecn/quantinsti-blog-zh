@@ -35,7 +35,7 @@
 
 ## **扬声器**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/ac6b06e41f9a948ec1dfdf6da8151fdd.png)</figure>
+![](img/ac6b06e41f9a948ec1dfdf6da8151fdd.png)
 
 * * *
 

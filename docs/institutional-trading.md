@@ -62,11 +62,11 @@
 
 ## 机构交易的独特之处是什么？
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Institutional trading](img/4d3bc30bb45c3da230c5049e5d4e02a2.png)
+![Institutional trading](img/4d3bc30bb45c3da230c5049e5d4e02a2.png)
 
-<figcaption>Institutional trading is unique</figcaption>
+Institutional trading is unique
 
-</figure>
+
 
 * * *
 

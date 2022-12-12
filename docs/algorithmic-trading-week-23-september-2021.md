@@ -22,13 +22,13 @@
 
 ### 伊桑·沙阿(AVP，QuantInsti 的内容与研究)
 
-<figure class="kg-card kg-image-card">![Ishan Shah pic](img/8e9f3adbd9a8683c96eb4ea73e4c9ec4.png)</figure>
+![Ishan Shah pic](img/8e9f3adbd9a8683c96eb4ea73e4c9ec4.png)
 
 伊桑·沙阿是 AVP，领导 QuantInsti 公司 Quantra 的内容和研究团队。在此之前，他曾在巴克莱全球市场团队和美国银行 Merill Lynch 工作。他在金融市场拥有丰富的经验，在不同的资产类别中担任不同的角色。
 
 ### **Nitesh Khan delwal(QuantInsti 联合创始人&首席执行官)**
 
-<figure class="kg-card kg-image-card">![Nitesh Khandelwal pic](img/48af2cf4ba8551849e7d539ec9e2b09d.png)</figure>
+![Nitesh Khandelwal pic](img/48af2cf4ba8551849e7d539ec9e2b09d.png)
 
 Nitesh 在财政部的银行部门开始了他的职业生涯。在一家自营交易公司短暂担任领导后，他于 2009 年与人共同创立了 iRage。作为 iRage 的业务主管，iRage 成为了印度算法交易领域的领军人物之一。
 
@@ -38,7 +38,7 @@ Nitesh 拥有 IIT 坎普尔的电气工程学位和 IIM 勒克瑙的管理研究
 
 ### prodipta Ghosh**(QuantInsti 副总裁)**
 
-<figure class="kg-card kg-image-card">![Prodipta Ghosh pic](img/a822442e9029cc0fc147a4dcffed021e.png)</figure>
+![Prodipta Ghosh pic](img/a822442e9029cc0fc147a4dcffed021e.png)
 
 Prodipta 领导 QuantInsti 的 Fin-tech 产品和平台开发。
 
@@ -48,7 +48,7 @@ Prodipta 领导 QuantInsti 的 Fin-tech 产品和平台开发。
 
 ### Rajib Ranjan Borah **(首席执行官&总监，iRage &联合创始人，QuantInsti)**
 
-<figure class="kg-card kg-image-card">![Rajib Ranjan Borah pic](img/39a8c614c95ccdfffed7f4af2be997f5.png)</figure>
+![Rajib Ranjan Borah pic](img/39a8c614c95ccdfffed7f4af2be997f5.png)
 
 在 iRage，他领导衍生品业务，并与交易所、金融和教育机构合作设计教育项目。他在美国、欧洲和亚洲举办过研讨会。他在美国、欧洲和亚洲举办过研讨会，并且是全球领先的商学院之一 IIM 商学院旗舰 MBA 项目财务会计系的客座教授。
 
@@ -56,7 +56,7 @@ Prodipta 领导 QuantInsti 的 Fin-tech 产品和平台开发。
 
 ### vivek Krishnamoorthy**(QuantInsti 的内容&研究负责人)**
 
-<figure class="kg-card kg-image-card">![Vivek Krishnamoorthy pic](img/ecb4cb0643d8965c914d4c61e2a6c3ef.png)</figure>
+![Vivek Krishnamoorthy pic](img/ecb4cb0643d8965c914d4c61e2a6c3ef.png)
 
 Vivek 教授参与者数据分析，使用 Python 构建量化策略和时间序列分析。他在印度、新加坡和加拿大的工业、学术和研究领域拥有超过 15 年的经验。
 

@@ -49,21 +49,21 @@ lambda 函数也称为匿名函数或内联函数，是计算表达式的一行 
 
 Lambda 用于构造 python 函数；它是一个内联函数，不像传统的 def 函数允许分块构造。让我们比较一下传统函数构造的语法和 lambda 函数的语法，以便弄清楚。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Conventional vs lambda function](img/80504b05068494b52918610df85feff7.png)
+![Conventional vs lambda function](img/80504b05068494b52918610df85feff7.png)
 
-<figcaption>Conventional function vs lambda function</figcaption>
+Conventional function vs lambda function
 
-</figure>
+
 
 在传统的 def 函数中可以有任意数量的语句，它从给函数命名开始。另一方面，lambda 是一个匿名函数。您不需要为 lambda 构造提供任何名称。
 
 让我们举一些简单的例子来说明它们的用法。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Conventional vs lambda function](img/574752eb9f92d058427d42cbe777a3bc.png)
+![Conventional vs lambda function](img/574752eb9f92d058427d42cbe777a3bc.png)
 
-<figcaption>Conventional vs lambda function</figcaption>
+Conventional vs lambda function
 
-</figure>
+
 
 lambda 构造更多地是为了方便使用，而不是使用 lambda 可以执行的操作范围。当您需要构造 lambda 函数时，请记住以下几点。
 

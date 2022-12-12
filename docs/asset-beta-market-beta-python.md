@@ -16,13 +16,13 @@
 
 首先，让我们用 python 导入数据，并绘制谷歌和标准普尔 500 指数的每日回报。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/1ea937552e13e4d143095377685d187d.png)</figure>
+![](img/1ea937552e13e4d143095377685d187d.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![plotting the daily returns of Google and S&P 500 index](img/c3cc5afc108806b739ddbb2a8b821166.png)</figure>
+![plotting the daily returns of Google and S&P 500 index](img/c3cc5afc108806b739ddbb2a8b821166.png)
 
 输出:
 
-<figure class="kg-card kg-image-card kg-width-full">![output of data plotting on Google and S&P 500 index](img/a149d9c96619a362f2fee4cef83e4352.png)</figure>
+![output of data plotting on Google and S&P 500 index](img/a149d9c96619a362f2fee4cef83e4352.png)
 
 波动性较大的(蓝色)是谷歌的回报，波动性较小的(橙色)是标准普尔 500 指数的回报。
 
@@ -66,13 +66,13 @@ R <sub>资产</sub> =资产的事后 alpha+beta * R<sub>基准</sub> + e <sub>i<
 
 考虑下面的代码来计算谷歌对标准普尔 500 的测试。
 
-<figure class="kg-card kg-image-card kg-width-full">![code to calculate Google’s beta against S&P 500](img/83327be1493fcfcf24ebf89ef56646b4.png)</figure>
+![code to calculate Google’s beta against S&P 500](img/83327be1493fcfcf24ebf89ef56646b4.png)
 
 我们已经计算出谷歌的 beta 为 1.25。你可以试试其他股票。
 
 下面是线性回归图。
 
-<figure class="kg-card kg-image-card kg-width-full">![regression plot](img/b7c32d7627ae67460693bc5692fef7ea.png)</figure>
+![regression plot](img/b7c32d7627ae67460693bc5692fef7ea.png)
 
 我们将在这里结束这篇博客。我们甚至可以将谷歌的测试版与标准普尔 500 的测试版进行对冲。这就是所谓的贝塔对冲。我们将在博客的下一部分讨论这个问题。
 

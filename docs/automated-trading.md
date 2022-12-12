@@ -51,11 +51,11 @@
 
 下图解释了自动交易系统的整个流程:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Automated trading](img/25e01c41ae761144875c528da87b955f.png)
+![Automated trading](img/25e01c41ae761144875c528da87b955f.png)
 
-<figcaption>Automated trading</figcaption>
+Automated trading
 
-</figure>
+
 
 * * *
 

@@ -2,11 +2,11 @@
 
 > 原文：<https://blog.quantinsti.com/epatians-share-trading-lonely-journey-jigam-gandhi/>
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://open.spotify.com/embed-podcast/episode/5AioAng84QxHgd8sgllOBA?si=aU-vleDtQYyQYfEHv2fYlg](https://open.spotify.com/embed-podcast/episode/5AioAng84QxHgd8sgllOBA?si=aU-vleDtQYyQYfEHv2fYlg)
 
-</figure>
+
 
 ## **描述**
 

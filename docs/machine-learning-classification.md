@@ -31,11 +31,11 @@
 
 数学模型根据其训练数据分为两类——**监督和非监督学习模型**。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Fig. 1\. Machine Learning Algorithms](img/99b7154f3b62dae5582460de635336c0.png)
+![Fig. 1\. Machine Learning Algorithms](img/99b7154f3b62dae5582460de635336c0.png)
 
-<figcaption>Fig. 1\. Machine Learning Algorithms</figcaption>
+Fig. 1\. Machine Learning Algorithms
 
-</figure>
+
 
 ## 监督学习
 

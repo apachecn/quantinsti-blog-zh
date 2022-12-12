@@ -78,41 +78,41 @@
 
 让我们定义两个价格序列，使它们相关但不协整。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Correlated Series](img/f6913c10aed1c07344bcade05c17b40c.png)
+![Correlated Series](img/f6913c10aed1c07344bcade05c17b40c.png)
 
-<figcaption>Correlated Series</figcaption>
+Correlated Series
 
-</figure>
+
 
 通过观察这两个价格序列，它们似乎相互关联，但是协整性如何呢？
 
 对于要进行协整的两个价格序列，两个价格序列之间的价差/比率应该是固定的。我们就拿以上系列的区别来说吧。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Non-Stationary Series](img/2740e4c87da72e3fd4074c6e1ffee52c.png)
+![Non-Stationary Series](img/2740e4c87da72e3fd4074c6e1ffee52c.png)
 
-<figcaption>Non-Stationary Series</figcaption>
+Non-Stationary Series
 
-</figure>
+
 
 传播是趋势性的。结果表明，两个价格序列是相关的，但不是协整的。因此，我们可以得出结论，价格可以相关，但不能协整。
 
 现在考虑另一种情况，价格是协整的，但不相关。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Uncorrelated Series](img/f1d100ca9f759c6d4609d18c9e33d4bb.png)
+![Uncorrelated Series](img/f1d100ca9f759c6d4609d18c9e33d4bb.png)
 
-<figcaption>Uncorrelated Series</figcaption>
+Uncorrelated Series
 
-</figure>
+
 
 显然，这两个价格序列是不相关的，因为它们之间似乎没有关系。
 
 但是协整呢？
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Stationary Series](img/b2f7163350531f1b1c4ca43264dd873f.png)
+![Stationary Series](img/b2f7163350531f1b1c4ca43264dd873f.png)
 
-<figcaption>Stationary Series</figcaption>
+Stationary Series
 
-</figure>
+
 
 利差在-10 到+10 之间徘徊。因此，我们可以说，这两个价格序列可以不相关地进行协整。
 
@@ -160,11 +160,11 @@
 
 如上所述，我们选择具有相似经济基础的配对。欧元和瑞士法郎都属于一个类似的经济区，所以我们从这一对开始，但我们不能只依赖基本面因素。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Price Series](img/77e5f8100363ff7ae5b9db538093e768.png)
+![Price Series](img/77e5f8100363ff7ae5b9db538093e768.png)
 
-<figcaption>Price Series</figcaption>
+Price Series
 
-</figure>
+
 
 ### 步骤 2 -计算比率并检查协整
 
@@ -174,11 +174,11 @@ ADF 测试得出的欧元兑美元/瑞士法郎比值的 p 值小于 0.05 的显
 
 我们将使用欧元兑美元/瑞士法郎的比率进行成对交易。让我们来看看协整比率，以确保这是有道理的。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![EURUSD CHFUSD](img/000b3f0d57f9de9efb9c2d0c94c24cfd.png)
+![EURUSD CHFUSD](img/000b3f0d57f9de9efb9c2d0c94c24cfd.png)
 
-<figcaption>EURUSD/CHFUSD</figcaption>
+EURUSD/CHFUSD
 
-</figure>
+
 
 ### 步骤 3 -创建一个生成交易信号的特征
 
@@ -188,11 +188,11 @@ z 得分定义为:
 
 **Z 得分=(值—平均值)/标准值**
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Z Score](img/19f7913224def2fddab17b20147977bd.png)
+![Z Score](img/19f7913224def2fddab17b20147977bd.png)
 
-<figcaption>**Z Score**</figcaption>
+**Z Score**
 
-</figure>
+
 
 现在更容易观察到比率围绕均值移动，但有时它偏离均值，这是我们可以利用的。
 
@@ -202,11 +202,11 @@ z 得分定义为:
 
 ### 第五步-计算 PnL
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![PnL](img/e67d6b880465dab29143c9ba7e832fb2.png)
+![PnL](img/e67d6b880465dab29143c9ba7e832fb2.png)
 
-<figcaption>PnL</figcaption>
+PnL
 
-</figure>
+
 
 * * *
 

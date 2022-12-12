@@ -6,19 +6,19 @@
 
 价值投资的起源可以追溯到本杰明·格拉哈姆所著的《证券分析》和《聪明的投资者》( T2 ),在书中，他提倡对基本面指标进行详细分析，以购买股价低于其内在价值的股票。沃伦·巴菲特，本杰明·格拉哈姆最著名的学生之一，向我们所有人展示了价值投资产生更高回报的力量。
 
-<figure class="kg-card kg-image-card kg-width-full">![Python Handbook](img/740388889e6405dfac04c53fbf13b051.png)</figure>
+![Python Handbook](img/740388889e6405dfac04c53fbf13b051.png)
 
 ### **投资价值股与成长股**
 
 根据 Brandes 的一项研究，价值投资在很长一段时间内大大超过了市场和成长型股票。
 
-<figure class="kg-card kg-image-card kg-width-full">![Stock Classification](img/899b84f1a2ade56638b0438123f695c2.png)</figure>
+![Stock Classification](img/899b84f1a2ade56638b0438123f695c2.png)
 
 他们使用简单的估值指标，如市盈率、市净率和市盈率来识别价值股和成长股。[<sup>【1】</sup>](https://www.fidelity.com/learning-center/trading-investing/fundamental-analysis/company-valuation-ratios)
 
 使用的一种方法是按市净率对所有股票进行分类，然后将前 10%的股票归类为成长股，后 10%的股票归类为价值股。他们观察到，在连续 5 年的时间里，价值股的表现要比成长股好得多。
 
-<figure class="kg-card kg-image-card kg-width-full">![Value Stocks vs. Growth Stocks](img/c3dfa1b316409ebec173fa7b66d05018.png)</figure>
+![Value Stocks vs. Growth Stocks](img/c3dfa1b316409ebec173fa7b66d05018.png)
 
 价值在更多的时期和更长的时间里跑赢了增长(魅力)[<sup>【2】</sup>](https://www.brandes.com/docs/default-source/brandes-institute/value-vs-glamour-worldwide-perspective)
 

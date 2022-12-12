@@ -25,11 +25,11 @@
 
 在这段视频中，我们的专家 Rajib Ranjan Borah 详细介绍了当前市场中风险管理理念的变化:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/uzAhV94UiF8?feature=oembed](https://www.youtube.com/embed/uzAhV94UiF8?feature=oembed)
 
-</figure>
+
 
 接下来，我们将了解交易风险的识别和评估。
 
@@ -86,7 +86,7 @@
 
 现代投资组合理论是由 Harry Markowitz 于 1952 年提出的一个假设，假设投资者希望在给定的风险下最大化投资组合的预期回报，风险由投资组合回报率的标准差来衡量。一个投资组合的风险和回报可以绘制成图表:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/eea95966627107c86e297e062b8acf5c.png)</figure>
+![](img/eea95966627107c86e297e062b8acf5c.png)
 
 最佳风险投资组合通常被确定在曲线中间的某个位置，因为当你走得越高，你承担的风险就越大，回报就越低，当你走得越低，投资组合的回报就越低，所以投资这样的投资组合是没有意义的，因为你可以通过投资无风险资产来获得类似的回报。
 
@@ -135,11 +135,11 @@
 
 此外，您可以观看这段精心制作的视频，了解我们的专家 Marco Nicolas Dibo 关于风险管理实践的更多信息:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/kt1jSw9BDt0?feature=oembed](https://www.youtube.com/embed/kt1jSw9BDt0?feature=oembed)
 
-</figure>
+
 
 ### 结论
 

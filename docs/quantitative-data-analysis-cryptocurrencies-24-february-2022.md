@@ -35,7 +35,7 @@
 
 ## 扬声器
 
-<figure class="kg-card kg-image-card">![Udisha Alok (Quant Researcher at QuantInsti)](img/76f9d387595021e588d855729e4b9745.png)</figure>
+![Udisha Alok (Quant Researcher at QuantInsti)](img/76f9d387595021e588d855729e4b9745.png)
 
 **Udisha Alok(quantin STI 的量化研究员)**
 

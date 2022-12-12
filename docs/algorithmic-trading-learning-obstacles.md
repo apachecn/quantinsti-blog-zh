@@ -30,11 +30,11 @@
 
 虽然有 C，C++等几种编程语言。，Python 被认为是目前最受青睐的。众所周知，它是一种编程语言，就像用英语打字一样方便。让我们找出一些关于 Python 的有趣事实:
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/ef6aa0ff02190dc7991f1e18ca0febec.png)
+![](img/ef6aa0ff02190dc7991f1e18ca0febec.png)
 
-<figcaption>Source: [Python for Trading-An Introduction](/python-trading/)</figcaption>
+Source: [Python for Trading-An Introduction](/python-trading/)
 
-</figure>
+
 
 *   与其他语言相比，Python 具有某些 API 和库，使得分析更加流畅。
 *   Python 有助于为导入数据和图形数据可视化提供快速简单的编码。
@@ -104,11 +104,11 @@
 
 例如，下图有助于您理解错误是如何出现的。以下是从互联网上检索到的前 10 大 50 强公司的数据截图:
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/5b486afa5ad08c585d4e0f5dfbc6d6da.png)
+![](img/5b486afa5ad08c585d4e0f5dfbc6d6da.png)
 
-<figcaption>**In red - Incorrect values, Blanks under column “weightage” - Missing values**</figcaption>
+**In red - Incorrect values, Blanks under column “weightage” - Missing values**
 
-</figure>
+
 
 **推荐资源**
 

@@ -35,11 +35,11 @@
 
 这里的策略是当股票的价格反映了它的真实价值或者当它超过了它的真实价值时卖出股票。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Value investing](img/62248bc1d39ef8552a70f777d438ab96.png)
+![Value investing](img/62248bc1d39ef8552a70f777d438ab96.png)
 
-<figcaption>Value investing</figcaption>
+Value investing
 
-</figure>
+
 
 *   **内在价值** -反映公司实际价值或价值的价格水平
 *   **安全边际** -购买价值与真实价值之间的差异
@@ -118,7 +118,7 @@ dull earning 报告的第二个原因是用于“Meta-Verse”项目的费用增
 
 这里有一个例子:
 
-<figure class="kg-card kg-embed-card">
+
 
 > 最近有很多人认为未实现收益是避税的一种手段，因此我提议卖掉我 10%的特斯拉股票。
 > 
@@ -126,4 +126,3 @@ dull earning 报告的第二个原因是用于“Meta-Verse”项目的费用增
 > 
 > — Elon Musk (@elonmusk) [November 6, 2021](https://twitter.com/elonmusk/status/1457064697782489088?ref_src=twsrc%5Etfw)
 
-</figure>

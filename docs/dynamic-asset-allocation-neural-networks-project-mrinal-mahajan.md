@@ -14,7 +14,7 @@
 
 ## 关于作者
 
-<figure class="kg-card kg-image-card">![](img/064debe698e10050284a78b02ee3cb45.png)</figure>
+![](img/064debe698e10050284a78b02ee3cb45.png)
 
 Mrinal Mahajan 毕业于 IIT 坎普尔大学机械工程专业。
 
@@ -150,17 +150,17 @@ Mrinal Mahajan 毕业于 IIT 坎普尔大学机械工程专业。
 
 ### 模型 1 -概率模型趋势
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0185a523a927bf2565dfd73d9e91dbc0.png)</figure>
+![](img/0185a523a927bf2565dfd73d9e91dbc0.png)
 
 ### 模型 2 -正回报模型趋势
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/195ac272284c67f0d666099d4afd05eb.png)</figure>
+![](img/195ac272284c67f0d666099d4afd05eb.png)
 
 这一趋势表明了这样一种假设，即对于价格的上行，股票与市场的相关性越高，回报越高。
 
 ### 模型 3 -负回报模型趋势
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/231c0e8b61800c1fa7d02da8b8dda132.png)</figure>
+![](img/231c0e8b61800c1fa7d02da8b8dda132.png)
 
 趋势表明，总体而言，随着相关性的增加，对股价的负面影响也会增加。
 
@@ -431,7 +431,7 @@ Mrinal Mahajan 毕业于 IIT 坎普尔大学机械工程专业。
 
 可以看出，与买入并持有 bank nifty 的基准策略相比，这种策略产生的年回报率至少超过 10%。战略的加班表现可以在下图中看到:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/b8ca3753b7675c7968fdd30c23e8872f.png)</figure>
+![](img/b8ca3753b7675c7968fdd30c23e8872f.png)
 
 从图表中可以看出，尽管该策略在最初几年比基准稍有滞后，但在最近一段时间却表现出色。
 

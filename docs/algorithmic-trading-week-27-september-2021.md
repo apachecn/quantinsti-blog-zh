@@ -22,7 +22,7 @@
 
 ### Cristiano Arbex Valle 博士(OptiRisk Systems 的研究员/开发人员)
 
-<figure class="kg-card kg-image-card">![Dr. Cristiano Valle pic](img/0e5ebf017255ff30f87d24e5cf53508d.png)</figure>
+![Dr. Cristiano Valle pic](img/0e5ebf017255ff30f87d24e5cf53508d.png)
 
 Valle 博士拥有巴西贝洛奥里藏特米纳斯吉拉斯联邦大学(UFMG)的计算机科学学士学位和运筹学硕士学位。2011 年，Valle 博士以软件工程师和研究员的身份加入了 OptiRisk。
 
@@ -32,7 +32,7 @@ Valle 博士拥有巴西贝洛奥里藏特米纳斯吉拉斯联邦大学(UFMG)�
 
 ### Gautam Mitra 教授(OptiRisk Systems 创始人兼博士)
 
-<figure class="kg-card kg-image-card">![Prof. Gautam Mitra](img/3b342b05a8a9e869b8cc622c47255455.png)</figure>
+![Prof. Gautam Mitra](img/3b342b05a8a9e869b8cc622c47255455.png)
 
 BEE(JU，1962 年)，MSc(伦敦，1964 年)，PhD(伦敦，1968 年)，FBCS，FRSA，CMATH 和 FIMA。
 
@@ -46,7 +46,7 @@ Gautam Mitra 教授是 OptiRisk Systems 的创始人和总经理。他在运筹�
 
 ### Matteo Campellone 博士(Brain 执行主席)
 
-<figure class="kg-card kg-image-card">![Dr. Matteo Campellone pic](img/b19821caefa37138c7aec0891894332e.png)</figure>
+![Dr. Matteo Campellone pic](img/b19821caefa37138c7aec0891894332e.png)
 
 Campellone 博士是 Brain 的联合创始人和执行主席，Brain 是一家专注于交易策略和投资决策算法开发的公司。他拥有物理学博士学位和工商管理硕士学位。
 
@@ -54,7 +54,7 @@ Matteo 过去的活动包括金融机构的金融建模以及工业公司的企�
 
 ### Ravi Kashyap 博士(摩根士丹利定量策略师/副总裁)
 
-<figure class="kg-card kg-image-card">![Dr. Ravi Kashyap pic](img/eef7e6b70982851413e2b60cfd1702f8.png)</figure>
+![Dr. Ravi Kashyap pic](img/eef7e6b70982851413e2b60cfd1702f8.png)
 
 Kashyap 博士曾在纽约和香港这两个主要金融市场工作过。他曾在高盛、摩根士丹利、美林和花旗集团等金融服务公司担任产品经理和量化策略师。
 

@@ -22,7 +22,7 @@
 
 下面，我们以流程图的方式进行了可视化表示，以了解深度学习究竟在哪里发挥作用:
 
-<figure class="kg-card kg-image-card kg-width-wide">![](img/5758022962585b8a1461cbbe7bbea72a.png)</figure>
+![](img/5758022962585b8a1461cbbe7bbea72a.png)
 
 主要是，你可以在上图中看到，由机器学习、深度学习和神经网络组成的是人工智能(AI)。
 
@@ -94,7 +94,7 @@
 
 将模型大致分类，有两种类型，即**监督模型**和**非监督模型**。这两个模型都经过不同的训练，并且具有各种不同的特征。
 
-<figure class="kg-card kg-image-card">![](img/fc9eb4acc4964b870127c5cf4b0ea9b9.png)</figure>
+![](img/fc9eb4acc4964b870127c5cf4b0ea9b9.png)
 
 让我们首先取**个监督模型，**个监督模型，其中用特定数据集的例子进行训练。这些模型是:
 
@@ -106,7 +106,7 @@
 
 经典神经网络也称为多层感知器或感知器模型。这个模型是美国心理学家在 1958 年创造的。它也可以被称为一个简单的神经网络。这在本质上是奇异的，并且适应于具有一系列输入的基本二进制模式，以模拟人脑的学习模式。它的基本条件是由 2 层以上组成。
 
-<figure class="kg-card kg-image-card">![](img/e43c38295ff4eae9b406d77ca05a76c1.png)</figure>
+![](img/e43c38295ff4eae9b406d77ca05a76c1.png)
 
 正如你所看到的，它只有一个带有几个隐藏层的输入层和一个输出层。
 
@@ -118,44 +118,44 @@
 
 现在让我们讨论如何为图像建立卷积神经网络。因此，对于模型的构建，您首先将输入数据导入到模型中，这要经过五个步骤:
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/426d315aa08bceb750e2eb9a4b140ab0.png)
+![](img/426d315aa08bceb750e2eb9a4b140ab0.png)
 
-<figcaption>Steps for Building a CNN Image</figcaption>
+Steps for Building a CNN Image
 
-</figure>
+
 
 *   输入图像——基本上，输入数据被视为一幅图像(以像素为单位)。
 *   特征检测器和特征图-检测器基本上是图像特征的标识符。这些也被称为过滤器。特征地图由特征检测器或过滤器收集的信息组成。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/db2ff72b8597c3648b1343be61c66512.png)
+![](img/db2ff72b8597c3648b1343be61c66512.png)
 
-<figcaption>Feature Detectors</figcaption>
+Feature Detectors
 
-</figure>
+
 
 *   Max-Pooling -它使模型能够识别修改后的图像。因此，图像可以翻转、镜像、颠倒等。最大池有助于卷积网络通过获取不同区域的矩阵来识别图像的所有细节。这使得网络注意到它们都是同一图像的细节。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/7d1798c3b7d96df931429daf5fc29993.png)
+![](img/7d1798c3b7d96df931429daf5fc29993.png)
 
-<figcaption>Max-Pooling</figcaption>
+Max-Pooling
 
-</figure>
+
 
 *   展平——在这一步中，数据被展平到一个数组中，以便模型能够读取它。现在，详细信息从矩阵转换或展平为垂直列。此后，输入通过人工神经网络进行进一步处理。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/aa897b302ddb2bf30620ed38c9f9b9c3.png)
+![](img/aa897b302ddb2bf30620ed38c9f9b9c3.png)
 
-<figcaption>Flattening</figcaption>
+Flattening
 
-</figure>
+
 
 *   完全连接——这是数据的隐藏层，然后将它考虑在内。这叫全连通数据层，和人工神经网络中的隐藏数据是一样的。在该步骤中，还进行误差函数的计算，该误差函数在人工神经网络中被称为损失函数。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/fc6d8236a89eb288ced1b864d5a3afc5.png)
+![](img/fc6d8236a89eb288ced1b864d5a3afc5.png)
 
-<figcaption>Full Connection</figcaption>
+Full Connection
 
-</figure>
+
 
 ### 递归神经网络
 
@@ -165,11 +165,11 @@
 
 为了更好地理解递归神经网络，让我们看看视觉表示，并理解它支持的输入和输出类型:
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/b2529e850e193ae97d0ed2df1cbe0c9d.png)
+![](img/b2529e850e193ae97d0ed2df1cbe0c9d.png)
 
-<figcaption>Recurrent Neural Networks</figcaption>
+Recurrent Neural Networks
 
-</figure>
+
 
 好的，上面的图像显示:
 
@@ -215,7 +215,7 @@ h ->隐藏层
 
 v->视觉层
 
-<figure class="kg-card kg-image-card">![Boltzmann Machines](img/1bd7c27f97e3d8ac5b0e1bdb85617749.png)</figure>
+![Boltzmann Machines](img/1bd7c27f97e3d8ac5b0e1bdb85617749.png)
 
 之所以如此，是因为玻尔兹曼机器可以生成模型的所有参数，而不是固定的输入。该模型被称为随机模型，而其他模型是确定性模型。
 
@@ -232,7 +232,7 @@ v->视觉层
 
 在下面的视觉表示中，输入 X 是图像输入，在系统中编码器和解码器的帮助下，它呈现输出 X’。这里，输出与输入相同，因为系统存储了相同的特定特征。
 
-<figure class="kg-card kg-image-card">![AutoEncoders](img/5c3c75cc011dbf4cc4d2b6df26c2f1c7.png)</figure>
+![AutoEncoders](img/5c3c75cc011dbf4cc4d2b6df26c2f1c7.png)
 
 在当今时代，用于数据可视化的自动编码的两个概念被称为[数据去噪](https://en.wikipedia.org/wiki/Autoencoder#Regularized_Autoencoders)和[降维](https://en.wikipedia.org/wiki/Autoencoder#Dimensionality_Reduction)，是已知的最佳实际应用。
 

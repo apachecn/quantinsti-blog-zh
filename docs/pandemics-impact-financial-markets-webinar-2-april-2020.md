@@ -39,7 +39,7 @@
 
 ## 扬声器配置文件
 
-<figure class="kg-card kg-image-card">![](img/6daf0f2a04c6b99d6cd25e12ea9aa0e0.png)</figure>
+![](img/6daf0f2a04c6b99d6cd25e12ea9aa0e0.png)
 
 ### 伊桑·沙阿
 
@@ -51,11 +51,11 @@
 
 ## **演示幻灯片**
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/L93Q6Ak4rQdXM7](https://www.slideshare.net/slideshow/embed_code/key/L93Q6Ak4rQdXM7)
 
-**[How Pandemics Impact the Financial Markets - A Quantitative Analysis](https://www.slideshare.net/QuantInsti/how-pandemics-impact-the-financial-markets-a-quantitative-analysis "How Pandemics Impact the Financial Markets - A Quantitative Analysis")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[How Pandemics Impact the Financial Markets - A Quantitative Analysis](https://www.slideshare.net/QuantInsti/how-pandemics-impact-the-financial-markets-a-quantitative-analysis "How Pandemics Impact the Financial Markets - A Quantitative Analysis")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**
 
 * * *
 

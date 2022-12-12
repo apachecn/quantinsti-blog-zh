@@ -80,55 +80,55 @@ bundle 是一个 ETL 工具。提取、转换和加载(ETL)是数据科学中众
 
 改变主函数的名字，我喜欢用和文件名一样的名字。所以名字将会是*雅虎纽约证券交易所。*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/a4d04e279ae842cec02a6c32f0ffcb93.png)</figure>
+![](img/a4d04e279ae842cec02a6c32f0ffcb93.png)
 
 该函数接受两个输入参数。第一个是数据频率的列表。分钟、每天或两者。第二个，是我们有雅虎每日数据的文件夹。我们在这一点上不使用这些参数，但是知道它们是有用的。
 
 这个函数的输出是一个名为 CSVDIRBundle 的类，例如，将这个名称修改为 Yahoo_NYSEBundle。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/17b5402dc07d4a41ea157146ac9f6f41.png)</figure>
+![](img/17b5402dc07d4a41ea157146ac9f6f41.png)
 
 在第 92、97 和 98 行，需要更改包名，这是我们用*摄取* zipline 命令调用的函数名。第 97 行表示我们将在 Zipline 中注册为一个包的名称。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/105f95f6f3075b26edc4abd53dd0bcf7.png)</figure>
+![](img/105f95f6f3075b26edc4abd53dd0bcf7.png)
 
 在第 98 行声明的函数中，我们可以看到 Zipline 所期望的数据格式，有一些处理输入参数和元数据、分割等的代码。
 
 我们需要修改市场日历 CSVDIR，以便在第 161 行使用 NYSE 的通用市场日历。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/c8139426c0f95a708d995a2ac0f2805f.png)</figure>
+![](img/c8139426c0f95a708d995a2ac0f2805f.png)
 
 为了使我们的数据适应 Zipline 格式，需要修改的函数在第 171 行被命名为 *_pricing_iter* 。这个函数读取 csv 文件并将它们加载到 Zipline DB 中。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/97823e0fb494f2b660700dd882bca534.png)</figure>
+![](img/97823e0fb494f2b660700dd882bca534.png)
 
 这里我们可以看到代码的关键部分:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/5a66a98c9c737fc6901292d1dd3f313c.png)</figure>
+![](img/5a66a98c9c737fc6901292d1dd3f313c.png)
 
 它读取 csv 文件，然后我们可以检查内容、修改列名、删除 NA 或数据中所需的任何其他更改。例如，在第 188 行，我们删除了可能的重复日期。
 
 我们可以根据需要包含尽可能多的 *print* 句子来跟踪代码执行。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/409aacbec213d19f157b0712807cd3a0.png)</figure>
+![](img/409aacbec213d19f157b0712807cd3a0.png)
 
 这里的关键是使 csv 数据指数与纽约证券交易所市场日历保持一致。第 207 行需要 *sessions* 变量来完成。
 
 我们从数据的第一个日期到最后一个日期创建会话日期。包括在第 154 行中。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/655bf70bb6053b315cf9f94f3061b29c.png)</figure>
+![](img/655bf70bb6053b315cf9f94f3061b29c.png)
 
 将变量名包含在调用函数的*的参数中，第 156 行。*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/e9282ac56d65dbedff05404b8c3e4f79.png)</figure>
+![](img/e9282ac56d65dbedff05404b8c3e4f79.png)
 
 并在 *_pricing_iter* 函数的输入参数中接受。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/9abc6639859b31ab4b8ca308f5eb9059.png)</figure>
+![](img/9abc6639859b31ab4b8ca308f5eb9059.png)
 
 最后，注释或删除最后一行代码，因为我们希望将 NYSE 日历用于这些数据文件。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/c292944a4a87fc000dd02c21639ccd8d.png)</figure>
+![](img/c292944a4a87fc000dd02c21639ccd8d.png)
 
 * * *
 
@@ -140,7 +140,7 @@ bundle 是一个 ETL 工具。提取、转换和加载(ETL)是数据科学中众
 ~/.zipline/extension.py
 ```
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/e894b3f9aeb311e4d95e556b12c82172.png)</figure>
+![](img/e894b3f9aeb311e4d95e556b12c82172.png)
 
 看输入的参数， *tframes* 是一个列表，可以是*分钟，每日*或者两者兼而有之， *csvdir* 是从雅虎下载的数据文件所在的文件夹。尽管在 *csvdir* 路径中没有指定这个端点，但是数据在每日文件夹中。
 
@@ -154,7 +154,7 @@ bundle 是一个 ETL 工具。提取、转换和加载(ETL)是数据科学中众
 ~/DATA/Yahoo_NYSE/daily
 ```
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/eeaefb22a41721932bb8a38f14884fd7.png)</figure>
+![](img/eeaefb22a41721932bb8a38f14884fd7.png)
 
 如果一切正常，您将看到我们在代码中包含的所有打印句子。如果这个过程没有错误地结束，我们的数据就在 Zipline DB 中了。
 
@@ -166,13 +166,13 @@ bundle 是一个 ETL 工具。提取、转换和加载(ETL)是数据科学中众
 
 用现有符号初始化算法:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/fb5e72ae7fd80300cdac354a655c9f05.png)</figure>
+![](img/fb5e72ae7fd80300cdac354a655c9f05.png)
 
 完整的算法代码可以在这篇文章的结尾和/或关于[安装滑索](/zipline-library-installation-windows/)的第一篇文章中下载。
 
 在结果部分，确保您使用的是新的捆绑包 *yahoo_NYSE*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/30789971aab8ed5f4e4b8f898c6f0a31.png)</figure>
+![](img/30789971aab8ed5f4e4b8f898c6f0a31.png)
 
 希望事情进展顺利，你会得到一个好的图表。
 

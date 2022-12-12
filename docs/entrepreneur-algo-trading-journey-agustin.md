@@ -16,7 +16,7 @@
 
 我是奥古斯汀·拉梅洛·德拉维加，目前住在阿根廷的科尔多瓦。我是 [Invera](https://invera.io) 的首席执行官和联合创始人，Invera 是一家金融科技公司，为金融机构提供机器人咨询，以实现投资自动化。
 
-<figure class="kg-card kg-image-card">![](img/d09800eb8b4086f3f354edcb7160fed9.png)</figure>
+![](img/d09800eb8b4086f3f354edcb7160fed9.png)
 
 作为一名企业家，我热爱我的工作，但除了工作，我也喜欢学习新技能(现在我正在学习数据科学)。我于 2013 年获得了国立科尔多瓦大学的经济学学士学位，并于 2015 年获得了 Torcuato Di Tella 大学的金融学硕士学位。
 

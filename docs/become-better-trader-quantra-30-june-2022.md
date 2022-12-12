@@ -25,7 +25,7 @@
 
 ## 关于演讲者
 
-<figure class="kg-card kg-image-card">![Ishan Shah pic](img/49f901737d5073cedffcddc886666d20.png)</figure>
+![Ishan Shah pic](img/49f901737d5073cedffcddc886666d20.png)
 
 **伊桑·沙阿**是 AVP 人，在 QuantInsti 的 Quantra 领导内容&研究团队。在此之前，他曾在美国银行 Merill Lynch 的全球市场团队&中与 Barclays 共事。他在金融市场拥有丰富的经验，在不同的资产类别中担任不同的角色。
 

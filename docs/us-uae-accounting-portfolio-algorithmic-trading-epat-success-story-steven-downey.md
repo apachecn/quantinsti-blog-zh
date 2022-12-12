@@ -12,7 +12,7 @@ Steven 热衷于投资，渴望达到最高的道德和财务水平。特许金�
 
 ## 嗨，史蒂文，给我们介绍一下你自己吧！
 
-<figure class="kg-card kg-image-card">![epat alumnus steven downey](img/f2d468c3723154660f6856c666774277.png)</figure>
+![epat alumnus steven downey](img/f2d468c3723154660f6856c666774277.png)
 
 嗨！我是史蒂文·唐尼。我在阿联酋呆了 7 年，我来自美国。我有三个小孩，一个 5 岁，一对 2 岁的双胞胎。我经常和他们一起玩。我有一个伟大的妻子，作为一名家长，她在职业、智力和道德上挑战我。
 

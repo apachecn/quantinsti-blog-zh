@@ -29,12 +29,12 @@
 
 **伊山·沙阿(AVP，内容&在昆汀斯提研究)**
 
-<figure class="kg-card kg-image-card">![](img/681003f301ba1d5ed7a6301ee6856b51.png)</figure>
+![](img/681003f301ba1d5ed7a6301ee6856b51.png)
 
 伊桑·沙阿是 AVP，领导 QuantInsti 公司 Quantra 的内容和研究团队。在此之前，他曾在巴克莱全球市场团队和美国银行 Merill Lynch 工作。他在金融市场拥有丰富的经验，在不同的资产类别中担任不同的角色。
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/72Qwt0tUgEN5xx](https://www.slideshare.net/slideshow/embed_code/key/72Qwt0tUgEN5xx)
 
-**[Create a Trading Strategy: Hands-on Online Workshop](https://www.slideshare.net/QuantInsti/create-a-trading-strategy-handson-online-workshop "Create a Trading Strategy: Hands-on Online Workshop")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[Create a Trading Strategy: Hands-on Online Workshop](https://www.slideshare.net/QuantInsti/create-a-trading-strategy-handson-online-workshop "Create a Trading Strategy: Hands-on Online Workshop")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**

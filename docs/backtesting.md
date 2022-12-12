@@ -122,9 +122,9 @@
 
 **我们将按照以下步骤对上述交易策略进行回溯测试。**
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">**![Moving Average Backtesting Flow](img/7a8406337ced7aefb41403996601d6f6.png)
+**![Moving Average Backtesting Flow](img/7a8406337ced7aefb41403996601d6f6.png)
 
-<figcaption>Moving Average Backtesting Flow</figcaption>** </figure>
+Moving Average Backtesting Flow** 
 
 ### **为回溯测试获取价格数据**
 

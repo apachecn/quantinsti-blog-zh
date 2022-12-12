@@ -31,11 +31,11 @@
 
 今天存在现代形式的比特币区块链，正是这些事件造就了它现在的形式。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/c6aa7fb4d01cf5b390f87390c4e4fe16.png)
+![](img/c6aa7fb4d01cf5b390f87390c4e4fe16.png)
 
-<figcaption>Bitcoin Timeline - [Source](https://wp-blog-assets.coingate.com/2019/03/Mobile3-680x378.png)</figcaption>
+Bitcoin Timeline - [Source](https://wp-blog-assets.coingate.com/2019/03/Mobile3-680x378.png)
 
-</figure>
+
 
 * * *
 
@@ -49,11 +49,11 @@
 
 让我们使用这个简化的图表来看看 UTXO 模型是如何工作的:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Simplified Bitcoin UTXO model](img/64d7ab5d5f8a4cec34851f3e67a9bd11.png)
+![Simplified Bitcoin UTXO model](img/64d7ab5d5f8a4cec34851f3e67a9bd11.png)
 
-<figcaption>Simplified Bitcoin UTXO model</figcaption>
+Simplified Bitcoin UTXO model
 
-</figure>
+
 
 在一些交易中，硬币是由系统生成(“挖掘”)的。这些交易被称为比特币基地交易，他们不会参考任何以前的交易，因为在这种情况下，硬币是凭空出现的。
 
@@ -82,11 +82,11 @@
 
 有趣的是，中本聪开采出第一个比特币区块，奖励 50 个比特币，哈尔·芬尼(RPOW 的发明者)成为中本聪第一笔 10 个比特币的比特币交易的接受者。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Bitcoin Mining](img/9720500a88da25a05e3b72f9d9775bfa.png)
+![Bitcoin Mining](img/9720500a88da25a05e3b72f9d9775bfa.png)
 
-<figcaption>Bitcoin Mining - [Source](https://static.seekingalpha.com/uploads/2021/2/25/584353-16142701594586146_origin.png)</figcaption>
+Bitcoin Mining - [Source](https://static.seekingalpha.com/uploads/2021/2/25/584353-16142701594586146_origin.png)
 
-</figure>
+
 
 * * *
 
@@ -98,11 +98,11 @@
 
 现在，每个节点都有前一个事务块和当前事务块的散列。他们需要计算 nonce(一个只使用一次的数字)，当与上述值结合时，它会生成一个带有给定数量的前导零的散列。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Simplified Proof-of-Work diagram](img/d247851a874e3d316aaa9e1faef82e95.png)
+![Simplified Proof-of-Work diagram](img/d247851a874e3d316aaa9e1faef82e95.png)
 
-<figcaption>Simplified Proof-of-Work diagram</figcaption>
+Simplified Proof-of-Work diagram
 
-</figure>
+
 
 当一个前导零被添加到目标散列时，工作加倍，增加了问题的难度。比特币网络会自动配置问题，这样挖掘每个区块大约需要 10 分钟。
 
@@ -126,11 +126,11 @@
 
 比特币交易费用取决于网络流量。如果有更多的人使用区块链，需要确认的交易数量就会上升，从而推高交易费用。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Bitcoin Average Transaction Fee](img/276bb5fb7ffe8f5a95caf8db6afacddb.png)
+![Bitcoin Average Transaction Fee](img/276bb5fb7ffe8f5a95caf8db6afacddb.png)
 
-<figcaption>Bitcoin Average Transaction Fee - [Source](https://ycharts.com/indicators/bitcoin_average_transaction_fee)</figcaption>
+Bitcoin Average Transaction Fee - [Source](https://ycharts.com/indicators/bitcoin_average_transaction_fee)
 
-</figure>
+
 
 * * *
 
@@ -142,11 +142,11 @@
 
 每开采 21 万个区块后，区块奖励减半，直到 2140 年几乎为零。目前是每块 6.25 个硬币。随着大宗报酬不断减少，交易费可能是矿商的主要激励。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Bitcoin Inflation vs Time](img/42e48ecac3c3611dea8bef98c05c9bb1.png)
+![Bitcoin Inflation vs Time](img/42e48ecac3c3611dea8bef98c05c9bb1.png)
 
-<figcaption>Bitcoin Inflation vs Time - [Source](https://www.bitcoinblockhalf.cimg/bitcoin-inflation-chart.png)</figcaption>
+Bitcoin Inflation vs Time - [Source](https://www.bitcoinblockhalf.cimg/bitcoin-inflation-chart.png)
 
-</figure>
+
 
 * * *
 

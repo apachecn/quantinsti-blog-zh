@@ -39,7 +39,7 @@
 
 ## 人工智能的种类
 
-<figure class="kg-card kg-image-card">![](img/422fe27cc651c0f50e4b34345ccf358e.png)</figure>
+![](img/422fe27cc651c0f50e4b34345ccf358e.png)
 
 现在，你必须知道基于规则的系统和机器学习都有助于推断输入数据。这两种类型对特定情况都很重要。现在让我们看看这些类型之间有什么不同。
 
@@ -154,7 +154,7 @@
 
 让我们举个例子，建立一个由五家公司组成的投资组合。现在，在这个投资组合中，我们将应用 XGBoost 模型来创建一个交易策略。这五家公司是苹果、亚马逊、网飞、英伟达和微软。这是我们得到的。
 
-<figure class="kg-card kg-image-card kg-width-full">![Portfolio Strategy Returns](img/cb265ce4ed84a806211f4cc67aae65f7.png)</figure>
+![Portfolio Strategy Returns](img/cb265ce4ed84a806211f4cc67aae65f7.png)
 
 太好了！我们已经到了这篇文章的结尾，并且已经涵盖了人工智能和人工智能在交易中的很多重要方面。
 

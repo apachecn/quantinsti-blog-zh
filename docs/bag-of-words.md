@@ -19,4 +19,4 @@
 
 注意，我们忽略了这些单词在文档中出现的顺序。因此,“单词袋”这个名字意味着一个袋子中无序的物品集合。我们可以很容易地用 python 实现这种方法。下面是一个演示相同情况的示例。
 
-<figure class="kg-card kg-image-card kg-width-full">![Approach_Bag_of_Words](img/dc08e429160e13f92e3a275e3d534a2f.png)</figure>
+![Approach_Bag_of_Words](img/dc08e429160e13f92e3a275e3d534a2f.png)

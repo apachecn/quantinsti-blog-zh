@@ -52,11 +52,11 @@ Ripple Labs 在 2012 年创建了 Ripple transaction protocol (RTXP ),用于低�
 
 xRapid 使用 XRP 进行价值交换，而 xVia 不需要它。这两者过去都是在 xCurrent 上运行的。在 [2019](https://www.fxstreet.com/cryptocurrencies/news/ripple-rebrands-products-removes-xrapid-xvia-and-xcurrent-mentions-from-its-website-201910112358) ，该公司合并了 xCurrent 和 xVia，并将其更名为 RippleNet，而 xRapid 则更名为“按需流动性”
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Ripple Network](img/67c73e1a2b3c908fc4d1c49f3b87b097.png)
+![Ripple Network](img/67c73e1a2b3c908fc4d1c49f3b87b097.png)
 
-<figcaption>[Source](https://motivationniche.com/wp-content/uploads/2019/09/ripple-network.jpg)</figcaption>
+[Source](https://motivationniche.com/wp-content/uploads/2019/09/ripple-network.jpg)
 
-</figure>
+
 
 * * *
 
@@ -72,11 +72,11 @@ xrp 没有被开采——这里没有工作证据或利害关系证据。事实�
 
 一旦发布，这些 xrp 就可供公司用于资助业务相关的运营、向投资者销售以及激励客户。任何未使用的 xrp 将被放回托管。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Comparison of transaction settlement time](img/5af30b79d5c2530eee6d1881841399d4.png)
+![Comparison of transaction settlement time](img/5af30b79d5c2530eee6d1881841399d4.png)
 
-<figcaption>[Source](https://ripple.com/xrp)</figcaption>
+[Source](https://ripple.com/xrp)
 
-</figure>
+
 
 传统上，标准银行和其他金融机构使用美元将一种法定货币兑换成另一种法定货币，这导致了国际交易的延迟。Ripple 使用 XRP 而不是美元进行货币兑换。
 
@@ -86,11 +86,11 @@ xrp 没有被开采——这里没有工作证据或利害关系证据。事实�
 
 虽然 XRP 是为 RippleNet 设计的，但它可以脱离公司独立存在。为了澄清关于瑞波和 XRP 的常见神话，请查看福布斯的这篇文章。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Price and Volume charts for XRP](img/77de7291086f104307b99971298c227b.png)
+![Price and Volume charts for XRP](img/77de7291086f104307b99971298c227b.png)
 
-<figcaption>Price and Volume charts for XRP: [Source](https://www.worldcoinindex.com/coin/ripple)</figcaption>
+Price and Volume charts for XRP: [Source](https://www.worldcoinindex.com/coin/ripple)
 
-</figure>
+
 
 * * *
 
@@ -106,11 +106,11 @@ RippleNet 旨在通过提供一组称为 Ripple Transaction Protocol (RTXP)的�
 
 这消除了交易处理中的瓶颈，并使网络参与者更容易彼此密切合作。你可以把它想象成类似于 HTTP，它是一种在互联网上传输信息的通用协议。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![RippleNet Capabilities](img/5366a0d9131ce5f271c83689f7840935.png)
+![RippleNet Capabilities](img/5366a0d9131ce5f271c83689f7840935.png)
 
-<figcaption>[Source](https://ripple.com/ripplenet/)</figcaption>
+[Source](https://ripple.com/ripplenet/)
 
-</figure>
+
 
 * * *
 
@@ -128,11 +128,11 @@ RippleNet 旨在通过提供一组称为 Ripple Transaction Protocol (RTXP)的�
 
 你可以在白皮书的[中了解更多关于共识协议的信息。](https://arxiv.org/pdf/1802.07242.pdf)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Consensus in Ripple](img/af8bf73402bd9eb10a39f38c49749565.png)
+![Consensus in Ripple](img/af8bf73402bd9eb10a39f38c49749565.png)
 
-<figcaption>Consensus in Ripple: [Source](https://xrpl.org/img/consensus-rounds.svg)</figcaption>
+Consensus in Ripple: [Source](https://xrpl.org/img/consensus-rounds.svg)
 
-</figure>
+
 
 * * *
 
@@ -178,11 +178,11 @@ XRP 旨在充当 Ripple 网络上不同支付提供商之间的过渡货币。
 
 XRP 通过信托额度提供按需流动性(ODL)，类似于有限的信贷额度。按需流动性是仅向合格的机构 RippleNet 客户提供的服务，不面向零售客户。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Diagrammatic representation of on-demand liquidity](img/b804519b71445254253e66483cac4f09.png)
+![Diagrammatic representation of on-demand liquidity](img/b804519b71445254253e66483cac4f09.png)
 
-<figcaption>[Source](https://ripple.com/ripplenet/on-demand-liquidity/)</figcaption>
+[Source](https://ripple.com/ripplenet/on-demand-liquidity/)
 
-</figure>
+
 
 ## Ripple 是如何工作的？
 
@@ -198,11 +198,11 @@ XRP 通过信托额度提供按需流动性(ODL)，类似于有限的信贷额�
 
 值得注意的是，整个过程对最终用户是透明的。对最终用户来说，这似乎只是一个简单的实时转账问题。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![How Ripple works](img/5bd34edc42af00e41deccd49c2bf6278.png)
+![How Ripple works](img/5bd34edc42af00e41deccd49c2bf6278.png)
 
-<figcaption>[Source](https://th.bing.com/th/id/R.624cd63f0b5edc4620382b036c0f458b?rik=SeqU9aHWwXp%2f8A&riu=http%3a%2f%2fbitpeep.com%2fwp-content%2fuploads%2f2017%2f09%2fwhat-is-ripple-xrp-and-how-does-it-work.png&ehk=d%2b0nP0UZsFhEVsBoe9I6WcUITcihewwgHIge8PynuJI%3d&risl=&pid=ImgRaw&r=0)</figcaption>
+[Source](https://th.bing.com/th/id/R.624cd63f0b5edc4620382b036c0f458b?rik=SeqU9aHWwXp%2f8A&riu=http%3a%2f%2fbitpeep.com%2fwp-content%2fuploads%2f2017%2f09%2fwhat-is-ripple-xrp-and-how-does-it-work.png&ehk=d%2b0nP0UZsFhEVsBoe9I6WcUITcihewwgHIge8PynuJI%3d&risl=&pid=ImgRaw&r=0)
 
-</figure>
+
 
 在 RippleNet 上，交易主要通过两种媒介进行:通过 XRP 或借据。当一家银行向另一家银行转账时，他们有两种选择:向 XRP 支付货币兑换费或写借据。
 
@@ -231,11 +231,11 @@ Ripple 提供了许多优于传统支付系统的优势。
 *   许多主要金融机构信任并正在使用 Ripple。这让它更值得信赖。
 *   没有通货膨胀是可能的，因为所有的 XRP 都已经被创造出来了。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Some of the financial institutions using RippleNet](img/7581a196a46fd8579b07f8c123456e0b.png)
+![Some of the financial institutions using RippleNet](img/7581a196a46fd8579b07f8c123456e0b.png)
 
-<figcaption>Some of the financial institutions using RippleNet: [Source](https://ripple.com/ripplenet/)</figcaption>
+Some of the financial institutions using RippleNet: [Source](https://ripple.com/ripplenet/)
 
-</figure>
+
 
 * * *
 

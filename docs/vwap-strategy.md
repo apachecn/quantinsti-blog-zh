@@ -136,11 +136,11 @@
 
 让我们用下面的一个图表例子来理解这一点(显示 VWAP 和股票的收盘价),计算完成后可以在 Excel 中绘制出来。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![VWAP vs. Closing price](img/dc3137f72da6ff2f9a3bb35ebc8240f1.png)
+![VWAP vs. Closing price](img/dc3137f72da6ff2f9a3bb35ebc8240f1.png)
 
-<figcaption>VWAP vs. Closing price</figcaption>
+VWAP vs. Closing price
 
-</figure>
+
 
 如果你看到 VWAP 的图表，尽管收盘价频繁波动，我们可以清楚地看到 VWAP 在上升。上升的 VWAP 表明买方比卖方多。
 

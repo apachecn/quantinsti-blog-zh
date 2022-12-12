@@ -195,7 +195,7 @@ Y(1) = x(1) Y(2) = x(1) + x(2) ... Y(n) = x(1) + x(2) + ...+ x(n)
 
 一旦我们有了所有块的重新标度范围，我们就计算每个分区的平均值，并记下它以及该分区的每个块中的样本数，如图所示。
 
-<figure class="kg-card kg-image-card">![Hurst Exponent 10](img/2e34c5367bad691d02ccdbd19a2fcde9.png)</figure>
+![Hurst Exponent 10](img/2e34c5367bad691d02ccdbd19a2fcde9.png)
 
 | **范围** | Zero point one eight two |
 | **R/S(范围/标准)** | Two point five two eight |

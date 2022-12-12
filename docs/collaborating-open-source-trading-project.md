@@ -146,43 +146,43 @@ GitHub 工具只不过是云中的 Git 服务器，它允许我们在互联网�
 
 从您的项目所在的文件夹中，键入以下命令:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/085b7530e16588e86886034c23ee2718.png)</figure>
+![](img/085b7530e16588e86886034c23ee2718.png)
 
 您将看到类似这样的内容:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/afbd233fbba3b0f4138e78a166c17572.png)</figure>
+![](img/afbd233fbba3b0f4138e78a166c17572.png)
 
 此时，您已经在您的机器中克隆了 pyfolio 存储库。下图显示了一个图形表示。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/dc1c29c5283883826c39e1798210e76e.png)</figure>
+![](img/dc1c29c5283883826c39e1798210e76e.png)
 
 让我们转到 pyfolio 文件夹，列出其中的文件，以检查代码文件和文件夹。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/23573e334be5221b4bf336fc5e5cd76e.png)</figure>
+![](img/23573e334be5221b4bf336fc5e5cd76e.png)
 
 在根文件夹中，你可以看到这个包的文件，包括许可证，readme，whatsnew 等一些有趣的阅读文件。还有 setup.py 脚本来在我们的 python 环境中安装这个库。
 
 如果我们键入命令 *git log —oneline* ，我们可以看到项目中所有开发人员执行的所有历史提交。更有趣的是，我们可以在历史开发时间线的任何点上移动，并检查开发人员留下的消息，以了解变更的原因。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/8138c1902b466ff6c62f28076247d8f3.png)</figure>
+![](img/8138c1902b466ff6c62f28076247d8f3.png)
 
 要检查任何提交的变更细节，您可以键入 *git show < commit Id >。*您可以看到作者、日期、消息或更改原因以及一些红色和绿色的行。红线是旧代码，绿线是新代码。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/ab5ba45481f9f77db60dc21f98bc5489.png)</figure>
+![](img/ab5ba45481f9f77db60dc21f98bc5489.png)
 
 为了安装位于我们机器中的 pyfolio 库，并且为了能够修改代码而不必在每次修改代码时反复安装库，我们将使用 *develop* 参数，以便 python 读取正在开发的项目的文件，而不是进行普通的安装。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/3dc828ac56dfc6ba762c2a8ed7a051d8.png)</figure>
+![](img/3dc828ac56dfc6ba762c2a8ed7a051d8.png)
 
 让我们用命令 c *onda list* 检查一下我们确实已经在我们的机器上安装了库
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/f7677afdc370d136a24aa9c492175b60.png)</figure>
+![](img/f7677afdc370d136a24aa9c492175b60.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/51c9d7ed2f9efebc2827a2c34e732767.png)</figure>
+![](img/51c9d7ed2f9efebc2827a2c34e732767.png)
 
 因此，我们已经在我们的机器上安装了开发库，我们可以在我们最喜欢的 IDE 或编辑器中创建一个项目。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/d12c97ebe4ddc094427b6f1e488c8287.png)</figure>
+![](img/d12c97ebe4ddc094427b6f1e488c8287.png)
 
 * * *
 
@@ -192,21 +192,21 @@ GitHub 工具只不过是云中的 Git 服务器，它允许我们在互联网�
 
 让我们用 *git status* 命令检查 Git 中的当前情况。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/735fe3f44f63f6338b240c14dffd9c58.png)</figure>
+![](img/735fe3f44f63f6338b240c14dffd9c58.png)
 
 输出显示我们在分支主机上，并且分支是最新的。
 
 origin 分支是 GitHub 上的原始 pyfolio 存储库，我们可以使用 *git remote -v* 命令看到:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/c5e0355bf665a7d440540ae1b1178e90.png)</figure>
+![](img/c5e0355bf665a7d440540ae1b1178e90.png)
 
 让我们用 git checkout -b mypyfolio 命令创建一个分支，以便在我们的 Git 存储库中有一个新的开发路径:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/3a859ba41dc12a110e43948fa4c92226.png)</figure>
+![](img/3a859ba41dc12a110e43948fa4c92226.png)
 
 我们可以用 git status 命令检查它:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0f301edbf3896a271ce4f02f71bc2fa3.png)</figure>
+![](img/0f301edbf3896a271ce4f02f71bc2fa3.png)
 
 这告诉我们，我们正在分支 *mypyfolio* 上工作，还没有任何变化。
 
@@ -234,7 +234,7 @@ warnings.filterwarnings('ignore')
 
 因此，让我们修改源代码，删除任何对 zipline 的引用。警告消息说警告来自 pyfolio/pyfolio/pos.py 文件行 27。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/4cc4a49c1aa0ec5d326fb8df496f9220.png)</figure>
+![](img/4cc4a49c1aa0ec5d326fb8df496f9220.png)
 
 第 21-22 行试图导入库 zipline.assets，如果不可行，那么它会触发我们在导入 pyfolio 库时看到的警告消息。
 
@@ -242,45 +242,45 @@ warnings.filterwarnings('ignore')
 
 因此，让我们在所有 pyfolio 库文件中查找 [ZIPLINE](/introduction-zipline-python/) 常量，看看它在哪里被使用。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/2672f06ce164250815ed94ca9ffc4f3e.png)</figure>
+![](img/2672f06ce164250815ed94ca9ffc4f3e.png)
 
 在第 23、25 行中，我们看到了尝试导入 zipline.assets 库的 try-except 构造。每当 zipline.assets 库被导入时，在第 146 行使用常量 ZIPLINE，包括期货的乘数，因为股票的乘数是 1。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/7a03d42c985203aafe16276d5f719264.png)</figure>
+![](img/7a03d42c985203aafe16276d5f719264.png)
 
 因此，对于这个简单的例子，我们假设我们没有一个乘数，并简单地避免导入 zipline.assets 库。为此，我们删除或注释掉整个 try-except，并将 ZIPLINE 变量初始化为 False。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/96e8a45961ffc33d779703b18689b36d.png)</figure>
+![](img/96e8a45961ffc33d779703b18689b36d.png)
 
 现在，我们可以再次导入库来检查我们是否避免了警告消息。由于我们在导入 pyfolio 库时不再看到警告，这一更改是完美的，所以让我们检查一下 Git 中的更改。
 
 使用 *git status* 命令，我们可以检查代码中发生了什么变化。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/b1ba5f02052310166c09e6b47d26c0b4.png)</figure>
+![](img/b1ba5f02052310166c09e6b47d26c0b4.png)
 
 我们可以看到我们在分支 *mypyfolio* 中，修改后的文件是 *pyfolio/pos.py.* 它还告诉我们推荐的命令，以将文件添加到 Git tracker 和/或提交我们所做的更改。
 
 在此之前，让我们检查一下在 Git 中注册的最后一个版本的文件和我们修改过的文件之间存在哪些差异。为此，我们使用命令 *git diff pyfolio/pos.py*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/00896a6cc7dba429cad636aa31c5521d.png)</figure>
+![](img/00896a6cc7dba429cad636aa31c5521d.png)
 
 我们看到红色的行相对于 git 中注册的最新版本进行了修改，绿色的行相对于 Git 中注册的最新版本进行了添加。此外，这些正是我们刚刚做出的改变，因此我们对结果感到满意。
 
 让我们用命令 *git add pyfolio/pos.py 和 commit -m <在 git 中注册我们的更改，用 commit >* 记录消息
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0867ce2af0e54134b5c6d0de6b0f9d6f.png)</figure>
+![](img/0867ce2af0e54134b5c6d0de6b0f9d6f.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/783c036a97d7677bfa434ae48a673274.png)</figure>
+![](img/783c036a97d7677bfa434ae48a673274.png)
 
 如果我们再次键入 git status 命令，我们可以看到
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/4dee4a0d82b29c97b1e52db99a378e21.png)</figure>
+![](img/4dee4a0d82b29c97b1e52db99a378e21.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/05cd2295e305b06f7873d268ca9c1d2a.png)</figure>
+![](img/05cd2295e305b06f7873d268ca9c1d2a.png)
 
 再次检查 git 状态，我们可以看到 out 分支 *mypyfolio* 比分支起点提前一次提交。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/114b1073b0086791449492c9f5a40b9b.png)</figure>
+![](img/114b1073b0086791449492c9f5a40b9b.png)
 
 ### 更改夏普比率函数
 
@@ -288,59 +288,59 @@ warnings.filterwarnings('ignore')
 
 为此，打开负责编排时间序列分析的 pyfolio/timeseries.py 文件，并查找 Sharpe ratio 函数。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/fccb665a22cfc4c06fd0cdf1e3601bf3.png)</figure>
+![](img/fccb665a22cfc4c06fd0cdf1e3601bf3.png)
 
 从第 651 行到第 665 行的代码块负责调用计算性能指标的函数，我们可以看到夏普比率是用*empyric*库计算的。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/9460a2e87e61966451b98b011235509b.png)</figure>
+![](img/9460a2e87e61966451b98b011235509b.png)
 
 因此，我们将修改第 655 行来调用我们的函数来计算夏普比率。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/93e8cae0f5fc3a704bf0190edd579cf7.png)</figure>
+![](img/93e8cae0f5fc3a704bf0190edd579cf7.png)
 
 在 timeseries.py 文件本身中，第 262 行有一个计算夏普比率的函数，但是正如函数的装饰所表明的，它已被弃用，事实上，它调用了*empyric*库的函数。
 
 所以我们要修改这个函数来计算夏普比率
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/f6e1c868ff0c0670b2030c70d35d21e6.png)</figure>
+![](img/f6e1c868ff0c0670b2030c70d35d21e6.png)
 
 我们引入必要的更改来计算我们的夏普比率并保存文件。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/46ef5451a4578d4bc8ab2c3d972918fe.png)</figure>
+![](img/46ef5451a4578d4bc8ab2c3d972918fe.png)
 
 有了这些变化，剩下的就是测试我们是否真的用我们的函数正确地计算了夏普比率。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/c81ea2e565849a72573adac4a7e92145.png)</figure>
+![](img/c81ea2e565849a72573adac4a7e92145.png)
 
 一切似乎都工作正常，所以让我们检查一下 git 中的变化。我们键入命令 *git status* 来检查它
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/f5d3e88898ad84fd4195127447196585.png)</figure>
+![](img/f5d3e88898ad84fd4195127447196585.png)
 
 我们可以再次看到我们正在使用的是 *mypyfolio* 分支，并且我们已经修改了 pyfolio/timeseries.py 文件。
 
 我们还可以使用*git diff py folio/time series . py*命令详细查看这些更改。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/2bb4e3998497af3dd4543928bc5a3ef7.png)</figure>
+![](img/2bb4e3998497af3dd4543928bc5a3ef7.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/6acc0f42ca625c52b7a993a0178ec23f.png)</figure>
+![](img/6acc0f42ca625c52b7a993a0178ec23f.png)
 
 同样，我们可以看到红色表示更改前的情况，绿色表示更改后的当前情况。这与我们所做的修改完全一致。
 
 让我们在 git 中注册变更，并使用命令*git add pyfolio/time series . py*和 *git commit -m <变更原因>* 将其与分支主机合并。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0857fb18f08337462adbb06f02ce09ba.png)</figure>
+![](img/0857fb18f08337462adbb06f02ce09ba.png)
 
 我们所做的改变是在 *mypyfolio* 分行，但是，我们将把我们的 *mypyfolio* 分行与 *master* 分行合并。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/c0d9df50b763017cd6355129b84f5fad.png)</figure>
+![](img/c0d9df50b763017cd6355129b84f5fad.png)
 
 git merge mvypyfolio master 命令执行合并，并向我们总结了前面情况的变化。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/5dd3c82ff72f2f379e2d38274bf243ae.png)</figure>
+![](img/5dd3c82ff72f2f379e2d38274bf243ae.png)
 
 如果我们再次检查 git 状态，我们可以看到我们的主分支比托管在 GitHub 上的原始存储库提前了两次提交。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/a273ab6c062ecdc1e8372db64a30c073.png)</figure>
+![](img/a273ab6c062ecdc1e8372db64a30c073.png)
 
 在这一点上，我们有两个选择向世界发布我们的变更。
 
@@ -362,19 +362,19 @@ git merge mvypyfolio master 命令执行合并，并向我们总结了前面情�
 
 我们可以从 GitHub web 界面本身创建一个公共存储库:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/c76f7d49f07e8323a23068d7a18b062b.png)</figure>
+![](img/c76f7d49f07e8323a23068d7a18b062b.png)
 
 然后，我们必须使用以下命令配置 GitHub 的新存储库:
 
 *git 远程添加分叉 https://github.com/mariope/mypyfolio.git*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/da6f62d9adcc0ddc318cfbb570d8b6dc.png)</figure>
+![](img/da6f62d9adcc0ddc318cfbb570d8b6dc.png)
 
 注意，forked 可以是任何名称。我们还可以看到，我们的 pyfolio 库现在有两个远程 GitHub。一个叫做 origin，是最初的 Quantopian 库，另一个是我们自己的 GitHub 库。
 
 最后，为了发布我们对 GitHub 库的修改，我们输入命令 *git push -u forked master* 。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/30e5acfddd878f010d6fd801c5260a2b.png)</figure>
+![](img/30e5acfddd878f010d6fd801c5260a2b.png)
 
 使用这个命令，我们将本地 git 存储库推送到 GitHub 存储库，它是公共的，任何想要使用、修改或修复它的人都可以使用。
 

@@ -34,7 +34,7 @@
 
 ## **扬声器**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/1965cfa8421163c46e8de63fd40f5393.png)</figure>
+![](img/1965cfa8421163c46e8de63fd40f5393.png)
 
 ### 刘辉博士
 

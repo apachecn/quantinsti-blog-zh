@@ -103,11 +103,11 @@ conda env create-f https://quantra . quantin STI . com/downloads/general/environ
 
 安装软件包时，您可能会收到一条错误消息，提示“需要 Windows C++或更高版本才能安装软件包。你可以简单地复制粘贴 [<u>链接</u>](https://visualstudio.microsoft.com/visual-cpp-build-tools/) 并下载构建工具。
 
-<figure class="kg-card kg-image-card">![](img/8794e9d97ed996f89b11cfa8bd1be00e.png)</figure>
+![](img/8794e9d97ed996f89b11cfa8bd1be00e.png)
 
 点击安装文件，确保您已经选择了“C++构建工具”复选框，并进一步选择了 5 个“可选”工具，如下图所示。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/c7d06f3d458268a5a0035385c83c5157.png)</figure>
+![](img/c7d06f3d458268a5a0035385c83c5157.png)
 
 按照安装过程中的说明进行操作，将会安装所需的软件包。然后，您可以再次尝试安装 Python 包，这一次设置将会完成。
 
@@ -118,7 +118,7 @@ conda env create-f https://quantra . quantin STI . com/downloads/general/environ
 1.  停用环境
 2.  运行以下命令:conda remove - name quantra_py - all
 
-<figure class="kg-card kg-image-card">![remove_environment](img/38b2fc8950f09840ec43ad51037fb4b0.png)</figure>
+![remove_environment](img/38b2fc8950f09840ec43ad51037fb4b0.png)
 
 注意:这里，环境名为“quantra_py”。您可以写下要删除的环境的名称。
 

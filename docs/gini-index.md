@@ -85,11 +85,11 @@
 
 在下图中，你可以看到一个倒“U”形，代表图中熵的变化。在图像中，x 轴代表数据值，y 轴代表熵值。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Variation of entropy against data points](img/3524c8cf5b1e51103357be930f3ab9e0.png)
+![Variation of entropy against data points](img/3524c8cf5b1e51103357be930f3ab9e0.png)
 
-<figcaption>Variation of entropy against data points</figcaption>
+Variation of entropy against data points
 
-</figure>
+
 
 上图显示，熵在两个极端(左右两侧)最低(无无序)，在图的中间或倒“U”形曲线处最大(高度无序)。
 

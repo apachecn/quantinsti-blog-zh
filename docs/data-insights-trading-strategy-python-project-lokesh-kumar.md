@@ -14,7 +14,7 @@
 
 Lokesh Kumar 是孟买一家最大的美国银行的风险经理。他在银行和金融领域拥有超过 6 年的经验，曾在监管模型、信贷决策模型、宏观经济研究和分析领域工作。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/3fa5544593085b4f7a9f59d9a9b596f6.png)</figure>
+![](img/3fa5544593085b4f7a9f59d9a9b596f6.png)
 
 Lokesh 拥有德里大学经济学荣誉学士学位和马德拉斯经济学院金融经济学硕士学位。此外，他还持有风险管理证书(FRM-美国 GARP)。他也是 EPAT 大学的校友。
 

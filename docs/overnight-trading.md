@@ -45,11 +45,11 @@
 
 下面你可以看到隔夜交易是如何发生的，以 AAPL 公司的股票为例。由于下午 4 点收市，此后的交易头寸都被视为隔夜交易。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Overnight trading](img/d1977bad4b3cd7d85406587f54aafd7f.png)
+![Overnight trading](img/d1977bad4b3cd7d85406587f54aafd7f.png)
 
-<figcaption>Overnight trading</figcaption>
+Overnight trading
 
-</figure>
+
 
 * * *
 

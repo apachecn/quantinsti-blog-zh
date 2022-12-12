@@ -14,7 +14,7 @@
 
 ## 关于作者
 
-<figure class="kg-card kg-image-card">![Karthik Kaushal pic](img/135349c3b66c2266cbcb7f02cea2fee0.png)</figure>
+![Karthik Kaushal pic](img/135349c3b66c2266cbcb7f02cea2fee0.png)
 
 Karthik Kaushal 是一名期权交易员，有 3 年的工作经验。他的职业生涯始于 EY 的一名数据工程师。后来，他追随自己的热情，从专业领域转向了金融市场。
 
@@ -94,7 +94,7 @@ Karthik Kaushal 是一名期权交易员，有 3 年的工作经验。他的职�
 
 例如，如果 Z>1，BANKNIFTY 当前价格为 18050。以下是回溯测试代码记录的交易(忽略数量中的小数，因为它可以四舍五入为整数)。
 
-<figure class="kg-card kg-image-card kg-width-full">![trades logged by the backtest code](img/ab5c8be662cca4069a8cf5a29a7ac3e5.png)</figure>
+![trades logged by the backtest code](img/ab5c8be662cca4069a8cf5a29a7ac3e5.png)
 
 举例来说，对于 ce，AXISBANK 数量约为 380，因为 AXISBANK 的权重约为 9.6%。因此，合同价值为 380*460 = 174，800，是 100 数量 BANKNIFTY 18100 CE 价值的 9.6%(100 * 18100 = 1810000)。
 
@@ -105,7 +105,7 @@ Karthik Kaushal 是一名期权交易员，有 3 年的工作经验。他的职�
 Number of trades: 56
 Total PnL: Rs. 7256
 
-<figure class="kg-card kg-image-card kg-width-full">![backtesting results](img/4b9abf8b16a6534fd89d9699acaa004e.png)</figure>
+![backtesting results](img/4b9abf8b16a6534fd89d9699acaa004e.png)
 
 以上结果只是一个月的时间，所以周期太小，无法下结论。目的只是为了展示这种策略的潜力。
 

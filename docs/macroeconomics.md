@@ -67,7 +67,7 @@ Q =生产的商品数量。
 
 为了让你有一个想法，下面是 2019 年的一些国内生产总值数据:
 
-<figure class="kg-card kg-image-card kg-width-full">![GDP_world_2019](img/423b47a1f766929b3d39ef8d07c05bb1.png)</figure>
+![GDP_world_2019](img/423b47a1f766929b3d39ef8d07c05bb1.png)
 
 (来源:【2019 年国内生产总值)
 

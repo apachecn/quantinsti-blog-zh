@@ -232,7 +232,7 @@ EPAT 给了你一个关于算法交易的更详尽的见解，以防你是一个
 
 **下面是一个量化分析师如何实施算法交易的简图:**
 
-<figure class="kg-card kg-image-card">**![The workflow of Algorithmic Trading](img/c860441f1f83b494711225e097542158.png)**</figure>
+**![The workflow of Algorithmic Trading](img/c860441f1f83b494711225e097542158.png)**
 
 **所以，上图显示了一个量化分析师是如何实现算法交易的。**
 

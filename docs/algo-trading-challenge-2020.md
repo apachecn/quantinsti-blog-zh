@@ -23,11 +23,11 @@
 
 * * *
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/fnqzhP75RaP3xM](https://www.slideshare.net/slideshow/embed_code/key/fnqzhP75RaP3xM)
 
-**[Algo Trading Challenge 2020](https://www.slideshare.net/QuantInsti/algo-trading-challenge-2020 "Algo Trading Challenge 2020")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[Algo Trading Challenge 2020](https://www.slideshare.net/QuantInsti/algo-trading-challenge-2020 "Algo Trading Challenge 2020")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**
 
 * * *
 

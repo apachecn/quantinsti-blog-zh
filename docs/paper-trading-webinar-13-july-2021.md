@@ -50,7 +50,7 @@
 
 ## 关于演讲者
 
-<figure class="kg-card kg-image-card kg-width-full">![Rekhit Pachanekar](img/aa39703b7125786e9950045c3024ba1a.png)</figure>
+![Rekhit Pachanekar](img/aa39703b7125786e9950045c3024ba1a.png)
 
 **雷希特·帕查内卡尔(Quant 分析师，QuantInsti)**
 

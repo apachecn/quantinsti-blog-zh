@@ -77,7 +77,7 @@
 
 **Ashutosh Dave(高级助理，内容&在 QuantInsti 的研究)**
 
-<figure class="kg-card kg-image-card">![](img/2245ebbe6eb08b25d332b9226c9fac51.png)</figure>
+![](img/2245ebbe6eb08b25d332b9226c9fac51.png)
 
 Ashutosh 在金融衍生品交易和量化金融领域拥有十多年的经验。除了对 QuantInsti 的整体内容开发做出贡献之外，他还在我们的旗舰项目 EPAT 教授 Python。
 
@@ -87,7 +87,7 @@ Ashutosh 拥有伦敦经济学院(LSE)的统计学硕士学位，并且是 GARP 
 
 **Jay Parmar(助理，内容&在 QuantInsti 的研究)**
 
-<figure class="kg-card kg-image-card">![](img/f424815bb3416415843eec4256a3aaa0.png)</figure>
+![](img/f424815bb3416415843eec4256a3aaa0.png)
 
 Jay 在 QuantInsti 担任内容与研究助理，在 BFSI 行业拥有数年经验。他积极参与 quant finance 课程的内容开发，并指导全球的 EPAT 参与者。
 
@@ -95,7 +95,7 @@ Jay 在 QuantInsti 担任内容与研究助理，在 BFSI 行业拥有数年经�
 
 **Vivek Krishnamoorthy(QuantInsti 的内容&研究负责人)**
 
-<figure class="kg-card kg-image-card">![](img/ecb4cb0643d8965c914d4c61e2a6c3ef.png)</figure>
+![](img/ecb4cb0643d8965c914d4c61e2a6c3ef.png)
 
 Vivek 教授参与者数据分析，使用 Python 构建量化策略和时间序列分析。他在印度、新加坡和加拿大的工业、学术和研究领域拥有超过 15 年的经验。
 

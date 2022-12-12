@@ -67,4 +67,4 @@
 
 ## **活动照片**
 
-<figure class="kg-card kg-gallery-card kg-width-wide">![](img/ac93c0bfd72f8ce19475e78c4cdc8759.png)![](img/43745f58e2bc3f6e372c50a455a34002.png)</figure>
+![](img/ac93c0bfd72f8ce19475e78c4cdc8759.png)![](img/43745f58e2bc3f6e372c50a455a34002.png)

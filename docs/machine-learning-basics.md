@@ -77,11 +77,11 @@
 
 这些事件可以表示为:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Timeline of machine learning](img/b86184c53fa9631c7135d0a29b725dd9.png)
+![Timeline of machine learning](img/b86184c53fa9631c7135d0a29b725dd9.png)
 
-<figcaption>Timeline of machine learning</figcaption>
+Timeline of machine learning
 
-</figure>
+
 
 * * *
 
@@ -250,11 +250,11 @@ Keras 是一个深度学习库，用于开发神经网络和其他深度学习�
 
 在机器学习和统计学中，当模型与数据拟合得太好时，或者简单地说，当模型太复杂时，就会发生过度拟合。过度拟合模型学习训练数据中的细节和噪声，以至于对模型在新数据/测试数据上的性能产生负面影响。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Overfitting](img/8de5412d7b38b6ebe43788d5239c3039.png)
+![Overfitting](img/8de5412d7b38b6ebe43788d5239c3039.png)
 
-<figcaption>Overfitting</figcaption>
+Overfitting
 
-</figure>
+
 
 过拟合问题可以通过减少特征/输入的数量或增加训练样本的数量来解决，以使机器学习算法更加通用。解决过度拟合问题的更常见的方法是正则化。
 
@@ -270,11 +270,11 @@ Keras 是一个深度学习库，用于开发神经网络和其他深度学习�
 
 让我们具体看看，机器学习系统涵盖了哪些所有服务。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Applications of machine learning](img/9aa95af1f1ceec8929d85327a59f45e9.png)
+![Applications of machine learning](img/9aa95af1f1ceec8929d85327a59f45e9.png)
 
-<figcaption>Applications of machine learning</figcaption>
+Applications of machine learning
 
-</figure>
+
 
 * * *
 

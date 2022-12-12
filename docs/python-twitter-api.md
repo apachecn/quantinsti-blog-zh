@@ -56,11 +56,11 @@ Twitter API v2 提供了不同的访问级别:基本、高级和学术研究。�
 
 下图比较了每个访问级别下的一些可用功能。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Twitter API v2 access levels](img/6cc9f9fd95ae4702d0f43ba759a2076b.png)
+![Twitter API v2 access levels](img/6cc9f9fd95ae4702d0f43ba759a2076b.png)
 
-<figcaption>Twitter API v2 access levels: Source</figcaption>
+Twitter API v2 access levels: Source
 
-</figure>
+
 
 对于本文中出现的一些代码，您需要有提升的访问权限。
 

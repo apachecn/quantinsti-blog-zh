@@ -105,11 +105,11 @@
 
 在下面给出的 AAPL 日线图中，长期移动平均线交叉策略用于生成交易信号。2016 年 9 月 2 日，当 50 日均线穿越 200 日均线上方时，产生买入信号。卖出信号产生于 2018 年 12 月 20 日，当时 50 天移动平均线交叉低于 200 天移动平均线。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Moving average crossover strategy](img/32cb49dce32c2b3dc1b6e2a0345717c6.png)
+![Moving average crossover strategy](img/32cb49dce32c2b3dc1b6e2a0345717c6.png)
 
-<figcaption>Moving average crossover strategy</figcaption>
+Moving average crossover strategy
 
-</figure>
+
 
 在定量分析中，横截面和时间序列[动量策略](https://quantra.quantinsti.com/course/momentum-trading-strategies)属于趋势交易策略。
 
@@ -150,11 +150,11 @@
 
 考虑以下 TSLA 的例子。如前所述，均值回归策略在市场无趋势(即区间波动)时效果最佳。平坦的布林线代表区间市场，在超卖和超买水平产生买入和卖出信号。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Mean reverting strategy](img/a4b444b00f2c2d2943afd41182e3053c.png)
+![Mean reverting strategy](img/a4b444b00f2c2d2943afd41182e3053c.png)
 
-<figcaption>Mean reverting strategy</figcaption>
+Mean reverting strategy
 
-</figure>
+
 
 在定量分析中，配对交易和[统计套利](https://quantra.quantinsti.com/course/statistical-arbitrage-trading)策略被归类为均值回复交易策略。
 
@@ -177,11 +177,11 @@
 
 在下面的图表中，在 2 月和 3 月的每日时间框架中，安全性 GOOGL 呈楔形下降。在 2021 年 4 月 1 日，观察到楔形上线的突破，这是买入信号的触发点。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Breakout trading strategy](img/bc5899d7f821c1cd24328a9af5a4f73d.png)
+![Breakout trading strategy](img/bc5899d7f821c1cd24328a9af5a4f73d.png)
 
-<figcaption>Breakout trading strategy</figcaption>
+Breakout trading strategy
 
-</figure>
+
 
 在定量分析中，使用了先进的定量模型，如时序机制转换和[隐马尔可夫模型](/intro-hidden-markov-chains/)来设计突围策略。
 
@@ -225,7 +225,7 @@
 *   无监督学习交易策略
 *   强化学习交易策略
 
-<figure class="kg-card kg-image-card kg-width-full">![Machine learning based trading strategies](img/45e0aa26ebc1b3c008b8e273e158011f.png)</figure>
+![Machine learning based trading strategies](img/45e0aa26ebc1b3c008b8e273e158011f.png)
 
 * * *
 
@@ -250,11 +250,11 @@
 
 让我们通过下图来理解这一点:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Linear regression](img/2240189e7f0228c913ee20cf56e3f94c.png)
+![Linear regression](img/2240189e7f0228c913ee20cf56e3f94c.png)
 
-<figcaption>Linear regression</figcaption>
+Linear regression
 
-</figure>
+
 
 上图在 x 轴上显示了“标准普尔 500 回报率”的给定数据，在 y 轴上显示了“股票回报率 ABC”的预测数据。要计算回归线斜率，可以使用 Python 中的 [**Scikit-learn**](https://en.wikipedia.org/wiki/Scikit-learn) 库。
 
@@ -262,11 +262,11 @@ Scikit-learn library 提供监督和非监督模型的算法，包括回归技�
 
 要计算因变量/预测变量 y 截距，公式如下:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Formula for y intercept of linear regression](img/371a5bc5ccbf23aa60462db9b966812d.png)
+![Formula for y intercept of linear regression](img/371a5bc5ccbf23aa60462db9b966812d.png)
 
-<figcaption>Formula for y intercept of linear regression</figcaption>
+Formula for y intercept of linear regression
 
-</figure>
+
 
 例如，如果您计算的斜率为 1.5，截距为 20，则股票的最终线性回归公式为:
 
@@ -288,11 +288,11 @@ y= 20 + 1.5x
 
 分类是使用支持向量分类器(SVC)技术应用的方法之一，并且是机器学习中无监督学习方法的一部分。分类技术将输入映射到一个离散的类或类别，如下图所示:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Classification trading strategy](img/8c131e15a182586491571640a45b2321.png)
+![Classification trading strategy](img/8c131e15a182586491571640a45b2321.png)
 
-<figcaption>Classification</figcaption>
+Classification
 
-</figure>
+
 
 例如，交易域中的类别可以被分类为以下任何市场中的进入位置和退出位置-股票、商品、债券、衍生品。
 
@@ -341,11 +341,11 @@ K-Means 聚类是一种无监督的机器学习，它根据相似性对数据进
 
 这与人类的学习方式非常相似。当他们在某个领域获得了想要的结果，比如说，在一次考试中得了高分，他们就会得到一份好工作的奖励。以下是机器学习模型如何与强化学习一起工作的图示:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Reinforcement learning](img/959ef909081c196e5b1e6490e58dd1df.png)
+![Reinforcement learning](img/959ef909081c196e5b1e6490e58dd1df.png)
 
-<figcaption>Reinforcement learning</figcaption>
+Reinforcement learning
 
-</figure>
+
 
 推荐课程:[交易机器学习入门](https://quantra.quantinsti.com/startCourseDetails?cid=46&section_no=4&unit_no=14&course_type=paid&unit_type=Notebook)
 

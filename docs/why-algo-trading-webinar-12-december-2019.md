@@ -46,10 +46,10 @@
 
 您可以点击此处查看本次网络研讨会的 powerpoint 演示文稿:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/Itc3zZFSAPh8YA](https://www.slideshare.net/slideshow/embed_code/key/Itc3zZFSAPh8YA)
 
-**[Webinar on Algorithmic Trading - Why make the move? with Vivek Krishnamoorthy and Ashutosh Dave](https://www.slideshare.net/QuantInsti/webinar-on-algorithmic-trading-why-make-the-move-with-vivek-krishnamoorthy-and-ashutosh-dave-204982347 "Webinar on Algorithmic Trading - Why make the move? with Vivek Krishnamoorthy and Ashutosh Dave")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[Webinar on Algorithmic Trading - Why make the move? with Vivek Krishnamoorthy and Ashutosh Dave](https://www.slideshare.net/QuantInsti/webinar-on-algorithmic-trading-why-make-the-move-with-vivek-krishnamoorthy-and-ashutosh-dave-204982347 "Webinar on Algorithmic Trading - Why make the move? with Vivek Krishnamoorthy and Ashutosh Dave")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**
 
 在 Slideshare 上查看我们所有的 [40 多个之前的网络研讨会 powerpoint 演示文稿。](https://www.slideshare.net/QuantInsti/presentations)

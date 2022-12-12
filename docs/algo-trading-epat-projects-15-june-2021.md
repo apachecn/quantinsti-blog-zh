@@ -36,7 +36,7 @@
 
 ### 维文·托马斯(一位经验丰富的量化分析师)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/b2838985b81c3217ae97baf94a97ee2a.png)</figure>
+![](img/b2838985b81c3217ae97baf94a97ee2a.png)
 
 Vivin Thomas 是金融服务行业的一名定量分析师，常驻印度孟买。他在量化金融领域积累了 9 年的专业经验，涵盖衍生品定价和风险。他在多个职位和组织中成长，特别是近年来在两家全球知名的投资银行担任副总裁。Vivin 拥有 IIT 马德拉斯大学的工程学士和硕士学位。Vivin 还自豪地获得了 EPAT 卓越证书。
 

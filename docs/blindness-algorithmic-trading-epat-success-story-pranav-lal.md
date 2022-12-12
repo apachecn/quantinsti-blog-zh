@@ -8,7 +8,7 @@
 
 确实如此。Pranav Lal 的鼓舞人心的旅程结合了创新、卓越、勇气和永不放弃的态度。普拉纳夫天生失明，但他克服挑战和打破所有障碍的决心帮助他通过追求 EPAT 学会了算法交易，并获得了 EPAT 优秀证书。
 
-<figure class="kg-card kg-image-card">![](img/d2973ded9a6fbfffb13cfef00de8eb8c.png)</figure>
+![](img/d2973ded9a6fbfffb13cfef00de8eb8c.png)
 
 作为一名摄影师、技术爱好者和作家，Pranav 已经取得了里程碑式的成就。他是一名 TedX 演讲者，被印度主要报纸之一《印度斯坦时报》的一篇文章特写，并接受过金特等著名媒体渠道的采访。
 

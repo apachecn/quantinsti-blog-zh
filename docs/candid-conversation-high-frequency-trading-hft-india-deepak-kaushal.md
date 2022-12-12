@@ -4,11 +4,11 @@
 
 * * *
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://open.spotify.com/embed-podcast/episode/1XRzNsuv0Q545raW4bVLtG?si=e8DVTEn-QXeab93KgE3FGg](https://open.spotify.com/embed-podcast/episode/1XRzNsuv0Q545raW4bVLtG?si=e8DVTEn-QXeab93KgE3FGg)
 
-</figure>
+
 
 * * *
 

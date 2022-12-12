@@ -42,39 +42,39 @@ Zipline 是 Python 中最完整的库之一，它与 Pyfolio 库一起为我们�
 
 步骤 02 -单击正在运行的实例。
 
-<figure class="kg-card kg-image-card">![](img/ee8ab41d95bad25ea0d0f4bde61c082d.png)</figure>
+![](img/ee8ab41d95bad25ea0d0f4bde61c082d.png)
 
 步骤 03 -单击“启动实例”按钮。
 
-<figure class="kg-card kg-image-card">![](img/b9572a1d0e1e2f778bd92a34cb721b77.png)</figure>
+![](img/b9572a1d0e1e2f778bd92a34cb721b77.png)
 
 步骤 04 -选择一个 Windows 实例。即微软 Windows Server 2019 基础:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/610db5c94f04480b791f6cf15f0c281c.png)</figure>
+![](img/610db5c94f04480b791f6cf15f0c281c.png)
 
 AWS 有各种各样的机器配置，从简单和免费的机器到超级计算机，选择一个最适合您的项目和预算。对于这个简单的例子，他们称之为“符合自由层条件”的机器就足够了。
 
 步骤 05 -选择一个实例类型，如带有 8Gb RAM 的 t2.large 或任何其他适合您需要的类型。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/dfbade91811be2276b1201033c12ffc9.png)</figure>
+![](img/dfbade91811be2276b1201033c12ffc9.png)
 
 步骤 06 -点击查看和启动按钮。
 
 步骤 07 -查看实例的详细信息，然后单击启动按钮。(这里我们接受默认配置)。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/59d52fb1f8b535eda070b6bfca6c0481.png)</figure>
+![](img/59d52fb1f8b535eda070b6bfca6c0481.png)
 
 步骤 08 -现在，我们已经运行了一个随时可用的 Windows 2019 服务器实例:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/216e59e1447a6787f491cdc54dd3d1e6.png)</figure>
+![](img/216e59e1447a6787f491cdc54dd3d1e6.png)
 
 步骤 09 -单击 Connect 按钮获取实例的 DNS、用户名和密码。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0eb35d534165cd6bc1d2f434bcee991b.png)</figure>
+![](img/0eb35d534165cd6bc1d2f434bcee991b.png)
 
 步骤 10 -启动远程管理员工具，并使用上一步中的凭证连接到远程机器。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/8a45b4fa465ac9c49b46bea99034a1ac.png)</figure>
+![](img/8a45b4fa465ac9c49b46bea99034a1ac.png)
 
 这里我们有一台远程 Windows 机器可以使用。
 
@@ -88,41 +88,41 @@ AWS 有各种各样的机器配置，从简单和免费的机器到超级计算�
 
 [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/e877f9215d843dd723cb0e093a60a7a1.png)</figure>
+![](img/e877f9215d843dd723cb0e093a60a7a1.png)
 
 步骤 02 -下载过程完成后，我们就可以开始安装了。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/a24140f5a2af00e2309cc4381d340085.png)</figure>
+![](img/a24140f5a2af00e2309cc4381d340085.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/381f5652f317edc22b79762d55bf8789.png)</figure>
+![](img/381f5652f317edc22b79762d55bf8789.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/247f64502474e51af5ce52f3b84514ad.png)</figure>
+![](img/247f64502474e51af5ce52f3b84514ad.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/bcbd4eda0777833bf3ba904b59a51548.png)</figure>
+![](img/bcbd4eda0777833bf3ba904b59a51548.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/2eef7274f7b51fe85ad069eb10250f1f.png)</figure>
+![](img/2eef7274f7b51fe85ad069eb10250f1f.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/af626116e3a2d7354f9e101073745dcb.png)</figure>
+![](img/af626116e3a2d7354f9e101073745dcb.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/13d8dcc22a285f5847359f7cd9647ac5.png)</figure>
+![](img/13d8dcc22a285f5847359f7cd9647ac5.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/c9a44b9a47de7b626b38d053f0cdb68b.png)</figure>
+![](img/c9a44b9a47de7b626b38d053f0cdb68b.png)
 
 现在我们已经在机器上安装了 Anaconda 套装。
 
 步骤 03 -启动 Anaconda 导航器:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/b23be2f129de09dd9e1c549a025240d6.png)</figure>
+![](img/b23be2f129de09dd9e1c549a025240d6.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/18233bbab2cf3173e8d0a568219190ea.png)</figure>
+![](img/18233bbab2cf3173e8d0a568219190ea.png)
 
 步骤 04 -点击环境按钮:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/663c6b9bc1c3d9765712fa2ed75a4439.png)</figure>
+![](img/663c6b9bc1c3d9765712fa2ed75a4439.png)
 
 步骤 05 -在 base root 环境中，单击 play 按钮启动 Conda 终端。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/ceb0e4da6f05ddd8e7df8561fc0fbcef.png)</figure>
+![](img/ceb0e4da6f05ddd8e7df8561fc0fbcef.png)
 
 * * *
 
@@ -134,7 +134,7 @@ AWS 有各种各样的机器配置，从简单和免费的机器到超级计算�
 
 *>康达环境列表*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/411a9a4599aab4edf8af3745c4d92e2a.png)</figure>
+![](img/411a9a4599aab4edf8af3745c4d92e2a.png)
 
 此时，我们只能看到默认安装的基础环境。
 
@@ -142,19 +142,19 @@ AWS 有各种各样的机器配置，从简单和免费的机器到超级计算�
 
 *>康达 create -n z35 python=3.5*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0e21f534a121162bf5b49b01e5b95488.png)</figure>
+![](img/0e21f534a121162bf5b49b01e5b95488.png)
 
 步骤 03 -让我们再次检查 conda 环境，看看我们的新 z35 环境:
 
 *>康达环境列表*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/3dfbe5e4a5032c9cfa3f089d216f1063.png)</figure>
+![](img/3dfbe5e4a5032c9cfa3f089d216f1063.png)
 
 步骤 04 -现在，我们开始激活 z35 环境:
 
 *>康达激活 z35*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/78cd79e4ab209cb59cb94e5ea1b9e319.png)</figure>
+![](img/78cd79e4ab209cb59cb94e5ea1b9e319.png)
 
 星号表示活动环境。
 
@@ -162,37 +162,37 @@ AWS 有各种各样的机器配置，从简单和免费的机器到超级计算�
 
 *> python -版*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/5493c60adb0208ce8b9928a39dcfa6fe.png)</figure>
+![](img/5493c60adb0208ce8b9928a39dcfa6fe.png)
 
 步骤 06 -安装 ipykernel:
 
 *>康达安装 ipykernel*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/f406edf414e3bf7dbb67cf048ffd3da4.png)</figure>
+![](img/f406edf414e3bf7dbb67cf048ffd3da4.png)
 
 *> python -m ipykernel 安装-用户*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/ec967170ba1a366492f726293eeea3fc.png)</figure>
+![](img/ec967170ba1a366492f726293eeea3fc.png)
 
 步骤 07 -安装 Jupyter:
 
 *>康达安装 jupyter*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/cbaa350fca27249797a20428da94cf60.png)</figure>
+![](img/cbaa350fca27249797a20428da94cf60.png)
 
 步骤 08 -启动 Jupyter 笔记本:
 
 *> jupyter notebook*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/2c7c030e737c0fa5a869e4561d188dc9.png)</figure>
+![](img/2c7c030e737c0fa5a869e4561d188dc9.png)
 
 默认的 web 导航器打开 Jupyter 应用程序。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/4b36727680c32c45d50a8eab1bc38a73.png)</figure>
+![](img/4b36727680c32c45d50a8eab1bc38a73.png)
 
 步骤 09 -创建一个新的笔记本并选择 z35 内核。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/2ccf1e59c2b6d90717a8601e42e6cf08.png)</figure>
+![](img/2ccf1e59c2b6d90717a8601e42e6cf08.png)
 
 如果笔记本显示消息:**内核错误！**这意味着新环境不存在！
 
@@ -204,19 +204,19 @@ AWS 有各种各样的机器配置，从简单和免费的机器到超级计算�
 
 *> python3 -m pip 安装 ipykernel*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/de8c529de606267367c644781e13fbb8.png)</figure>
+![](img/de8c529de606267367c644781e13fbb8.png)
 
 *> python3 -m ipykernel 安装-名称 z35 -用户*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0a62e514e3659014b98ecd5e615a0862.png)</figure>
+![](img/0a62e514e3659014b98ecd5e615a0862.png)
 
 步骤 11 -再次启动 Jupyter 笔记本:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/98e21b8bbd565da60cbd204d3963c664.png)</figure>
+![](img/98e21b8bbd565da60cbd204d3963c664.png)
 
 步骤 12 -再次启动 Jupyter 笔记本:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0d5b4111cf6555927b4653ea3e6c5393.png)</figure>
+![](img/0d5b4111cf6555927b4653ea3e6c5393.png)
 
 现在我们已经在 z35 环境中的 Python 3.5 上安装了 Jupyter notebook。
 
@@ -232,19 +232,19 @@ AWS 有各种各样的机器配置，从简单和免费的机器到超级计算�
 
 *>伯爵安装 numpy 熊猫 matplotlib*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/aad11c8afef3789c3725c20736dfc26f.png)</figure>
+![](img/aad11c8afef3789c3725c20736dfc26f.png)
 
 步骤 02 -和 zipline 库，只获取该库的安装消息:
 
 *>* 康达安装-康达-锻造滑索
 
-<figure class="kg-card kg-image-card kg-width-full">![install zipline](img/e4617361475edfa1eae4be8ab9067eae.png)</figure>
+![install zipline](img/e4617361475edfa1eae4be8ab9067eae.png)
 
 步骤 03 -现在，我们再次启动笔记本电脑，检查 zipline 库是否安装成功:
 
 *> jupyter notebook*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/7f0fb6b6efe910c25feb053151710c25.png)</figure>
+![](img/7f0fb6b6efe910c25feb053151710c25.png)
 
 **太好了！zipline 库已成功导入。**
 
@@ -260,11 +260,11 @@ AWS 有各种各样的机器配置，从简单和免费的机器到超级计算�
 
 步骤 01 -设置 QUANDL_API_KEY 环境变量:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/42c49dac08c54f943bd2e14d5a214f7c.png)</figure>
+![](img/42c49dac08c54f943bd2e14d5a214f7c.png)
 
 如果您想将环境变量配置为永久性的，您可以在系统属性窗口中包含它，单击环境变量按钮。
 
-<figure class="kg-card kg-image-card">![](img/e3a0451f5e52d45b60bcea4305e90fac.png)</figure>
+![](img/e3a0451f5e52d45b60bcea4305e90fac.png)
 
 现在，我们已经安装了 Zipline 库，创建了一个 Quandl 帐户，获得了从 Quandl Wiki DB 检索数据的令牌，并使用该令牌配置了我们的 Windows 机器。是时候检索 Wiki DB 数据集了，以便在 Zipline 回溯测试中使用它们。
 
@@ -272,9 +272,9 @@ AWS 有各种各样的机器配置，从简单和免费的机器到超级计算�
 
 *> zipline 摄取-b quandl*
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/379bcc7dc60256771ae91f49abe81dc9.png)</figure>
+![](img/379bcc7dc60256771ae91f49abe81dc9.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/ff05723d16f550a7b63f7f8e2a913f5a.png)</figure>
+![](img/ff05723d16f550a7b63f7f8e2a913f5a.png)
 
 现在我们有一些来自 Quandl 的数据来测试一些策略。是时候测试一个基本策略了。
 
@@ -284,7 +284,7 @@ Zipline 实际上存在 2000 年之前的日期问题，因此需要对 zipline 
 
 步骤 03 -在 benchmark.py 上应用变通方法
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/54245d6f379f2a9e6420639904e44e7c.png)</figure>
+![](img/54245d6f379f2a9e6420639904e44e7c.png)
 
 * * *
 
@@ -294,7 +294,7 @@ Zipline 实际上存在 2000 年之前的日期问题，因此需要对 zipline 
 
 下面的代码改编自 Andreas Clenow 的书“交易进化”，是一个简单的算法，当价格穿过移动平均线时买入股票，当价格穿过移动平均线时平仓。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/1e4b2a5d7f3acb41a8f37ff81d90a77c.png)</figure>
+![](img/1e4b2a5d7f3acb41a8f37ff81d90a77c.png)
 
 * * *
 
@@ -304,11 +304,11 @@ Zipline 实际上存在 2000 年之前的日期问题，因此需要对 zipline 
 
 在“分析”功能中，我们可以编写任何代码来分析回测，这里我们使用 Pyfolio 库来创建一个简单的退货单。值得研究该图书馆，以发挥其全部力量。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/f59e46fc60ca76936c538d41764acac9.png)</figure>
+![](img/f59e46fc60ca76936c538d41764acac9.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/15f34a3b365824aa3f46704d76d57361.png)</figure>
+![](img/15f34a3b365824aa3f46704d76d57361.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/df58e9c94b2495b8cae9b97a905c5658.png)</figure>
+![](img/df58e9c94b2495b8cae9b97a905c5658.png)
 
 * * *
 

@@ -14,7 +14,7 @@
 
 ## 关于作者
 
-<figure class="kg-card kg-image-card">![](img/9318981b494f3b4023c2e0e0dbfd32d2.png)</figure>
+![](img/9318981b494f3b4023c2e0e0dbfd32d2.png)
 
 Evgeny Tishkin 在算法交易和 HFT 领域拥有超过 10 年的丰富经验，曾在多家自营交易公司和对冲基金担任量化开发人员、首席软件架构师、量化分析师和首席技术官。
 
@@ -129,9 +129,9 @@ Ernie P. Chan 博士的《算法交易:获胜策略及其基本原理》一书�
 
 你可以看到下面的战略对照表和图表。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/baf7eeee2cba46d4e5ab163e88f3f9ea.png)</figure>
+![](img/baf7eeee2cba46d4e5ab163e88f3f9ea.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/ca4dd8c856ab2d7c85875c665072aa55.png)</figure>
+![](img/ca4dd8c856ab2d7c85875c665072aa55.png)
 
 * * *
 

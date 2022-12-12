@@ -20,7 +20,7 @@
 
 ## 扬声器
 
-<figure class="kg-card kg-image-card">![Vivek Krishnamoorthy pic](img/9651cc77055b5e96ffb5cef44f2803b7.png)</figure>
+![Vivek Krishnamoorthy pic](img/9651cc77055b5e96ffb5cef44f2803b7.png)
 
 **Vivek Krishnamoorthy(QuantInsti 的内容&研究负责人)**
 

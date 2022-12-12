@@ -113,7 +113,7 @@ PC 的技术规格应该是有利的，例如 RAM 和操作系统。此外，由
 
 阅读[蜡烛图](/candlestick-patterns-meaning/)是这里的另一个重要话题。当你日内交易时，你必须知道烛台上不同的点是什么意思。如你所见，在下图中，有两个烛台。一个看涨，一个看跌烛台。让我们找出方法。
 
-<figure class="kg-card kg-image-card">![](img/5c74eed0b943407336b7a94d89902050.png)</figure>
+![](img/5c74eed0b943407336b7a94d89902050.png)
 
 [维基媒体公社](https://commons.wikimedia.org/wiki/File:Candlestick_chart_scheme_03-en.svg)
 
@@ -246,11 +246,11 @@ Tp =目标利润
 
 此外，这里有一个简短的视频，解释如何使用 Python 进行外汇交易:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/mWA4a4Afezc?feature=oembed](https://www.youtube.com/embed/mWA4a4Afezc?feature=oembed)
 
-</figure>
+
 
 ### 股票
 
@@ -258,11 +258,11 @@ Tp =目标利润
 
 如果你想了解更多关于如何选择股票进行日内交易的信息，你必须观看下面这段来自 Quantra 的视频:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/TJni2fxrEMY?feature=oembed](https://www.youtube.com/embed/TJni2fxrEMY?feature=oembed)
 
-</figure>
+
 
 ‌ ‌
 
@@ -360,11 +360,11 @@ Tp =目标利润
 
 另外，看看这段视频，了解日内交易策略的介绍:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/K3Q_tR30ZIc?feature=oembed](https://www.youtube.com/embed/K3Q_tR30ZIc?feature=oembed)
 
-</figure>
+
 
 要深入研究，你可以报名参加 Quantra 上的[日交易策略课程](https://quantra.quantinsti.com/course/day-trading-strategies)，这是专门为初学者提供的知识。
 

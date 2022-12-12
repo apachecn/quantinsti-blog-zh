@@ -54,11 +54,11 @@
 
 下面，您可以看到一个资产图，它是一个具有确定趋势的非平稳时间序列，由**“蓝色”**曲线表示，其去趋势平稳时间序列由**“红色”**曲线表示。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Stationary and non stationary time series](img/538d920bb0a9965fc74278815539d4e0.png)
+![Stationary and non stationary time series](img/538d920bb0a9965fc74278815539d4e0.png)
 
-<figcaption>Stationary and non stationary</figcaption>
+Stationary and non stationary
 
-</figure>
+
 
 ### 单位根
 
@@ -176,11 +176,11 @@ H0 的 t 检验被称为扩展的迪基-富勒(ADF)检验。
 
 请看下图，了解每只股票的收盘价数据是如何在 excel 表格中并排显示的。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Data for two stocks](img/f00160a0d70010b212a6a370c0aad5b2.png)
+![Data for two stocks](img/f00160a0d70010b212a6a370c0aad5b2.png)
 
-<figcaption>Data for two stocks</figcaption>
+Data for two stocks
 
-</figure>
+
 
 ### 第二步:使用一组观察值对两只股票进行线性回归
 
@@ -190,53 +190,53 @@ H0 的 t 检验被称为扩展的迪基-富勒(ADF)检验。
 
 下面是如何在 excel 表格中完成的。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Linear regression on two stocks](img/ae94137a96d10fbe51365e8e28c82925.png)
+![Linear regression on two stocks](img/ae94137a96d10fbe51365e8e28c82925.png)
 
-<figcaption>Linear regression on two stocks</figcaption>
+Linear regression on two stocks
 
-</figure>
+
 
 我们将使用-3.98 的 X 可变系数作为套期保值比率。
 
 ### 第三步:计算“Delta”列中残差之间的差值
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Difference between residual and delta](img/c13199dc0516558ef180cbd4fd860f86.png)
+![Difference between residual and delta](img/c13199dc0516558ef180cbd4fd860f86.png)
 
-<figcaption>Difference between residual and delta</figcaption>
+Difference between residual and delta
 
-</figure>
+
 
 ### 步骤 4:计算下一列的 t-1 残差
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Calculation of t-1 residual](img/bcf0a89f3f04b6865c8ea78f5ed99b78.png)
+![Calculation of t-1 residual](img/bcf0a89f3f04b6865c8ea78f5ed99b78.png)
 
-<figcaption>Calculation of t-1 residual</figcaption>
+Calculation of t-1 residual
 
-</figure>
+
 
 ### 步骤 5:对 Delta 和 t-1 列执行线性回归
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Linear regression](img/f103753e3828474a27f6e8521a7d2365.png)
+![Linear regression](img/f103753e3828474a27f6e8521a7d2365.png)
 
-<figcaption>Linear regression</figcaption>
+Linear regression
 
-</figure>
+
 
 ### 步骤 6:比较 t 检验统计量和临界值
 
 为了拒绝存在单位根的零假设，在这种情况下，t 统计量必须小于临界值。ADF 测试的临界值有自己的分布，下面是一些临界值的快照:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Critical values](img/7a5a2714d55484321abe46c7ead8752e.png)
+![Critical values](img/7a5a2714d55484321abe46c7ead8752e.png)
 
-<figcaption>Critical values (Source: Wikipedia)</figcaption>
+Critical values (Source: Wikipedia)
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![t-stat](img/9a99f8f68ed88b5ab68c229d22c11911.png)
 
-<figcaption>t-stat</figcaption>
+![t-stat](img/9a99f8f68ed88b5ab68c229d22c11911.png)
 
-</figure>
+t-stat
+
+
 
 *   我们将使用临界值-2.89，因为我们只有不到 100 个观察值
 *   t-stat 是-1.109。

@@ -8,11 +8,11 @@
 
 这里举个例子。截至 3 月 21 日，特斯拉股价为 427.53 美元。现在，如果我们检查雅虎财经上的期权数据，你会发现许多期权以各种执行价格进行交易。现在让我们放大其中的三个。请注意，这些期权将于 2020 年 3 月 27 日到期。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Tesla](img/c3d822ddec8036a3bc107005fbc7b6da.png)
+![Tesla](img/c3d822ddec8036a3bc107005fbc7b6da.png)
 
-<figcaption>Tesla</figcaption>
+Tesla
 
-</figure>
+
 
 现在，有三种不同的执行价格，300 美元，305 美元，310 美元，期权价格分别为 149 美元，128 美元，123 美元。
 

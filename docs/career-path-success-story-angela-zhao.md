@@ -12,7 +12,7 @@ Angela Zhao 来自加拿大，是一名金融专业的毕业生，拥有数据�
 
 ## 嗨，安吉拉，给我们介绍一下你自己吧
 
-<figure class="kg-card kg-image-card">![angela zhao pic](img/16e75e40d61485c3cb2cac13d8d09bd8.png)</figure>
+![angela zhao pic](img/16e75e40d61485c3cb2cac13d8d09bd8.png)
 
 我叫安吉拉·赵，来自加拿大安大略省多伦多市。我本科学习的是金融，然后在一家共同基金从事了两年的投资管理工作。
 

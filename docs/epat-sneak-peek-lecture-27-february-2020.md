@@ -31,7 +31,7 @@
 
 ## **关于演讲者**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/9dbb1a10dca5b12fe551e8f5a36d8dd2.png)</figure>
+![](img/9dbb1a10dca5b12fe551e8f5a36d8dd2.png)
 
 **Prodipta Ghosh(QuantInsti 副总裁)**
 
@@ -45,11 +45,11 @@ Prodipta 领导 QuantInsti 的 Fin-tech 产品和平台开发。
 
 您可以点击此处查看本次网络研讨会的 powerpoint 演示文稿:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/kTbpXYrigwkhZm](https://www.slideshare.net/slideshow/embed_code/key/kTbpXYrigwkhZm)
 
-**[EPAT Sneak Peek Lecture - How to Optimize a Trading Strategy with Prodipta Ghosh](https://www.slideshare.net/QuantInsti/epat-sneak-peek-lecture-how-to-optimize-a-trading-strategy-with-prodipta-ghosh "EPAT Sneak Peek Lecture - How to Optimize a Trading Strategy with Prodipta Ghosh")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[EPAT Sneak Peek Lecture - How to Optimize a Trading Strategy with Prodipta Ghosh](https://www.slideshare.net/QuantInsti/epat-sneak-peek-lecture-how-to-optimize-a-trading-strategy-with-prodipta-ghosh "EPAT Sneak Peek Lecture - How to Optimize a Trading Strategy with Prodipta Ghosh")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**
 
 * * *
 

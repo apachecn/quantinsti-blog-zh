@@ -111,9 +111,9 @@ python setup.py develop
 
 接下来，我们必须创建一个身份验证处理程序对象，最后，用身份验证处理程序对象创建一个 tweepy 对象。
 
-<figure class="kg-card kg-image-card kg-width-full">![authentication handler object 1](img/085a66648d0b8488b6f9c832b18d4efc.png)</figure>
+![authentication handler object 1](img/085a66648d0b8488b6f9c832b18d4efc.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![authentication handler object 2](img/cd0a5ca7e1e87daa1c8ec56343a0ba0a.png)</figure>
+![authentication handler object 2](img/cd0a5ca7e1e87daa1c8ec56343a0ba0a.png)
 
 现在我们有了一个名为 api 的对象，它是一个与 Twitter 机器相连的[套接字](https://en.wikipedia.org/wiki/Network_socket)，使我们能够提取特定用户的推文，提取与某个单词或一组单词相关的推文，甚至管理我们自己的 Twitter 帐户。
 
@@ -125,9 +125,9 @@ python setup.py develop
 
 我们可以列出所有可用的方法:
 
-<figure class="kg-card kg-image-card kg-width-full">![tweepy restful methods 1](img/cf95ff5790e0e32ccdb189c77a01b802.png)</figure>
+![tweepy restful methods 1](img/cf95ff5790e0e32ccdb189c77a01b802.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![tweepy restful methods 2](img/b72ddc28eca7c04a275d129ba3000e5e.png)</figure>
+![tweepy restful methods 2](img/b72ddc28eca7c04a275d129ba3000e5e.png)
 
 这个列表并不完整，尽管我们已经看到有 105 种方法可用。如果我们看一看，我们会发现我们可以执行比应用程序本身更多的功能，我们可以自动化我们自己的 Twitter 帐户和管理我们的出版物，甚至创建一个完全自主的机器人来管理帐户。
 
@@ -140,43 +140,43 @@ python setup.py develop
 
 让我们通过查找一个词来获得一些推文。我们使用输入参数 q 调用 api 对象的 search 方法进行查询。
 
-<figure class="kg-card kg-image-card kg-width-full">![input parameter q for query](img/c7dac4a6f408aa656b0dc7f2fbb6717b.png)</figure>
+![input parameter q for query](img/c7dac4a6f408aa656b0dc7f2fbb6717b.png)
 
 检查结果，我们得到一个模型(另一个对象),其中包含请求查询的推文，我们得到 15 条推文，寻找强生$JNJ 的股票
 
-<figure class="kg-card kg-image-card kg-width-full">![tweepy model search results](img/8dd31f0048855c79cf760bbaf2d844b5.png)</figure>
+![tweepy model search results](img/8dd31f0048855c79cf760bbaf2d844b5.png)
 
 虽然这是默认的数字，但是我们可以使用 count 输入参数将它增加到 100，这是免费 Twitter API 开发人员的最大请求数。
 
-<figure class="kg-card kg-image-card kg-width-full">![tweepy api count](img/2bb588ec64fec49da8332f5090d207ff.png)</figure>
+![tweepy api count](img/2bb588ec64fec49da8332f5090d207ff.png)
 
 令人难以置信的是，一条 140 个字符的简单推文中包含了大量的元信息，我只包括了结果的第一部分，因为要完整地显示它需要几页。
 
-<figure class="kg-card kg-image-card kg-width-full">![tweepy fetched data](img/ea2fd83114320aeb01546302b7ea6c58.png)</figure>
+![tweepy fetched data](img/ea2fd83114320aeb01546302b7ea6c58.png)
 
 所以让我们来看看更具体的信息，如推文的日期和时间，用户和发布的内容。
 
-<figure class="kg-card kg-image-card kg-width-full">![tweet date and time](img/a145f9c5c2b109385ca56330b9b785b1.png)</figure>
+![tweet date and time](img/a145f9c5c2b109385ca56330b9b785b1.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![tweets text](img/c6b17dab52c8590895a27eeb121a4e0a.png)</figure>
+![tweets text](img/c6b17dab52c8590895a27eeb121a4e0a.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![tweet user info](img/beaa5e5a134fcc297348a428e1bf9bf2.png)</figure>
+![tweet user info](img/beaa5e5a134fcc297348a428e1bf9bf2.png)
 
 同样，对于用户，它返回大量与用户相关的元数据，如姓名、别名、关注者数量等。
 
 为了查看更多的细节，我们需要再次使用 search 对象中可用的方法。
 
-<figure class="kg-card kg-image-card kg-width-full">![method in search object](img/1ef3511e2b141e03b4a0febb112887c8.png)</figure>
+![method in search object](img/1ef3511e2b141e03b4a0febb112887c8.png)
 
 请记住，Twitter 返回给我们的是一个对象模型，因此，我们有无数的方法来处理这些对象。
 
 每条 tweet 都是 Status 类的一个对象，我们可以在这里看到它的方法。
 
-<figure class="kg-card kg-image-card kg-width-full">![tweepy model status](img/f27dfe31ecdebd63c327a165fa7b3784.png)</figure>
+![tweepy model status](img/f27dfe31ecdebd63c327a165fa7b3784.png)
 
 对于用户模型，我们有 52 种方法可用于处理用户。
 
-<figure class="kg-card kg-image-card kg-width-full">![user model 52 methods](img/8eb70d9506750d17b1eb426c902ee7f5.png)</figure>
+![user model 52 methods](img/8eb70d9506750d17b1eb426c902ee7f5.png)
 
 请查看[文档](https://docs.tweepy.org/en/latest/api.html#search-methods)以了解可用于搜索的大量参数。
 
@@ -186,17 +186,17 @@ Twitter API 的另一个最常用的方法是 user_timeline，它允许我们分
 
 埃隆·马斯克的账户炙手可热，他拥有数百万粉丝，他的一些帖子引起了地震般的运动。我们来看看他的一些微博。
 
-<figure class="kg-card kg-image-card kg-width-full">![elon musk tweets](img/70c240c28f11b5bd73303be885212a03.png)</figure>
+![elon musk tweets](img/70c240c28f11b5bd73303be885212a03.png)
 
 我们可以再次看到，我们得到的是一个类 ResultSet 的对象，或者确切地说，是一个对象模型，它为我们提供了处理信息的多种方法。
 
-<figure class="kg-card kg-image-card kg-width-full">![tweepy models result set](img/842bb2bd4ed4df708ac1428d7e778fdf.png)</figure>
+![tweepy models result set](img/842bb2bd4ed4df708ac1428d7e778fdf.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![tweets name text](img/da1d254c1e1196104eb2b7ab713750ab.png)</figure>
+![tweets name text](img/da1d254c1e1196104eb2b7ab713750ab.png)
 
 注意，默认情况下返回的 tweets 的最大数量是 20，尽管我们可以用 count 参数将它扩展到 200。
 
-<figure class="kg-card kg-image-card kg-width-full">![tweet count](img/d144bee19257a9529667139999352714.png)</figure>
+![tweet count](img/d144bee19257a9529667139999352714.png)
 
 这里不可能描述 user_timeline 函数的每个参数，所以我们强烈建议您访问 [Tweepy 文档](https://docs.tweepy.org/en/latest/api.html#user-methods)。
 
@@ -208,17 +208,17 @@ Twitter API 的另一个最常用的方法是 user_timeline，它允许我们分
 
 cursor 对象有两个主要方法，处理信息块或 tweet 的页面和处理单个 tweet 的项目。
 
-<figure class="kg-card kg-image-card kg-width-full">![cursor object](img/12e38a53335877d76004ede841e1898a.png)</figure>
+![cursor object](img/12e38a53335877d76004ede841e1898a.png)
 
 游标用一个模型初始化，例如 search 或 user_timeline，它返回一个 iterable 对象。
 
-<figure class="kg-card kg-image-card kg-width-full">![cursor user timeline](img/3c440cb0b8299b49f7e2ceea568cfbc2.png)</figure>
+![cursor user timeline](img/3c440cb0b8299b49f7e2ceea568cfbc2.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![cursor user timeline return](img/6066c325825955df1ac69255b3611f70.png)</figure>
+![cursor user timeline return](img/6066c325825955df1ac69255b3611f70.png)
 
 正如我们所看到的，我们得到了比使用 user_timeline 更多的 tweets，在这种情况下，它被限制为 200 条。在这个例子中，我们使用光标获取了多达 950 条推文，如下所示:
 
-<figure class="kg-card kg-image-card kg-width-full">![fetch tweets using cursor](img/419683ac21d44dccc1abe7da58f9e36a.png)</figure>
+![fetch tweets using cursor](img/419683ac21d44dccc1abe7da58f9e36a.png)
 
 通过日期范围、用户、单词、标签等过滤光标是非常有趣的。
 
@@ -236,11 +236,11 @@ cursor 对象有两个主要方法，处理信息块或 tweet 的页面和处理
 
 我们唯一要做的就是创建一个从 StreamListener 类继承的类，在这里我们可以覆盖我们感兴趣的方法。再次建议查看官方[文档](https://docs.tweepy.org/en/latest/streaming_how_to.html)以了解可用的方法。
 
-<figure class="kg-card kg-image-card kg-width-full">![streamlistener class](img/f362c3fd8c84356c5dc26bc32aec685c.png)</figure>
+![streamlistener class](img/f362c3fd8c84356c5dc26bc32aec685c.png)
 
 过一会儿，我们将开始看到基于我们定义的过滤器到达的推文流。
 
-<figure class="kg-card kg-image-card kg-width-full">![stream of tweets](img/41e6e0b50cf4f7d86b8f067de6370ffa.png)</figure>
+![stream of tweets](img/41e6e0b50cf4f7d86b8f067de6370ffa.png)
 
 图像被截断。除非我们停止执行，否则每当一条新的 tweet 满足过滤标准时， **on_data 方法**就会神奇地执行。
 

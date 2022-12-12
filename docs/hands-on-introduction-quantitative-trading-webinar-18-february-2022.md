@@ -41,7 +41,7 @@
 
 ## 扬声器
 
-<figure class="kg-card kg-image-card">![Varun Kumar Pothula](img/1b7fb85ef8359a37c47704ef4f4d5ef1.png)</figure>
+![Varun Kumar Pothula](img/1b7fb85ef8359a37c47704ef4f4d5ef1.png)
 
 ### varun Kumar pot hula(quantin STI 的定量分析师)
 

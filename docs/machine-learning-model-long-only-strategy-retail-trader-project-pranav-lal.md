@@ -8,7 +8,7 @@
 
 ## **关于作者**
 
-<figure class="kg-card kg-image-card">![](img/b76c7c41d4c7a3d69a5b868327335421.png)</figure>
+![](img/b76c7c41d4c7a3d69a5b868327335421.png)
 
 [Pranav Lal](https://www.linkedin.com/in/pranavlal) 是一名来自印度的行动导向型信息安全经理。Pranav 是一名商科毕业生，拥有研究生工商管理硕士学位。他拥有超过 20 年的专业经验，是 EPAT 大学的校友。
 

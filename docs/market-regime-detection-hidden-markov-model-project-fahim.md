@@ -10,7 +10,7 @@
 
 ## 关于作者
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/6f704f0541dc369839744961e7939e19.png)</figure>
+![](img/6f704f0541dc369839744961e7939e19.png)
 
 法希姆·汗是一名居住在印度孟买的 EPATian 人。他拥有电子工程学位，目前正在 WorldQuant 大学攻读硕士学位。
 
@@ -111,17 +111,17 @@ HMM 模型是使用 python 的 **hmmlearn** 包实现的。从这个包中，我
 
 对于其他情况也是如此。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/ff6e6700c4e7669abb1451c56c855f82.png)
+![](img/ff6e6700c4e7669abb1451c56c855f82.png)
 
-<figcaption>Figure 1: Moving average strategy - without HMM</figcaption>
+Figure 1: Moving average strategy - without HMM
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/2083dea2587535af7cfcdc33c1880e25.png)
 
-<figcaption>Figure 2: Moving average strategy - with HMM</figcaption>
+![](img/2083dea2587535af7cfcdc33c1880e25.png)
 
-</figure>
+Figure 2: Moving average strategy - with HMM
+
+
 
 我们可以看到，有一堆证券在没有使用 HMM 的情况下表现良好，如 KOTAKBANK、HINDUNILVR 和 RELIANCE。但是我们的利润不是负的。只是我们赚的利润少了一点。
 

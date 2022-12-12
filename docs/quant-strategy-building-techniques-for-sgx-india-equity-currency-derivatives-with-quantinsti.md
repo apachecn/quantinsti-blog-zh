@@ -12,7 +12,7 @@
 
 * * *
 
-<figure class="kg-card kg-image-card kg-width-full">![IG SGX QuantInsti Ishan Shah Workshop](img/f49330f6ae724eb0880ca9f531a46f9b.png)</figure>
+![IG SGX QuantInsti Ishan Shah Workshop](img/f49330f6ae724eb0880ca9f531a46f9b.png)
 
 * * *
 

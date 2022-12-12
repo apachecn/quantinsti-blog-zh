@@ -52,7 +52,7 @@
 
 让我们看看复制标准普尔 500 指数的间谍 ETF 的 2018 年价格。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/701d437b23995293b29bc9fedfb0f7f6.png)</figure>
+![](img/701d437b23995293b29bc9fedfb0f7f6.png)
 
 第一件事是确定我们想要建模和分析的状态。在这个例子中，我们将简单地考虑价格是上升、下降还是保持不变。
 
@@ -64,43 +64,43 @@
 
 为了获得我们的数据框架中的状态，第一个任务是计算每日回报，尽管应该记住对数回报通常更适合正态分布。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/1be27d937412071e5b6bb67912d6d37d.png)</figure>
+![](img/1be27d937412071e5b6bb67912d6d37d.png)
 
 然后，我们根据返回来识别可能的状态。平坦状态可以被定义为一个范围，因此认为向上/向下是最小的运动。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/01c8efb5a0cd62659b9fc4e7cdfcc4e2.png)</figure>
+![](img/01c8efb5a0cd62659b9fc4e7cdfcc4e2.png)
 
 我们对分析前一天的价格到今天的价格的转换感兴趣，所以我们需要添加一个具有前一状态的新列。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/7eacd2780c301974979dfb72eabad6b5.png)</figure>
+![](img/7eacd2780c301974979dfb72eabad6b5.png)
 
 利用当前状态和先前状态，我们可以构建频率分布矩阵。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/8d7829d4d35f10d0c6d89846463ea287.png)</figure>
+![](img/8d7829d4d35f10d0c6d89846463ea287.png)
 
 这里我们已经得到了跃迁的频率分布，这允许我们在时间 t0 建立初始概率矩阵或跃迁矩阵。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/656f5ab12b3096dfd62dff1972eefa76.png)</figure>
+![](img/656f5ab12b3096dfd62dff1972eefa76.png)
 
 这将是 t0 时的转移矩阵，我们可以通过将此转移矩阵乘以自身来构建马尔可夫链，以获得 t1 时的概率矩阵，这将允许我们进行一天的预测。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/a1b5af6a74e1b3c1c03ce78f50645fe7.png)</figure>
+![](img/a1b5af6a74e1b3c1c03ce78f50645fe7.png)
 
 如果我们继续将 t1 时获得的转移矩阵乘以 t0 时的原始转移矩阵，我们就获得了 t2 时的概率。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/9731c26fac281a2b1bc2ed0cfa263bec.png)</figure>
+![](img/9731c26fac281a2b1bc2ed0cfa263bec.png)
 
 将我们在 t2 中获得的转移矩阵乘以 t0 中的原始转移矩阵，我们获得时间 t3 中的概率，以此类推，直到我们找到概率不变的平衡矩阵，因此我们不能继续发展预测。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/f7ba20f54704147537a537546463c9c2.png)</figure>
+![](img/f7ba20f54704147537a537546463c9c2.png)
 
 有趣的是，您可以通过将初始转移矩阵提高到“n”天来获得相同的结果。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/9cf93062f5a25c4d54b66a10f00f0482.png)</figure>
+![](img/9cf93062f5a25c4d54b66a10f00f0482.png)
 
 为了找出平衡矩阵，我们可以迭代这个过程，直到概率不再变化。
 
-<figure class="kg-card kg-image-card">![](img/57041149a5ea6063d206ceb9d5be98fd.png)</figure>
+![](img/57041149a5ea6063d206ceb9d5be98fd.png)
 
 通过这个例子，我们已经以一种简化的方式看到了马尔可夫链是如何工作的，尽管有必要分析一下 Python 中实现马尔可夫链的不同库。
 

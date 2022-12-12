@@ -171,7 +171,7 @@
 
 这张图表显示了 EPAT 项目中其他专业/学科的注册学生的百分比:
 
-<figure class="kg-card kg-image-card">![algo trading professional background](img/ea0485a78aff1e2a4584a2ac63268d84.png)</figure>
+![algo trading professional background](img/ea0485a78aff1e2a4584a2ac63268d84.png)
 
 饼状图显示，来自其他背景的 EPAT 学生的比例为 25.7%。这表明，来自不同领域的学生比例远远高于拥有交易、数据分析师和编程背景的学生比例。
 

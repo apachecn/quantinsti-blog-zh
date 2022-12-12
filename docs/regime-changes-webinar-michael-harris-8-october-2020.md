@@ -46,7 +46,7 @@
 
 ## ****S** 匹克简介**
 
-<figure class="kg-card kg-image-card">![Dr Michael Harris](img/83dcab57d70e310b6a1df669d55a182b.png)</figure>
+![Dr Michael Harris](img/83dcab57d70e310b6a1df669d55a182b.png)
 
 ### 迈克尔·哈里斯
 

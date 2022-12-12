@@ -81,41 +81,41 @@
 
 在算法交易中，人们可以确信不会被情绪所驱使，这种情绪会导致在制定交易策略或执行交易时做出错误的决策。算法交易完全建立在逻辑的基础上，以最佳回报为目标。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![no human emotions with algorithmic trading](img/015f5e7081734770c1cf7a2657ce0acd.png)
+![no human emotions with algorithmic trading](img/015f5e7081734770c1cf7a2657ce0acd.png)
 
-<figcaption>No human emotions</figcaption>
+No human emotions
 
-</figure>
+
 
 ### 降低交易中的交易成本
 
 在算法交易的帮助下，交易成本被降至最低，因为算法不会因受情绪影响而在短时间内跳到不同的交易。因此，算法按照指示的方式工作。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![less transaction costs with algorithmic trading](img/d85311d65fed52e92ac7e5952741ee7f.png)
+![less transaction costs with algorithmic trading](img/d85311d65fed52e92ac7e5952741ee7f.png)
 
-<figcaption>Less transaction costs </figcaption>
+Less transaction costs 
 
-</figure>
+
 
 ### 交易时的时间效率
 
 说到节省时间，算法交易效果最好，因为它在不同的金融市场同时监控和交易。算法基于不断变化的市场条件、[趋势](/predict-trends-stock-markets-webinar-5-september-2019/)和止损、止损限制等指令来执行交易。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![more time efficiency with algorithmic trading](img/45387c4a41fed88f860537362488b0b1.png)
+![more time efficiency with algorithmic trading](img/45387c4a41fed88f860537362488b0b1.png)
 
-<figcaption>Time efficient</figcaption>
+Time efficient
 
-</figure>
+
 
 ### 帮助为未来做好准备
 
 算法交易是一个为未来做好准备的强大工具，因为我们已经在开始讨论了算法交易者是如何随着时间变得越来越强大的。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![future-ready with algorithmic trading](img/8816f037405b670889a0975782a616e2.png)
+![future-ready with algorithmic trading](img/8816f037405b670889a0975782a616e2.png)
 
-<figcaption>Future ready </figcaption>
+Future ready 
 
-</figure>
+
 
 * * *
 

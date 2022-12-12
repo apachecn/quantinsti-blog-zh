@@ -128,11 +128,11 @@
 
 展望未来，在未来五年内，据预测，对定量分析师的需求将大幅增长。这可以从下图中看出。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Future of quants](img/8f4be189778e6959227c694c3360c77d.png)
+![Future of quants](img/8f4be189778e6959227c694c3360c77d.png)
 
-<figcaption>Source: [FitchLearning](https://www.fitchlearning.com/rise-demand-quant-professionals-harnessing-new-skills-future)</figcaption>
+Source: [FitchLearning](https://www.fitchlearning.com/rise-demand-quant-professionals-harnessing-new-skills-future)
 
-</figure>
+
 
 * * *
 

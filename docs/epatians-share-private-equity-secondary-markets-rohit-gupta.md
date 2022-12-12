@@ -2,11 +2,11 @@
 
 > 原文：<https://blog.quantinsti.com/epatians-share-private-equity-secondary-markets-rohit-gupta/>
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://open.spotify.com/embed-podcast/episode/0QPymwi5mY4yXTyo8fEvhZ](https://open.spotify.com/embed-podcast/episode/0QPymwi5mY4yXTyo8fEvhZ)
 
-</figure>
+
 
 ## **描述**
 

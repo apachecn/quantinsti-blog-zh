@@ -12,7 +12,7 @@
 
 ## 关于作者
 
-<figure class="kg-card kg-image-card">![ravindra sign rawat](img/2b10abb168a4fc2a1f9a95ddedfd6ea8.png)</figure>
+![ravindra sign rawat](img/2b10abb168a4fc2a1f9a95ddedfd6ea8.png)
 
 Ravindra Singh Rawat 拥有 NMIMS 大学的电子和电信工程学士学位。此前，他曾与 Talerang(一家在哈佛孵化的公司)和 QuantInsti 合作。他对分析金融数据有着浓厚的兴趣，并渴望在金融市场上有所作为。
 
@@ -81,7 +81,7 @@ Calmar 比率逐渐变化，比 Sharpe 比率更容易平滑 CTA(商品交易顾
 
 这由以下公式给出:
 
-<figure class="kg-card kg-image-card">![sharpe ratio](img/20ad655fdad4db46c880307c309f35f2.png)</figure>
+![sharpe ratio](img/20ad655fdad4db46c880307c309f35f2.png)
 
 *   𝑅 -有问题的资产的年预期收益。
 *   𝑅𝑓 -年无风险利率。把这想象成银行里的存款，每年赚取 x%。
@@ -93,7 +93,7 @@ Calmar 比率逐渐变化，比 Sharpe 比率更容易平滑 CTA(商品交易顾
 
 这样做的理由是，我们不太担心正偏差，然而，负偏差是非常令人担忧的，因为它们代表了我们的金钱损失。这由以下公式给出:
 
-<figure class="kg-card kg-image-card">![sortino ratio](img/d95c58087394154026ac6b277d2aaebe.png)</figure>
+![sortino ratio](img/d95c58087394154026ac6b277d2aaebe.png)
 
 *   <u>R</u> -相关资产的年预期回报。
 *   𝑅𝑓 -年无风险利率。
@@ -103,7 +103,7 @@ Calmar 比率逐渐变化，比 Sharpe 比率更容易平滑 CTA(商品交易顾
 
 这与其他比率类似，主要区别在于 Calmar 比率使用分母中的最大下降，而不是标准差。
 
-<figure class="kg-card kg-image-card">![](img/e923fc7146f4b0cb9a695743a37870c8.png)</figure>
+![](img/e923fc7146f4b0cb9a695743a37870c8.png)
 
 *   <u>R</u> -相关资产的年预期回报。
 *   𝑅𝑓 -年无风险利率。
@@ -290,185 +290,185 @@ Calmar 比率逐渐变化，比 Sharpe 比率更容易平滑 CTA(商品交易顾
 
 ## 数字和图表
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sharpe ratio technology](img/c453ba8e7f78f64edd0382abd3306ca3.png)
+![scatter plot of sharpe ratio technology](img/c453ba8e7f78f64edd0382abd3306ca3.png)
 
-<figcaption>Figure A1: Scatter plot of Sharpe Ratio for the technology basket. Note that for all scatter plots, the red star represents the highest risk-adjusted return. The blue star represents the return with the least volatility.</figcaption>
+Figure A1: Scatter plot of Sharpe Ratio for the technology basket. Note that for all scatter plots, the red star represents the highest risk-adjusted return. The blue star represents the return with the least volatility.
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sharpe ratio automobile](img/2e5aa8bb4039ab49a388c77199138567.png)
 
-<figcaption>Figure A2: Scatter plot of Sharpe Ratio for the Automobile basket.</figcaption>
+![scatter plot of sharpe ratio automobile](img/2e5aa8bb4039ab49a388c77199138567.png)
 
-</figure>
+Figure A2: Scatter plot of Sharpe Ratio for the Automobile basket.
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sharpe ratio private banks](img/baae191c01f3f6745dc36278a7dbc6e3.png)
 
-<figcaption>Figure A3: Scatter plot of the Sharpe ratio for the Private Banks basket</figcaption>
 
-</figure>
+![scatter plot of sharpe ratio private banks](img/baae191c01f3f6745dc36278a7dbc6e3.png)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sharpe ratio financial services](img/96838363a999c530037e960662f265c3.png)
+Figure A3: Scatter plot of the Sharpe ratio for the Private Banks basket
 
-<figcaption>Figure A4: Scatter plot of the Sharpe Ratio for the Financial Services basket.</figcaption>
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sharpe ratio pharmaceutical](img/0332ccd14692289d7a06845a8db925e5.png)
+![scatter plot of sharpe ratio financial services](img/96838363a999c530037e960662f265c3.png)
 
-<figcaption>Figure A5: Scatter plot of the Sharpe Ratio for the Pharmaceuticals basket.</figcaption>
+Figure A4: Scatter plot of the Sharpe Ratio for the Financial Services basket.
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sortino ratio technology](img/db46512df7568f946947a6d164583664.png)
 
-<figcaption>Figure B1: Scatter plot of the Sortino ratio for the Technology basket</figcaption>
+![scatter plot of sharpe ratio pharmaceutical](img/0332ccd14692289d7a06845a8db925e5.png)
 
-</figure>
+Figure A5: Scatter plot of the Sharpe Ratio for the Pharmaceuticals basket.
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sortino ratio automobile](img/06315524e023a734b38199da31ba276f.png)
 
-<figcaption>Figure B2: Scatter plot of the Sortino Ratio for the Automobile basket</figcaption>
 
-</figure>
+![scatter plot of sortino ratio technology](img/db46512df7568f946947a6d164583664.png)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sortino ratio private banks](img/e58861281c20893c4cb830a4e8a7126b.png)
+Figure B1: Scatter plot of the Sortino ratio for the Technology basket
 
-<figcaption>Figure B3: Scatter plot of the Sortino Ratio for the Private Banks basket</figcaption>
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sortino ratio financial services](img/3dff071ac134d311db2ff32594a54a24.png)
+![scatter plot of sortino ratio automobile](img/06315524e023a734b38199da31ba276f.png)
 
-<figcaption>Figure B4: Scatter plot of the Sortino Ratio for the Financial Services basket</figcaption>
+Figure B2: Scatter plot of the Sortino Ratio for the Automobile basket
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of sortino ratio pharmaceutical](img/969abaf6be6f3abb47d9acaabe0ebf53.png)
 
-<figcaption>Figure B5: Scatter plot of the Sortino Ratio for the Pharmaceutical basket</figcaption>
+![scatter plot of sortino ratio private banks](img/e58861281c20893c4cb830a4e8a7126b.png)
 
-</figure>
+Figure B3: Scatter plot of the Sortino Ratio for the Private Banks basket
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of calmar ratio technology](img/455d6a2e29a36f1f7149302f75be32bb.png)
 
-<figcaption>Figure C1: Scatter plot of the Calmar ratio for the Technology basket</figcaption>
 
-</figure>
+![scatter plot of sortino ratio financial services](img/3dff071ac134d311db2ff32594a54a24.png)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of calmar ratio automobile](img/3fa630685a4c97dc33573c61b9a07d36.png)
+Figure B4: Scatter plot of the Sortino Ratio for the Financial Services basket
 
-<figcaption>Figure C2: Scatter plot of the Calmar ratio for the Automobile basket</figcaption>
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of calmar ratio private banks](img/20e0b68151e058f826cbb449b59782fb.png)
+![scatter plot of sortino ratio pharmaceutical](img/969abaf6be6f3abb47d9acaabe0ebf53.png)
 
-<figcaption>Figure C3: Scatter plot of the Calmar Ratio for the Private Banks basket</figcaption>
+Figure B5: Scatter plot of the Sortino Ratio for the Pharmaceutical basket
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of calmar ratio financial services](img/d93e84ddddaf8cf23878bd06a43b531a.png)
 
-<figcaption>Figure C4: Scatter plot of the Calmar ratio of the Financial Services basket</figcaption>
+![scatter plot of calmar ratio technology](img/455d6a2e29a36f1f7149302f75be32bb.png)
 
-</figure>
+Figure C1: Scatter plot of the Calmar ratio for the Technology basket
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![scatter plot of calmar ratio pharmaceutical](img/3af5dabe3538b67b1a3208f38731976c.png)
 
-<figcaption>Figure C5: Scatter plot of the Calmar ratio of the Pharmaceutical basket</figcaption>
 
-</figure>
+![scatter plot of calmar ratio automobile](img/3fa630685a4c97dc33573c61b9a07d36.png)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![cumulative returns pair trading strategy technology](img/0a86fe3b36c7122cb71a0bc3539417ab.png)
+Figure C2: Scatter plot of the Calmar ratio for the Automobile basket
 
-<figcaption>Figure D1: Cumulative returns for the Pair trading strategy in the Technology basket.</figcaption>
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![positions plotted y axis cumulative returns pair trading strategy technology](img/c2735facd23c91bc6d3152e64abb0a89.png)
+![scatter plot of calmar ratio private banks](img/20e0b68151e058f826cbb449b59782fb.png)
 
-<figcaption>Figure D2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Technology basket.</figcaption>
+Figure C3: Scatter plot of the Calmar Ratio for the Private Banks basket
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![drawdown pair trading strategy technology](img/5bd63f6384ff5743d8fb2e327db79dc4.png)
 
-<figcaption>Figure D3: Drawdown of the Pair trading strategy in the Technology basket.</figcaption>
+![scatter plot of calmar ratio financial services](img/d93e84ddddaf8cf23878bd06a43b531a.png)
 
-</figure>
+Figure C4: Scatter plot of the Calmar ratio of the Financial Services basket
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![cumulative returns pair trading strategy automobile](img/2edaa7ca5e0b2af8c08f9ed0e25c371d.png)
 
-<figcaption>Figure E1: Cumulative returns for the Pair trading strategy in the Automobile basket.</figcaption>
 
-</figure>
+![scatter plot of calmar ratio pharmaceutical](img/3af5dabe3538b67b1a3208f38731976c.png)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![positions plotted y axis cumulative returns pair trading strategy automobile](img/9a7673d65f2f0262acefe62d130a60a2.png)
+Figure C5: Scatter plot of the Calmar ratio of the Pharmaceutical basket
 
-<figcaption>Figure E2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Automobile basket.</figcaption>
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![drawdown pair trading strategy automobile](img/1f774cba04d5596bb845386b61a3e09b.png)
+![cumulative returns pair trading strategy technology](img/0a86fe3b36c7122cb71a0bc3539417ab.png)
 
-<figcaption>Figure E3: Drawdown of the Pair trading strategy in the Automobile basket.</figcaption>
+Figure D1: Cumulative returns for the Pair trading strategy in the Technology basket.
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![cumulative returns pair trading strategy private banks](img/a4d9e86bb1d71748604af48dd5ab14cf.png)
 
-<figcaption>Figure F1: Cumulative returns for the Pair trading strategy in the Private Banks basket.</figcaption>
+![positions plotted y axis cumulative returns pair trading strategy technology](img/c2735facd23c91bc6d3152e64abb0a89.png)
 
-</figure>
+Figure D2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Technology basket.
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![positions plotted y axis cumulative returns pair trading strategy private banks](img/223822ec603c34852fdd135c7838d09a.png)
 
-<figcaption>Figure F2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Private Banks basket.</figcaption>
 
-</figure>
+![drawdown pair trading strategy technology](img/5bd63f6384ff5743d8fb2e327db79dc4.png)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![drawdown pair trading strategy private banks](img/cfb95ad0835a614d898c608a1e3cd78e.png)
+Figure D3: Drawdown of the Pair trading strategy in the Technology basket.
 
-<figcaption>Figure F3: Drawdown of the Pair trading strategy in the Private Banks basket.</figcaption>
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![cumulative returns pair trading strategy financial services](img/dad2867c6711b6fc32a900c4a941838b.png)
+![cumulative returns pair trading strategy automobile](img/2edaa7ca5e0b2af8c08f9ed0e25c371d.png)
 
-<figcaption>Figure G1: Cumulative returns for the Pair trading strategy in the Financial Services basket.</figcaption>
+Figure E1: Cumulative returns for the Pair trading strategy in the Automobile basket.
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![positions plotted y axis cumulative returns pair trading strategy financial services](img/3dc6b767667a56e93b22b6bc6b1cf56a.png)
 
-<figcaption>Figure G2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Financial Services basket.</figcaption>
+![positions plotted y axis cumulative returns pair trading strategy automobile](img/9a7673d65f2f0262acefe62d130a60a2.png)
 
-</figure>
+Figure E2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Automobile basket.
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![drawdown pair trading strategy financial services](img/38bcd1ed80b06f3893d0835de8fd33ba.png)
 
-<figcaption>Figure G3: Drawdown of the Pair trading strategy in the Financial Services basket.</figcaption>
 
-</figure>
+![drawdown pair trading strategy automobile](img/1f774cba04d5596bb845386b61a3e09b.png)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![cumulative returns pair trading strategy pharmaceutical](img/11d7320a4daf4b7e26aee5cb6e7ed7c7.png)
+Figure E3: Drawdown of the Pair trading strategy in the Automobile basket.
 
-<figcaption>Figure H1: Cumulative returns for the Pair trading strategy in the Pharmaceutical basket.</figcaption>
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![positions plotted y axis cumulative returns pair trading strategy pharmaceutical](img/d94a85f08e25c56f4eaebafccee53b27.png)
+![cumulative returns pair trading strategy private banks](img/a4d9e86bb1d71748604af48dd5ab14cf.png)
 
-<figcaption>Figure H2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Pharmaceutical basket.</figcaption>
+Figure F1: Cumulative returns for the Pair trading strategy in the Private Banks basket.
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![drawdown pair trading strategy pharmaceutical](img/0284f2e5307efcc74d182fa6bd8f61d5.png)
 
-<figcaption>Figure H3: Drawdown of the Pair trading strategy in the Pharmaceutical basket.</figcaption>
+![positions plotted y axis cumulative returns pair trading strategy private banks](img/223822ec603c34852fdd135c7838d09a.png)
 
-</figure>
+Figure F2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Private Banks basket.
+
+
+
+![drawdown pair trading strategy private banks](img/cfb95ad0835a614d898c608a1e3cd78e.png)
+
+Figure F3: Drawdown of the Pair trading strategy in the Private Banks basket.
+
+
+
+![cumulative returns pair trading strategy financial services](img/dad2867c6711b6fc32a900c4a941838b.png)
+
+Figure G1: Cumulative returns for the Pair trading strategy in the Financial Services basket.
+
+
+
+![positions plotted y axis cumulative returns pair trading strategy financial services](img/3dc6b767667a56e93b22b6bc6b1cf56a.png)
+
+Figure G2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Financial Services basket.
+
+
+
+![drawdown pair trading strategy financial services](img/38bcd1ed80b06f3893d0835de8fd33ba.png)
+
+Figure G3: Drawdown of the Pair trading strategy in the Financial Services basket.
+
+
+
+![cumulative returns pair trading strategy pharmaceutical](img/11d7320a4daf4b7e26aee5cb6e7ed7c7.png)
+
+Figure H1: Cumulative returns for the Pair trading strategy in the Pharmaceutical basket.
+
+
+
+![positions plotted y axis cumulative returns pair trading strategy pharmaceutical](img/d94a85f08e25c56f4eaebafccee53b27.png)
+
+Figure H2: Cumulative returns and the Positions plotted alongside each other on the y-axis, for the Pair trading strategy in the Pharmaceutical basket.
+
+
+
+![drawdown pair trading strategy pharmaceutical](img/0284f2e5307efcc74d182fa6bd8f61d5.png)
+
+Figure H3: Drawdown of the Pair trading strategy in the Pharmaceutical basket.
+
+
 
 * * *
 

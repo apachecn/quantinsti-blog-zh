@@ -42,14 +42,14 @@
 
 ## **主讲人**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/2b969e096e2737347f93b21cb68f3476.png)</figure>
+![](img/2b969e096e2737347f93b21cb68f3476.png)
 
 ## **小组主持人**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/bcbab0bbbd808b029d73670f6d2dafb2.png)</figure>
+![](img/bcbab0bbbd808b029d73670f6d2dafb2.png)
 
 ## **小组成员**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/82547590a08ba60425995865f8c5da3d.png)</figure>
+![](img/82547590a08ba60425995865f8c5da3d.png)
 
 * * *

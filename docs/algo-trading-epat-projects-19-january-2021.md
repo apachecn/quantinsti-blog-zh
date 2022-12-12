@@ -31,7 +31,7 @@
 
 ## **关于演讲者**
 
-<figure class="kg-card kg-image-card">![](img/113107b882d483a3078dc35130ede1d9.png)</figure>
+![](img/113107b882d483a3078dc35130ede1d9.png)
 
 **Balamurugan Ganesan**
 **(首席分析师-产品管理)**
@@ -40,7 +40,7 @@ Balamurugan Ganesan 是一名产品专业人员，拥有 SP Jain 的金融 MBA �
 
 他非常热衷于算法交易领域，在这里他可以很好地利用自己的所有技能，并完成了 EPAT 项目。在 EPAT，他接受了算法交易领域的行业专家的培训，并对量化金融和高频交易的各种现实世界实施技术有了深入的了解。目前，他在美国银行担任特写主管。
 
-<figure class="kg-card kg-image-card">![](img/92dedac4753dced225c60ede77e906f8.png)</figure>
+![](img/92dedac4753dced225c60ede77e906f8.png)
 
 马克·伦德尔
 (工程研究员)

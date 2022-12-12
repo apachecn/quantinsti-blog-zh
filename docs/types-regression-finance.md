@@ -40,11 +40,11 @@
 
 简单的线性回归允许我们研究两个连续变量之间的关系——一个自变量和一个因变量。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Linear regression](img/09002671c57cb9d3cfc83ac349e1ab8a.png)
+![Linear regression](img/09002671c57cb9d3cfc83ac349e1ab8a.png)
 
-<figcaption>Linear regression: [Source](https://upload.wikimedia.org/wikipedia/commons/b/be/Normdist_regression.png)</figcaption>
+Linear regression: [Source](https://upload.wikimedia.org/wikipedia/commons/b/be/Normdist_regression.png)
 
-</figure>
+
 
 简单线性回归方程的一般形式如下:
 
@@ -70,11 +70,11 @@
 
 在这种情况下，我们可以将多项式项添加到线性回归方程中，使其更好地模拟数据。这被称为多项式回归。由于模型的参数是线性的，严格来说，它仍然是线性回归。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Linear vs Polynomial regression](img/85a3fbf7e486c27f9c57980a751f53a1.png)
+![Linear vs Polynomial regression](img/85a3fbf7e486c27f9c57980a751f53a1.png)
 
-<figcaption>Linear vs Polynomial regression: [Source](https://static.javatpoint.com/tutorial/machine-learniimg/machine-learning-polynomial-regression.png)</figcaption>
+Linear vs Polynomial regression: [Source](https://static.javatpoint.com/tutorial/machine-learniimg/machine-learning-polynomial-regression.png)
 
-</figure>
+
 
 使用多项式回归，我们可以用多项式方程的形式模拟自变量和因变量之间的关系。
 
@@ -113,11 +113,11 @@
 
 你可以在这个[博客](/machine-learning-logistic-regression-python/)上阅读更多关于逻辑回归和 Python 代码如何使用它来预测股票走势的信息。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Logistic regression](img/cb4a855915a1d81a1379acaa5240ed8d.png)
+![Logistic regression](img/cb4a855915a1d81a1379acaa5240ed8d.png)
 
-<figcaption>Logistic regression: [Source](https://www.saedsayad.com/logistic_regression.htm)</figcaption>
+Logistic regression: [Source](https://www.saedsayad.com/logistic_regression.htm)
 
-</figure>
+
 
 * * *
 
@@ -129,11 +129,11 @@
 
 分位数回归估计给定自变量的因变量的条件中位数或条件四分位数。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Quantile regression](img/0ce18cc3d6e3b01d31d67f7f1447a239.png)
+![Quantile regression](img/0ce18cc3d6e3b01d31d67f7f1447a239.png)
 
-<figcaption>Quantile regression: [Source](https://scikit-learn.org/stable/auto_examples/linear_model/plot_quantile_regression.html)</figcaption>
+Quantile regression: [Source](https://scikit-learn.org/stable/auto_examples/linear_model/plot_quantile_regression.html)
 
-</figure>
+
 
 经典的线性回归试图根据自变量的不同值来预测因变量的平均值。独立变量的 OLS 回归系数表示相关预测变量单位变化的变化。类似地，独立变量的分位数回归系数表示相关预测变量单位变化的指定分位数的变化。
 
@@ -181,11 +181,11 @@ Lasso 代表最小绝对收缩和选择运算符。
 
 顾名思义，[套索回归](https://www.statisticshowto.com/lasso-regression/)可以将一些系数缩小到绝对零。因此，它可用于特征选择。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Ridge vs Lasso regression](img/06614c70b7f04d0ced284629356d1cac.png)
+![Ridge vs Lasso regression](img/06614c70b7f04d0ced284629356d1cac.png)
 
-<figcaption>Ridge vs Lasso regression: [Source](https://miro.medium.com/max/1400/1*Jd03Hyt2bpEv1r7UijLlpg.png)</figcaption>
+Ridge vs Lasso regression: [Source](https://miro.medium.com/max/1400/1*Jd03Hyt2bpEv1r7UijLlpg.png)
 
-</figure>
+
 
 * * *
 
@@ -210,11 +210,11 @@ Lasso 回归的要素选择可能不可靠，因为它依赖于数据。弹性�
 
 阅读这个[博客](/linear-regression-models-scikit-learn/)了解更多关于山脊、套索和弹性网回归以及它们在 Python 中的实现。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Penalty terms for Ridge, Lasso, and Elastic net regression](img/344d90f4a0903c48f1af17c817eb83f1.png)
+![Penalty terms for Ridge, Lasso, and Elastic net regression](img/344d90f4a0903c48f1af17c817eb83f1.png)
 
-<figcaption>Penalty terms for Ridge, Lasso, and Elastic net regression: [Source](https://www.oreilly.com/library/view/machine-learning-with/9781787121515/5c5ec380-d139-49a5-99b1-3ce32ae5bd6f.xhtml)</figcaption>
+Penalty terms for Ridge, Lasso, and Elastic net regression: [Source](https://www.oreilly.com/library/view/machine-learning-with/9781787121515/5c5ec380-d139-49a5-99b1-3ce32ae5bd6f.xhtml)
 
-</figure>
+
 
 * * *
 
@@ -234,11 +234,11 @@ Lasso 回归的要素选择可能不可靠，因为它依赖于数据。弹性�
 
 然而，必须指出，LARS 模型对噪声很敏感。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Geometric representation of LARS](img/6e45598e842006a126f70a27fff98e5c.png)
+![Geometric representation of LARS](img/6e45598e842006a126f70a27fff98e5c.png)
 
-<figcaption>Geometric representation of LARS: [Source](https://www.researchgate.net/figure/LARS-algorithm-evolution-for-m-3-covariates_fig1_251670715)</figcaption>
+Geometric representation of LARS: [Source](https://www.researchgate.net/figure/LARS-algorithm-evolution-for-m-3-covariates_fig1_251670715)
 
-</figure>
+
 
 * * *
 
@@ -248,11 +248,11 @@ Lasso 回归的要素选择可能不可靠，因为它依赖于数据。弹性�
 
 主成分回归包括使用 PCA 对原始数据进行降维，然后对顶部的主成分进行回归并丢弃剩余的主成分。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Image representing principal component analysis](img/5c45e08b7b13575f71413740714fdbe8.png)
+![Image representing principal component analysis](img/5c45e08b7b13575f71413740714fdbe8.png)
 
-<figcaption>Image representing principal component analysis: [Source](https://docs.tibco.com/pub/sfire-dsc/6.5.0/doc/html/TIB_sfire-dsc_user-guide/GUID-A0351860-D363-4236-BCCE-9B850BF41D8E-display.png)</figcaption>
+Image representing principal component analysis: [Source](https://docs.tibco.com/pub/sfire-dsc/6.5.0/doc/html/TIB_sfire-dsc_user-guide/GUID-A0351860-D363-4236-BCCE-9B850BF41D8E-display.png)
 
-</figure>
+
 
 * * *
 
@@ -315,11 +315,11 @@ PCA 用较少数量的主成分代替大量的估计量，这些主成分捕获�
 
 如果你想了解更多关于随机森林以及如何在交易中使用它们的信息，请阅读这篇[帖子](/random-forest-algorithm-in-python/)。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Image representation of a Random forest regressor](img/d96a8376584e990e8f86c62fcee6a1a4.png)
+![Image representation of a Random forest regressor](img/d96a8376584e990e8f86c62fcee6a1a4.png)
 
-<figcaption>Image representation of a Random forest regressor: [Source](https://ai-pool.com/a/s/random-forests-understanding)</figcaption>
+Image representation of a Random forest regressor: [Source](https://ai-pool.com/a/s/random-forests-understanding)
 
-</figure>
+
 
 * * *
 
@@ -335,11 +335,11 @@ SVR 使用对称损失函数来惩罚较高和较低的错误估计。SVR 模型
 
 SVR 对异常值具有鲁棒性，并且具有高预测精度。你可以在这里阅读更多关于使用 SVR、线性和多项式回归模型进行股市预测的信息[。](http://www.lucasnunno.com/assets/docs/ml_paper.pdf)
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Image representation of Support vector regression](img/c8712bf86a15d53b0983bd33e05f7da5.png)
+![Image representation of Support vector regression](img/c8712bf86a15d53b0983bd33e05f7da5.png)
 
-<figcaption>Image representation of Support vector regression: [Source](https://www.educba.com/support-vector-regression/)</figcaption>
+Image representation of Support vector regression: [Source](https://www.educba.com/support-vector-regression/)
 
-</figure>
+
 
 * * *
 

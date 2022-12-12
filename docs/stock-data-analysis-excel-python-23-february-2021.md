@@ -29,17 +29,17 @@
 
 * * *
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/wxi9wauKi4qBpz](https://www.slideshare.net/slideshow/embed_code/key/wxi9wauKi4qBpz)
 
-**[Stock Data Analysis Excel Vs Python [Algo Trading Webinar]](https://www.slideshare.net/QuantInsti/stock-data-analysis-excel-vs-python-algo-trading-webinar "Stock Data Analysis Excel Vs Python [Algo Trading Webinar]")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[Stock Data Analysis Excel Vs Python [Algo Trading Webinar]](https://www.slideshare.net/QuantInsti/stock-data-analysis-excel-vs-python-algo-trading-webinar "Stock Data Analysis Excel Vs Python [Algo Trading Webinar]")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**
 
 * * *
 
 ## **扬声器配置文件**
 
-<figure class="kg-card kg-image-card">![](img/88ee1133b04ffd1c51cfca46d289d889.png)</figure>
+![](img/88ee1133b04ffd1c51cfca46d289d889.png)
 
 ### 杰伊·帕尔马
 

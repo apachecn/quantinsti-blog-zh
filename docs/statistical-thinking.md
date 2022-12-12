@@ -47,11 +47,11 @@
 
 ## 什么是统计问题？
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![four cats](img/994a7e59ab1a6929b64f59e8a453406b.png)
+![four cats](img/994a7e59ab1a6929b64f59e8a453406b.png)
 
-<figcaption>[Source](https://www.istockphoto.com/photos/four-cats)</figcaption>
+[Source](https://www.istockphoto.com/photos/four-cats)
 
-</figure>
+
 
 看着上面的图片，让我们来解决一些问题！
 

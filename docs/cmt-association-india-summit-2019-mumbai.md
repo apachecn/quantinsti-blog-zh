@@ -38,14 +38,13 @@
 
 ## 议程和议题
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/5b5c119182847cdbd71d0262b1fcc27b.png)</figure>
+![](img/5b5c119182847cdbd71d0262b1fcc27b.png)
 
 **以下是此次活动的一些片段:**
 
-<figure class="kg-card kg-embed-card">
+
 
 > 在由我们自己的首席执行官 [@niteshkh](https://twitter.com/niteshkh?ref_src=twsrc%5Etfw) 主持的小组讨论会上， [@piyushchaudhry](https://twitter.com/piyushchaudhry?ref_src=twsrc%5Etfw) 、[、【shubham_quant](https://twitter.com/shubham_quant?ref_src=twsrc%5Etfw) 、[、【tejaskhoday】、](https://twitter.com/tejaskhoday?ref_src=twsrc%5Etfw) [@Prashantshah267](https://twitter.com/Prashantshah267?ref_src=twsrc%5Etfw) 分享的真知灼见让 CMT 印度峰会的观众欣喜若狂。[# cmtindiasummit 19](https://twitter.com/hashtag/cmtindiasummit19?src=hash&ref_src=twsrc%5Etfw)[@ CMT association](https://twitter.com/CMTAssociation?ref_src=twsrc%5Etfw)[# goal go](https://twitter.com/hashtag/goalgo?src=hash&ref_src=twsrc%5Etfw)[pic.twitter.com/1nDLR838Uh](https://t.co/1nDLR838Uh)
 > 
 > — QuantInsti (@QuantInsti) [November 25, 2019](https://twitter.com/QuantInsti/status/1198963892140920832?ref_src=twsrc%5Etfw)
 
-</figure>

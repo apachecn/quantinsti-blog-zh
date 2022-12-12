@@ -12,7 +12,7 @@
 
 ## 嗨，Gaurav，你能给我们介绍一下你自己吗？
 
-<figure class="kg-card kg-image-card">![EPAT alumnus Gaurav Thakur pic](img/75dc9f981e0b588611957e9922ce1ec8.png)</figure>
+![EPAT alumnus Gaurav Thakur pic](img/75dc9f981e0b588611957e9922ce1ec8.png)
 
 嗨！我是 Gaurav Thakur，来自马哈拉施特拉邦的 Vardha 区。我是一名量化交易者，最近注册了自己的 Algo 交易平台。大多数时候，我在做量化交易的同时也做零售交易，做研究，阅读和分析数据。
 

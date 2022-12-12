@@ -25,11 +25,11 @@
 
 逐笔数据如下所示。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tick by tick data](img/059dbddba8ec3123433ee4bb12d24fb1.png)
+![tick by tick data](img/059dbddba8ec3123433ee4bb12d24fb1.png)
 
-<figcaption>This data was downloaded from [First Rate Data](https://firstratedata.com/)</figcaption>
+This data was downloaded from [First Rate Data](https://firstratedata.com/)
 
-</figure>
+
 
 数据的第一列是交易发生的日期和时间。第二列是最后交易价格(LTP ),第三列是在该特定交易中交易的比特币数量，即最后交易数量(LTQ)。
 

@@ -14,7 +14,7 @@ Dayal 分享了他进入算法交易世界的不可思议的旅程，以及他�
 
 ### 嗨，Dayal，给我们介绍一下你自己吧！
 
-<figure class="kg-card kg-image-card">![Dayal Madan pic](img/b85e73abe44ab04ff8f9c4c0feaf6941.png)</figure>
+![Dayal Madan pic](img/b85e73abe44ab04ff8f9c4c0feaf6941.png)
 
 嗨！我是戴亚尔·马丹。我目前在伦敦工作，是 Man Group 的一名 Quant 开发人员。
 

@@ -42,4 +42,4 @@ Kenanga 是马来西亚一家拥有 40 年历史的金融集团，在股票经�
 
 ## **活动照片**
 
-<figure class="kg-card kg-gallery-card kg-width-wide">![](img/f1dbfb0882d34b9e42626f09db6b108e.png)![](img/f213ade9198759a7fa6de48c8a2072d5.png)![](img/6b8b3fefb0753efe9e565f4b3a67bae4.png)![](img/813c1049c0e772ff76392a237186efef.png)![](img/461e893c6996714ec99f9b029a3127fc.png)</figure>
+![](img/f1dbfb0882d34b9e42626f09db6b108e.png)![](img/f213ade9198759a7fa6de48c8a2072d5.png)![](img/6b8b3fefb0753efe9e565f4b3a67bae4.png)![](img/813c1049c0e772ff76392a237186efef.png)![](img/461e893c6996714ec99f9b029a3127fc.png)

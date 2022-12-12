@@ -40,11 +40,11 @@
 
 ### 控制的幻觉
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![position sizing trading biases illusion of control](img/e899a124d71f2bc362aff26d7bac49c6.png)
+![position sizing trading biases illusion of control](img/e899a124d71f2bc362aff26d7bac49c6.png)
 
-<figcaption>*[Image Source]( https://instituteformindfulleadership.org/illusion-control/):* Illusion of Control</figcaption>
+*[Image Source]( https://instituteformindfulleadership.org/illusion-control/):* Illusion of Control
 
-</figure>
+
 
 复杂性是必经之路。越复杂的技术越好。
 
@@ -54,11 +54,11 @@
 
 ### 新近偏差
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![position sizing trading biases misperception of cycles](img/9c057ed3b0cf515394c918cc3f06f3ba.png)
+![position sizing trading biases misperception of cycles](img/9c057ed3b0cf515394c918cc3f06f3ba.png)
 
-<figcaption>[*Image Source:*](https://blog.truemindcapital.com/risk-vs-return/) Recency Bias</figcaption>
+[*Image Source:*](https://blog.truemindcapital.com/risk-vs-return/) Recency Bias
 
-</figure>
+
 
 当你幸运地经历了一连串的利润时，你有没有增加你的交易量？
 
@@ -68,11 +68,11 @@
 
 ### 赌徒谬误
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![position sizing trading biases gamblers fallacy](img/5b4703eaf264a071402f3b3e5e2d6296.png)
+![position sizing trading biases gamblers fallacy](img/5b4703eaf264a071402f3b3e5e2d6296.png)
 
-<figcaption>*[Image Source:](https://thedecisionlab.com/biases/gamblers-fallacy/)* Gambler's Fallacy</figcaption>
+*[Image Source:](https://thedecisionlab.com/biases/gamblers-fallacy/)* Gambler's Fallacy
 
-</figure>
+
 
 你经历了一系列的损失。下一笔交易一定会有利可图。所以你在接下来的交易中用光了所有的钱。你瞧，你最终失去了一切。但是你对利润那么有把握，为什么这事会发生在你身上！
 
@@ -189,11 +189,11 @@ $$\text{K%} = W - \frac{1-W}{R}$$
 
 **初始条件:**
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![position sizing trading biases cppi initial](img/6b761ab06fcdf7a133fdc167bdc66bd0.png)
+![position sizing trading biases cppi initial](img/6b761ab06fcdf7a133fdc167bdc66bd0.png)
 
-<figcaption>*[Image Source:](https://quantra.quantinsti.com/course/position-sizing-trading)* Constant Proportion Portfolio Insurance</figcaption>
+*[Image Source:](https://quantra.quantinsti.com/course/position-sizing-trading)* Constant Proportion Portfolio Insurance
 
-</figure>
+
 
 **案例 1:**
 
@@ -201,11 +201,11 @@ $$\text{K%} = W - \frac{1-W}{R}$$
 
 **新的总资本=** $10，500
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![position sizing trading biases cppi case1](img/c6a89683430707c3e1bf327107ed5565.png)
+![position sizing trading biases cppi case1](img/c6a89683430707c3e1bf327107ed5565.png)
 
-<figcaption>*[Image Source:](https://quantra.quantinsti.com/course/position-sizing-trading)* Constant Proportion Portfolio Insurance</figcaption>
+*[Image Source:](https://quantra.quantinsti.com/course/position-sizing-trading)* Constant Proportion Portfolio Insurance
 
-</figure>
+
 
 在上图中，你可以看到随着我们投资组合的增长，我们如何动态地增加对风险资产的配置，同时减少对安全资产的配置。
 
@@ -215,11 +215,11 @@ $$\text{K%} = W - \frac{1-W}{R}$$
 
 **新的总资本=**9500 美元
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![position sizing trading biases cppi case2](img/97a8e0959a026f52a2f51ae3720e06ef.png)
+![position sizing trading biases cppi case2](img/97a8e0959a026f52a2f51ae3720e06ef.png)
 
-<figcaption>*[Image Source:](https://quantra.quantinsti.com/course/position-sizing-trading)* Constant Proportion Portfolio Insurance</figcaption>
+*[Image Source:](https://quantra.quantinsti.com/course/position-sizing-trading)* Constant Proportion Portfolio Insurance
 
-</figure>
+
 
 在上图中，你可以看到，随着我们的投资组合下跌，我们动态地减少了对高风险资产的配置，同时增加了对安全资产的配置。
 

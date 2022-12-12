@@ -55,7 +55,7 @@
 
 买卖价格之间的差额只有 0.05 美元，但是到了第[天交易第](https://quantra.quantinsti.com/course/day-trading-strategies)天，每天交易数百万股，他设法赚了一大笔钱，抵消了价格对他不利的风险。
 
-<figure class="kg-card kg-image-card">![market making bid and ask quote price](img/129723967dd2badacd981f4dd1ea7e2b.png)</figure>
+![market making bid and ask quote price](img/129723967dd2badacd981f4dd1ea7e2b.png)
 
 现在，根据 Glassdoor 的数据，做市商的年收入大约在 66，658 美元到 95，648 美元之间。
 
@@ -69,11 +69,11 @@
 
 做市商始终是知情交易者所做交易的交易对手，以防市场出现任何波动；做市商经常被错误的头寸套牢。
 
-<figure class="kg-card kg-image-card">![market makers manages to pocket a significant chunk of change to offset their risk](img/f861c71c86900215c9f29cbe45ee9800.png)</figure>
+![market makers manages to pocket a significant chunk of change to offset their risk](img/f861c71c86900215c9f29cbe45ee9800.png)
 
 做市商的另一个致命风险是没有最新的信息。简而言之，只有当做市商能够快速接收和响应信息时，他们才能管理风险并生存下来。否则，市场地位可能在几秒钟内对他们不利，这可能导致损失。
 
-<figure class="kg-card kg-image-card">![fatal risk for market maker](img/c1978845e80f44e5f5199aac5e56afb6.png)</figure>
+![fatal risk for market maker](img/c1978845e80f44e5f5199aac5e56afb6.png)
 
 因此，强有力的市场必须有强有力的做市商，在不遭受巨大损失的情况下生存。
 
@@ -97,7 +97,7 @@
 
 请参见下面的例子，了解通过人工做市商进行的连续交易的价格差异将远远高于通过自动做市商进行的交易。因此，资产价格波动性降低。此外，未来我们将理解自动做市商如何比人工做市商更有效率。
 
-<figure class="kg-card kg-image-card">![Price Volatility](img/5ba1b6118c4ec557304b0dc9c8993d25.png)</figure>
+![Price Volatility](img/5ba1b6118c4ec557304b0dc9c8993d25.png)
 
 ### 做市和影响成本
 
@@ -105,7 +105,7 @@
 
 随着自动化使市场变得容易，订单变得很厚。即使是大订单的执行价格也接近公平价格，因此影响成本和波动性更低。
 
-<figure class="kg-card kg-image-card">![Impact Cost](img/5be56384dc9179444c8944354ac6622d.png)</figure>
+![Impact Cost](img/5be56384dc9179444c8944354ac6622d.png)
 
 * * *
 
@@ -113,11 +113,11 @@
 
 算法做市的总体积极影响可以总结如下:
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![making markets with algorithms](img/12c86693fe580357903c0a7167712c2b.png)
+![making markets with algorithms](img/12c86693fe580357903c0a7167712c2b.png)
 
-<figcaption>Benefits of Making Markets with Algorithms</figcaption>
+Benefits of Making Markets with Algorithms
 
-</figure>
+
 
 因此，使用算法做市提供了以下好处:
 
@@ -157,19 +157,19 @@
 
 使投资者能够对冲的衍生品定价通常涉及耗时的数学计算。虽然人类可以花几分钟，但自动化系统非常快，可以在微秒内完成这些计算。因此，它们的响应时间要快得多。因此，[股市数学](/algorithmic-trading-maths/)是一个需要学习的重要概念。
 
-<figure class="kg-card kg-image-card">![Faster response time](img/3b14f697712a99a4d163fd81eaa33e78.png)</figure>
+![Faster response time](img/3b14f697712a99a4d163fd81eaa33e78.png)
 
 ### 做市的可扩展性
 
 说到可扩展性，虽然人类交易员只能跟踪少数几个工具的活动，但自动化系统可以同时处理数千个工具。此外，自动化交易系统为更多的金融工具提供了流动性。
 
-<figure class="kg-card kg-image-card">![Scalability](img/f27b2a9bba7b86971f2f43b05767e720.png)</figure>
+![Scalability](img/f27b2a9bba7b86971f2f43b05767e720.png)
 
 ### 做市的 24x7 可用性
 
 我们这里指的是字面意义上的 24x7 可用性，因为机器不需要任何休息。因为机器可以一直工作，而且没有任何错误，所以它们更快也更精确。
 
-<figure class="kg-card kg-image-card">![Availability](img/f9d2944c89eb84511e46a8e0785f0efe.png)</figure>
+![Availability](img/f9d2944c89eb84511e46a8e0785f0efe.png)
 
 接下来，让我们看看券商和做市商之间的区别。
 

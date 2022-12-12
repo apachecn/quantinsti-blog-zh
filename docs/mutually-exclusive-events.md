@@ -31,11 +31,11 @@
 
 现在，假设你希望你的投资组合中有股票 A、股票 B、股票 C 和股票 D。这些股票在下面的图表中显示(市场指数用黑线标出)，它们的价值随着时间的推移而增加。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Example of mutually exclusive events in trading](img/2076813dc5277d6e704bee2653c30de9.png)
+![Example of mutually exclusive events in trading](img/2076813dc5277d6e704bee2653c30de9.png)
 
-<figcaption>Example of mutually exclusive events in trading</figcaption>
+Example of mutually exclusive events in trading
 
-</figure>
+
 
 假设你的预算是 100 万美元。现在，如果:
 
@@ -134,19 +134,19 @@
 
 以下是 AARON 的 RSI 分析:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Following is the RSI analysis for AARON](img/560366352228a73d77d47bd2dd965ace.png)
+![Following is the RSI analysis for AARON](img/560366352228a73d77d47bd2dd965ace.png)
 
-<figcaption>Following is the RSI analysis for AARON</figcaption>
+Following is the RSI analysis for AARON
 
-</figure>
+
 
 以下是 aarey 药物的 RSI 分析:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Following is the RSI analysis for AAREYDRUGS](img/f00ca6b3de94e390757804ade9c974a6.png)
+![Following is the RSI analysis for AAREYDRUGS](img/f00ca6b3de94e390757804ade9c974a6.png)
 
-<figcaption>Following is the RSI analysis for AAREYDRUGS Source: [Traders Cockpit](https://www.traderscockpit.com/?pageView=rsi-indicator-rsi-chart&type=rsi&symbol=AAREYDRUGS)</figcaption>
+Following is the RSI analysis for AAREYDRUGS Source: [Traders Cockpit](https://www.traderscockpit.com/?pageView=rsi-indicator-rsi-chart&type=rsi&symbol=AAREYDRUGS)
 
-</figure>
+
 
 在上面的解释中，很明显，一只股票的模式与另一只完全无关，两种模式可以同时出现。因此，对于 AARON 和 AAREYDRUGS，交易者的进出决定完全独立于其他人的模式。
 

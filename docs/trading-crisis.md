@@ -76,11 +76,11 @@
 
 让我们看看下面的例子，VIX 在过去是如何成为波动指标的:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![VIX indicator during crisis](img/4e69817c09c7de3dadbff9873db16f50.png)
+![VIX indicator during crisis](img/4e69817c09c7de3dadbff9873db16f50.png)
 
-<figcaption>VIX indicator during crisis</figcaption>
+VIX indicator during crisis
 
-</figure>
+
 
 正如你在上面的图像中所看到的，VIX 图表显示了中美贸易战情景下的峰值。与此同时，S&P500 股价图显示其股票价格大幅下跌。
 
@@ -160,11 +160,11 @@
 
 让我们看一个印度斯坦联合利华的例子。观察 HINDUNILVR 的价格是如何在新冠肺炎情景中大幅下跌的。以下是 2020 年 3 月至 2020 年 4 月的图表:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Trading in crisis - Hindustan Unilever prices](img/294135ca1256a6c63ae1649ca58c3a1b.png)
+![Trading in crisis - Hindustan Unilever prices](img/294135ca1256a6c63ae1649ca58c3a1b.png)
 
-<figcaption>Trading in crisis - Hindustan Unilever prices</figcaption>
+Trading in crisis - Hindustan Unilever prices
 
-</figure>
+
 
 上图显示了 HINDUNILVR 最初是如何受到新冠肺炎危机的影响，但随后，其股价加速上涨。
 
@@ -191,21 +191,21 @@
 
 让我们借助乌克兰-俄罗斯战争场景中的一个例子来找出同样的答案。以下是原油、白银和黄金这三种商品的价格状况:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Commodities' prices](img/126c80f1bb817c6df417afe0bfb3b5bb.png)
+![Commodities' prices](img/126c80f1bb817c6df417afe0bfb3b5bb.png)
 
-<figcaption>Commodities' prices during Ukraine-Russia war</figcaption>
+Commodities' prices during Ukraine-Russia war
 
-</figure>
+
 
 上图显示了三种商品的价格都处于历史最高水平。相比之下，原油价格正处于顶峰，而黄金和白银的价格趋势却没有那么高。因此，可以看出，商品价格上涨，但崩溃最初发生。
 
 让我们看看另一个时间线，即新冠肺炎疫情。在这种情况下，价格也是先降后升。在这个时间线上，与黄金和原油相比，白银的价格更高。让我们看看当时的图表是什么样的:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Commodities' price during COVID-19](img/f6aea07e581698a81df4443430dcedb0.png)
+![Commodities' price during COVID-19](img/f6aea07e581698a81df4443430dcedb0.png)
 
-<figcaption>Commodities' prices during COVID-19</figcaption>
+Commodities' prices during COVID-19
 
-</figure>
+
 
 * * *
 

@@ -40,11 +40,11 @@
 
 在我参加 EPAT 课程之前，我问销售顾问，在最终项目中，是否有可能创建一个类似于以下内容的实时算法交易模型/投资组合:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Example Retail Investor Fund](img/b9839996da60e9c3b35fe8682ebabdda.png)
+![Example Retail Investor Fund](img/b9839996da60e9c3b35fe8682ebabdda.png)
 
-<figcaption>Example Retail Investor Fund<sup>[4]</sup></figcaption>
+Example Retail Investor Fund<sup>[4]</sup>
 
-</figure>
+
 
 在我开始 EPAT 之前，我几乎没有现场交易市场的经验，但我有一些基本的数据科学和 Python 编程经验。我也有过一些关于量子乌托邦的经历。但是在我能学到很多算法交易之前，它就被关闭了。
 
@@ -97,7 +97,7 @@
 
 我们将 SPY 作为基准。这 9 只 ETF 和 SPY 的价格图表如下:
 
-<figure class="kg-card kg-image-card kg-width-full">![ETFs price chart](img/d192cf935ad9975d0381162ac6ec8a11.png)</figure>
+![ETFs price chart](img/d192cf935ad9975d0381162ac6ec8a11.png)
 
 ### 战略描述
 
@@ -111,7 +111,7 @@
 
 使用面向对象编程，我们在 Jupyter Notebook 上使用 Python 执行了基于事件的回测。结果如下:
 
-<figure class="kg-card kg-image-card kg-width-full">![benchmark vs strategy returns](img/fd2d3244920f50f6f2bf45791c1eb223.png)</figure>
+![benchmark vs strategy returns](img/fd2d3244920f50f6f2bf45791c1eb223.png)
 
 * * *
 
@@ -128,7 +128,7 @@
 *   我们观察到，虽然所有的 ETF 都有正的平均利润，但只有非必需消费品和科技股的命中率超过 0.5。
 *   对于其他人来说，积极交易的回报远远超过了消极交易的损失。
 
-<figure class="kg-card kg-image-card kg-width-full">![Performance statistics for each ETF](img/be7e3dcb6847b2e7080f2761c0cb2541.png)</figure>
+![Performance statistics for each ETF](img/be7e3dcb6847b2e7080f2761c0cb2541.png)
 
 * * *
 
@@ -232,11 +232,11 @@
 
 根据 EPAT 关于系统架构的教训，我按照自动交易系统的基本架构设计了我的系统:
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Basic System Architecture](img/12e499adc1389566e17501d2b274e91d.png)
+![Basic System Architecture](img/12e499adc1389566e17501d2b274e91d.png)
 
-<figcaption>Basic System Architecture <sup>[10]</sup></figcaption>
+Basic System Architecture <sup>[10]</sup>
 
-</figure>
+
 
 我使用的交易者应用程序是 Jupyter Notebook，这是一个友好但强大的 Python GUI，适合初学者和高级用户。它的结构允许我将代码分解成独立的部分，分别进行测试和故障排除。
 

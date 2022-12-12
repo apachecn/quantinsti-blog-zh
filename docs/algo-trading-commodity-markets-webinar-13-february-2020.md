@@ -33,7 +33,7 @@
 
 ## 扬声器配置文件
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/7f757ac77d3e0ae3268a28e9556d84d3.png)</figure>
+![](img/7f757ac77d3e0ae3268a28e9556d84d3.png)
 
 ### 苏尼尔·古格拉尼
 
@@ -45,11 +45,11 @@ Sunil 目前在 NCDEX(国家商品和衍生品交易所有限公司)担任助理
 
 您可以点击此处查看本次网络研讨会的 powerpoint 演示文稿:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/oeuuMpmEIevuPb](https://www.slideshare.net/slideshow/embed_code/key/oeuuMpmEIevuPb)
 
-**[Algorithmic Trading in Commodity Markets by Sunil Guglani](https://www.slideshare.net/QuantInsti/algorithmic-trading-in-commodity-markets-by-sunil-guglani-227864480 "Algorithmic Trading in Commodity Markets by Sunil Guglani")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[Algorithmic Trading in Commodity Markets by Sunil Guglani](https://www.slideshare.net/QuantInsti/algorithmic-trading-in-commodity-markets-by-sunil-guglani-227864480 "Algorithmic Trading in Commodity Markets by Sunil Guglani")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**
 
 * * *
 

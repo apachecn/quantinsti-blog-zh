@@ -58,7 +58,7 @@ Emacs 是卓越的编辑。它是一个拥有 35 年历史的应用程序，来�
 
 Atom 有许多其他的包可以帮助我们，例如，根据 WBS 风格指南编写代码、重构代码、生成测试代码等等。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/b7e85a51027dd192f84e117bdb0acc23.png)</figure>
+![](img/b7e85a51027dd192f84e117bdb0acc23.png)
 
 正如我在介绍中所说，选择代码编辑器和/或 IDE 是个人喜好的问题，因此任何其他让您感到舒适并有帮助和编程的编辑器都完全有效。
 
@@ -86,13 +86,13 @@ Atom 有许多其他的包可以帮助我们，例如，根据 WBS 风格指南�
 
 这些应用程序不会取代终端，只是允许我们在应用程序本身中管理多个窗口，并管理每个窗口中的配置文件。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/522e2c7f1c830b98072a552b006d2823.png)</figure>
+![](img/522e2c7f1c830b98072a552b006d2823.png)
 
 学会很好地使用命令行不是一件容易的事情，但是它只需要耐心、毅力和一本手边的好手册。
 
 最后指出，Atom 允许我们在编辑器本身中集成一个终端，因此我们不必更改窗口来启动命令，我们可以在 Atom 中运行脚本，您可以尝试使用 **terminal-tab** 包，尽管还有其他不同用途的包。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/2b749d97df93c41c4045168c0666ce0c.png)</figure>
+![](img/2b749d97df93c41c4045168c0666ce0c.png)
 
 * * *
 
@@ -154,7 +154,7 @@ Git 是一个命令行软件，可以让你保存开发的快照，标记它们�
 
 尽管图形界面很常见，但它的功能仅限于最基本的命令，我们必须使用命令行来获得 Git 的全部功能。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/301b0c098e6fb2983c858b817f22b470.png)</figure>
+![](img/301b0c098e6fb2983c858b817f22b470.png)
 
 * * *
 
@@ -170,7 +170,7 @@ Git 是一个命令行软件，可以让你保存开发的快照，标记它们�
 
 **rainbow-csv** 为我们提供了可视化 csv 文件的功能，通过将每一列涂上不同的颜色，可以更快地查看数据。寻找其他 Atom 包，甚至可以像查询数据库一样对 csv 文件进行查询。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/6fee51767160885415f834fb1e925a60.png)</figure>
+![](img/6fee51767160885415f834fb1e925a60.png)
 
 对于数据库，Atom 中有特定的客户端，您还可以使用通用的**快速查询**在 MySQL 或 PostgreSQL 上启动 SQL 查询。
 
@@ -230,21 +230,21 @@ pip install pandas pandas_datareader pyfolio
 
 最后，我们用 atom 命令打开 Atom，并在刚刚创建的文件夹中创建一个新项目。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/80ba5a903e1e4f2d6dd3d9aa890de503.png)</figure>
+![](img/80ba5a903e1e4f2d6dd3d9aa890de503.png)
 
 我们假设已经安装了帖子中提到的所有 Atom 包。请看图片，我们已经在 Atom 中打开了终端，但是我们使用的 python 开发环境是 Conda 的“基础”。
 
 因此，我们必须使用 ***conda 激活 EPAT36*** 来更改我们创建的名为“EPAT36”的环境
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/cbc559a3cc581fe8ce2780ea0f00e04f.png)</figure>
+![](img/cbc559a3cc581fe8ce2780ea0f00e04f.png)
 
 我们将在 Atom 代码编辑器中使用我们出色的策略创建一个新的 Python 脚本:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/5223a6c02a8810fbf5be267d6444255e.png)</figure>
+![](img/5223a6c02a8810fbf5be267d6444255e.png)
 
 为了在 Atom 中运行报告，我们使用了 Atom **hydrogen** 包，它允许我们逐行运行 Python 脚本。输出为我们提供了一个简单的 pyfolio 报告，其中包含一个统计表和一些有趣的图形。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/0e682eab1fc1dd5125fb365c8148b968.png)</figure>
+![](img/0e682eab1fc1dd5125fb365c8148b968.png)
 
 假设我们想要修改 pyfolio 库，以改进、扩展或纠正库中的任何内容。当我们想要在一个自由软件项目中合作，或者只是想要修改库中的一些小细节时，这是非常有用的。在这个简单的例子中，我们将修改'**累积回报**'图表的一些细节。
 
@@ -252,7 +252,7 @@ pip install pandas pandas_datareader pyfolio
 
 找 pyfolio 我们可以发现我们已经从 pypi 库安装了 0.9.2 版本，也就是说带' pip '的标准安装。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/9cb61eb890b5e01b4b28a03e58fb8c0e.png)</figure>
+![](img/9cb61eb890b5e01b4b28a03e58fb8c0e.png)
 
 为了修改库，我们需要将库源代码下载到我们的机器上，进行我们需要的更改并重新安装修改后的库的新版本。
 
@@ -260,7 +260,7 @@ pip install pandas pandas_datareader pyfolio
 
 我们将找到对 [pyfolio 库](https://github.com/quantopian/pyfolio)公开可用的代码库，并在绿色的“代码”按钮中复制 URL 地址以克隆该库。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/73214dd0c5a73f8a5a2c9b7ce835d8ff.png)</figure>
+![](img/73214dd0c5a73f8a5a2c9b7ce835d8ff.png)
 
 将 URL 复制到剪贴板后，我们在终端中键入 ***git 克隆 https://github.com/quantopian/pyfolio***。这个命令将项目从 Github 克隆(复制)到我们的机器上。现在我们可以用 Atom 打开一个新项目并修改库。
 
@@ -268,7 +268,7 @@ pip install pandas pandas_datareader pyfolio
 
 在这个函数中，我们定位我们想要修改的图形，例如“累积回报”,在这种情况下从第 349-354 行开始，我们修改标题使其更具描述性。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/8083a95035ac44f62b5b31d82cb9608b.png)</figure>
+![](img/8083a95035ac44f62b5b31d82cb9608b.png)
 
 最后，我们需要再次安装库，但这一次我们将安装我们机器中的 pyfolio 项目，我们已经修改了它。
 
@@ -276,13 +276,13 @@ pip install pandas pandas_datareader pyfolio
 
 如果一切顺利，我们没有得到任何错误，我们应该看到我们已经安装了一个带有命令 ***conda list*** 的开发版本。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/d7a7cad1b859283bab71f182874c05d9.png)</figure>
+![](img/d7a7cad1b859283bab71f182874c05d9.png)
 
 如果我们返回执行我们的代码来生成报告，我们应该看到我们所做的更改。
 
 为了完成这项工作，我们需要将更改保存在 Git 中，以便进行更改控制。让我们通过运行 ***git 状态命令*** 来看看 git 告诉我们对 pyfolio 所做的更改。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/6c1804d6dd4548ba2330b5198d4e9faa.png)</figure>
+![](img/6c1804d6dd4548ba2330b5198d4e9faa.png)
 
 我们看到 **tears.py** 文件被标记为已修改，我们需要使用命令***git add py folio/tears . py***将该更改添加到 git 存储库中，然后我们提交一条消息，说明更改的原因 ***git commit -m '改善累积回报图表标题*** 。
 

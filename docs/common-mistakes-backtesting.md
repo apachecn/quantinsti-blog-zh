@@ -42,13 +42,13 @@
 
 **我将分享一个 IB 系统，在这个系统中，我用 5 秒钟的小节来测试我的测试站，而不是用 60 米的小节来测试入口——实现这样的东西是确保你自己的回溯测试尽可能准确的最可行的选择。**
 
-<figure class="kg-card kg-image-card kg-width-full">**![A close up of a map
+**![A close up of a map
 
-Description automatically generated](img/21d630b96f5234a68168194a81b61594.png)**</figure>
+Description automatically generated](img/21d630b96f5234a68168194a81b61594.png)**
 
-<figure class="kg-card kg-image-card kg-width-full">**![A close up of a map
+**![A close up of a map
 
-Description automatically generated](img/73c87db069c0d0760d657e70c68e57bf.png)**</figure>
+Description automatically generated](img/73c87db069c0d0760d657e70c68e57bf.png)**
 
 **如果您无法实现更小的间隔棒线(可能没有任何 1 米或秒棒线或可用数据)，那么您可以实现一个固定的目标值来代替您的跟踪止损，从而为您提供一个估计的最坏情况填充值。**
 

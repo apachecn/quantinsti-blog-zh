@@ -12,7 +12,7 @@ Mattia 也是，直到他找到了让这一切成为可能的方法。以下是�
 
 * * *
 
-<figure class="kg-card kg-image-card">![Mattia Mosolo photo](img/9f8a26d53976d08ff7f9cd9e70a83def.png)</figure>
+![Mattia Mosolo photo](img/9f8a26d53976d08ff7f9cd9e70a83def.png)
 
 嗨！我是 Mattia Mosolo，来自意大利。我一直在寻找优秀的交易方式。
 

@@ -19,7 +19,7 @@
 
 ## **关于作者**
 
-<figure class="kg-card kg-image-card kg-width-full">![luiz guedes pic](img/a1c316333581185cad049fff22faa15d.png)</figure>
+![luiz guedes pic](img/a1c316333581185cad049fff22faa15d.png)
 
 【Luiz Guedes 博士在其软件开发职业生涯中拥有超过 30 年的经验，尤其是在支付卡行业。此外，他还是 IME 军事学院的教员，教授编译器和编程语言。
 
@@ -249,27 +249,27 @@ Pair                      	CAGR 	Hit Ratio  Avg Profit/Loss  Rets StdDev  Max Dr
 
 **投资组合收益率:0.58 CAGR: 0.60 标准差:0.02 最大下降:-0.09**
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/331bf13b0f58b2bd224b74e16a11536b.png)
+![](img/331bf13b0f58b2bd224b74e16a11536b.png)
 
-<figcaption>Figure 1: 2020-05-01 to 2021-05-01 - Top 100 Portfolio Equity Curve – Leverage 1</figcaption>
+Figure 1: 2020-05-01 to 2021-05-01 - Top 100 Portfolio Equity Curve – Leverage 1
 
-</figure>
+
 
 **投资组合收益率:1.42 CAGR: 1.49 标准差:0.22 最大下降:-0.7**
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/d71ccd5bf1bbbba3f45fc87382054f8a.png)
+![](img/d71ccd5bf1bbbba3f45fc87382054f8a.png)
 
-<figcaption>Figure 2: 2020-05-01 to 2021-05-01 - Top 100 Portfolio Equity Curve – Leverage 2</figcaption>
+Figure 2: 2020-05-01 to 2021-05-01 - Top 100 Portfolio Equity Curve – Leverage 2
 
-</figure>
+
 
 投资组合收益率:2.59 CAGR: 2.72 标准偏差:0.41 最大下降:-0.87
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/031e50ec76935d34355e0160c3bc4702.png)
+![](img/031e50ec76935d34355e0160c3bc4702.png)
 
-<figcaption>Figure 3: 2020-05-01 to 2021-05-01 - Top 100 Portfolio Equity Curve – Leverage 3</figcaption>
+Figure 3: 2020-05-01 to 2021-05-01 - Top 100 Portfolio Equity Curve – Leverage 3
 
-</figure>
+
 
 * * *
 

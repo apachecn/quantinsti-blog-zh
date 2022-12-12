@@ -26,13 +26,13 @@
 
 ## 什么是摇摆交易？
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Apple Stock Close Price - Swing Trading](img/5b8eb62260c13cdf9e8f748159ab178f.png)
+![Apple Stock Close Price - Swing Trading](img/5b8eb62260c13cdf9e8f748159ab178f.png)
 
-<figcaption>Apple close price</figcaption>
+Apple close price
 
-</figure>
 
-<figure class="kg-card kg-image-card">![Yes Bank Stock Close Price - Swing Trading](img/415566efa25c1261f442e9dc49141337.png)</figure>
+
+![Yes Bank Stock Close Price - Swing Trading](img/415566efa25c1261f442e9dc49141337.png)
 
 看到这些股价，你首先想到的是什么？是的，苹果公司的股价在上涨，是的，银行的股价在下跌。但如果你仔细观察，价格会以之字形上下波动。这些模式被称为摆动。
 

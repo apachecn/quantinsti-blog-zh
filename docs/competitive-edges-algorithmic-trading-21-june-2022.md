@@ -27,7 +27,7 @@
 
 ## 关于演讲者
 
-<figure class="kg-card kg-image-card">![](img/345c62f9a3977e5b85c80310a35733f1.png)</figure>
+![](img/345c62f9a3977e5b85c80310a35733f1.png)
 
 尼泰什·汉德尔瓦尔
 (QuantInsti 联合创始人&首席执行官，iRage 联合创始人&合伙人)

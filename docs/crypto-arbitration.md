@@ -38,11 +38,11 @@
 
 例如，您可以在下面看到 BTC 的一些交易市场:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Bitcoin Markets](img/eedff4264e7ebf012a865fb86e341ffa.png)
+![Bitcoin Markets](img/eedff4264e7ebf012a865fb86e341ffa.png)
 
-<figcaption>Source: [Coinmarketcap](https://coinmarketcap.com/currencies/bitcoin/markets/)</figcaption>
+Source: [Coinmarketcap](https://coinmarketcap.com/currencies/bitcoin/markets/)
 
-</figure>
+
 
 * * *
 
@@ -68,11 +68,11 @@
 
 下图显示了这种偏差。正如你所看到的，大多数时候，比特币在韩国的价格比其他市场更贵，这种情况在加密货币投资者中被称为“泡菜溢价”。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Local Restrictions Imposed to Fiat Currency Transfers](img/d312e7d4a5e591923fdfddcbf8846e6b.png)
+![Local Restrictions Imposed to Fiat Currency Transfers](img/d312e7d4a5e591923fdfddcbf8846e6b.png)
 
-<figcaption>Source: [CryptoQuant](https://cryptoquant.com/asset/btc/chart/market-data/korea-premium-index?window=DAY&sma=0&ema=0&priceScale=linear&metricScale=linear&chartStyle=line). Green-Red Line: Korea Premium Index, Black Line: BTC Price in USD</figcaption>
+Source: [CryptoQuant](https://cryptoquant.com/asset/btc/chart/market-data/korea-premium-index?window=DAY&sma=0&ema=0&priceScale=linear&metricScale=linear&chartStyle=line). Green-Red Line: Korea Premium Index, Black Line: BTC Price in USD
 
-</figure>
+
 
 ### 价格的突然变化
 

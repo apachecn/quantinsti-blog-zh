@@ -116,17 +116,17 @@
 
 我们将使用普通的最小二乘法建立一个回归模型。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/f678421a6b9d4a6a68aff2fc9eb40d73.png)
+![](img/f678421a6b9d4a6a68aff2fc9eb40d73.png)
 
-<figcaption>Regression Summary</figcaption>
+Regression Summary
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Scatter Plot](img/6c2d13c9639701fe15ec4fb685e53b4f.png)
 
-<figcaption>Scatter Plot</figcaption>
+![Scatter Plot](img/6c2d13c9639701fe15ec4fb685e53b4f.png)
 
-</figure>
+Scatter Plot
+
+
 
 R 平方是描述线性回归模型有多好的最受欢迎的指标。它通常给出实际数据与回归线有多接近的概念。r 平方值介于 0 到 1 之间，R2 值越大，拟合越健康。
 
@@ -161,11 +161,11 @@ R 平方是描述线性回归模型有多好的最受欢迎的指标。它通常
 
 从 2020 年 1 月 1 日到 2020 年 1 月 1 日，用于模拟 Nifty 1 小时图的数据。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Performance Summary](img/9f9a97070db52fd442539fc34a55323f.png)
+![Performance Summary](img/9f9a97070db52fd442539fc34a55323f.png)
 
-<figcaption>Performance Summary</figcaption>
+Performance Summary
 
-</figure>
+
 
 请注意，滑动不包括在内。
 

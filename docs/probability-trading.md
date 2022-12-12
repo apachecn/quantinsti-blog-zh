@@ -46,7 +46,7 @@
 
 任何事件 A 的概率通过以下公式计算:
 
-<figure class="kg-card kg-image-card">![](img/b2189c9a5ff8a7772ad5209fe121e7c3.png)</figure>
+![](img/b2189c9a5ff8a7772ad5209fe121e7c3.png)
 
 * * *
 

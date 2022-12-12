@@ -148,11 +148,11 @@
 
 比如看下图。你可以看到这个系列中突然出现的峰值。这是因为连续两个月之间的价格差异。这并不意味着实际价格已经见顶。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Fig. 1: Appending monthly data](img/806621d4691dc759f3fcfe2729c6a4e9.png)
+![Fig. 1: Appending monthly data](img/806621d4691dc759f3fcfe2729c6a4e9.png)
 
-<figcaption>Fig. 1: Appending monthly data</figcaption>
+Fig. 1: Appending monthly data
 
-</figure>
+
 
 因此，为了缝合单个合同，您需要小心避免这样的错误。你可以用不同的方法来装订合同。让我们来看看其中的几个。
 
@@ -219,22 +219,22 @@ $ $ \ text {调整系数=第二个合同的第一个价格/第一个合同的最
 
 下图显示了价格趋势。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Fig. 2: Price trend of Palladium](img/115bb9a701f1dcbe34662a2de3cd3580.png)
+![Fig. 2: Price trend of Palladium](img/115bb9a701f1dcbe34662a2de3cd3580.png)
 
-<figcaption>Fig. 2: Price trend of Palladium</figcaption>
+Fig. 2: Price trend of Palladium
 
-</figure>
+
 
 趋势定义后，开仓规则定义如下:
 
 1.  如果趋势过滤器显示看涨趋势，价格突破 50 天高点，则建立新的多头头寸。
 2.  相反，如果趋势过滤器看跌，价格突破 50 天低点，则建立新的空头头寸。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Fig. 3: Long and shorty entry signal](img/c18a402488d0dea3dc26cf66b4f861c0.png)
+![Fig. 3: Long and shorty entry signal](img/c18a402488d0dea3dc26cf66b4f861c0.png)
 
-<figcaption>Fig. 3: Long and shorty entry signal</figcaption>
+Fig. 3: Long and shorty entry signal
 
-</figure>
+
 
 接下来，让我们定义退出头寸的规则。为了定义退出规则，我们需要计算回调值。拉回值计算如下:
 
@@ -247,21 +247,21 @@ $ $ \ text {调整系数=第二个合同的第一个价格/第一个合同的最
 
 下图显示了多头和空头头寸。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Fig. 4: Long and short positions](img/90d060ba3828a214e26c5c0e78ee0d76.png)
+![Fig. 4: Long and short positions](img/90d060ba3828a214e26c5c0e78ee0d76.png)
 
-<figcaption>Fig. 4: Long and short positions</figcaption>
+Fig. 4: Long and short positions
 
-</figure>
+
 
 在上图中，绿色阴影区域是持有多头头寸的时期。类似地，红色阴影区域是持有空头头寸的时期。
 
 观察到的策略回报如下:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Fig. 5: Cumulative returns](img/0386cd98abbb940814af09c15c9c4733.png)
+![Fig. 5: Cumulative returns](img/0386cd98abbb940814af09c15c9c4733.png)
 
-<figcaption>Fig. 5: Cumulative returns</figcaption>
+Fig. 5: Cumulative returns
 
-</figure>
+
 
 * * *
 

@@ -89,7 +89,7 @@ r 平方值的范围从 0 到 1，通常表示为从 0 到 100%的百分比。10
 
 夏普比率=(平均投资组合回报率-无风险率)投资组合回报率的标准差
 
-<figure class="kg-card kg-image-card">![Sharpe Ratio](img/6e818821aa8e71229a335e2e116416ac.png)</figure>
+![Sharpe Ratio](img/6e818821aa8e71229a335e2e116416ac.png)
 
 ### **Fama 和 French 三因素模型**
 
@@ -117,7 +117,7 @@ Fama 和 French 三因素模型是一种资产定价模型，它是对[资本资
 
 在给定风险的情况下，计算资产预期回报的公式如下:
 
-<figure class="kg-card kg-image-card">![Capital Asset Pricing](img/fe08e9ba267d1494314d55361fb674aa.png)</figure>
+![Capital Asset Pricing](img/fe08e9ba267d1494314d55361fb674aa.png)
 
 CAPM 背后的一般思想是，投资者需要从两个方面得到补偿:货币的时间价值和风险。货币的时间价值在公式中用无风险(rf)率来表示，并补偿投资者在一段时间内的任何投资。无风险利率通常是美国国债等政府债券的收益率。
 
@@ -181,9 +181,9 @@ vol _ unionbank 联合银行。NS 2.170028 印度银行航班。S7-1200 可编�
 
 程序输出显示我的投资组合的 2 个投资组合的有效边界，显示投资组合的回报率，波动率和夏普比率的值。
 
-<figure class="kg-card kg-image-card">![PROGRAM OUTPUT SHOWING EFFICIENT FRONTIER 1](img/979244b210cfc9493934708b1268a2bb.png)</figure>
+![PROGRAM OUTPUT SHOWING EFFICIENT FRONTIER 1](img/979244b210cfc9493934708b1268a2bb.png)
 
-<figure class="kg-card kg-image-card">![PROGRAM OUTPUT SHOWING EFFICIENT FRONTIER 2](img/d07b37ee05641487036a0f79afd10ef5.png)</figure>
+![PROGRAM OUTPUT SHOWING EFFICIENT FRONTIER 2](img/d07b37ee05641487036a0f79afd10ef5.png)
 
 **具有最大夏普比率和最小波动率的两个投资组合**
 

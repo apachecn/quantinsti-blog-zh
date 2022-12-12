@@ -38,7 +38,7 @@
 
 ## **演讲者简介**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/209f1383644567fa81aab94c44abfe27.png)</figure>
+![](img/209f1383644567fa81aab94c44abfe27.png)
 
 ### **肖乔博士**
 

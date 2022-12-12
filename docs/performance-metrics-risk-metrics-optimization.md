@@ -202,7 +202,7 @@ n = the number of data points
 
 下面你可以看到一个投资组合的累积回报图。如图所示，其从峰值到谷值的最大下降由红色点表示。
 
-<figure class="kg-card kg-image-card kg-width-full">![cumulative returns of a portfolio](img/7d28a78adf01625f7968d520d25c3829.png)</figure>
+![cumulative returns of a portfolio](img/7d28a78adf01625f7968d520d25c3829.png)
 
 **最大水位下降的公式和计算**
 
@@ -263,7 +263,7 @@ Where,
 
 风险价值(VaR)是一种统计方法，用于评估与投资组合相关的风险水平。VaR 以一定的置信度衡量特定时期的最大潜在损失。
 
-<figure class="kg-card kg-image-card kg-width-full">![Value at Risk VaR portfolio](img/e304db105467a87a1e76845c7ab2d2be.png)</figure>
+![Value at Risk VaR portfolio](img/e304db105467a87a1e76845c7ab2d2be.png)
 
 例如，如上所述，如果一个投资组合的风险值在 95%的置信水平下为 1000 万，那么这意味着在 5%的情况下损失将超过风险值。
 
@@ -279,7 +279,7 @@ Where,
 
 正如你在下面看到的，CVaR 被看作是 VaR 的延伸，被认为优于 VaR，因为它解释了超过 VaR 的损失。因此，您可以在您的投资组合优化策略中使用 CVaR 来更好地了解极端损失，并有效地管理您的投资组合风险。
 
-<figure class="kg-card kg-image-card kg-width-full">![Conditional Value at Risk CVaR portfolio](img/56632cc7780a7589d2aec60c254dbcf8.png)</figure>
+![Conditional Value at Risk CVaR portfolio](img/56632cc7780a7589d2aec60c254dbcf8.png)
 
 * * *
 

@@ -27,4 +27,4 @@ nitesh Khandelwal(QuantInsti 首席执行官)和 Prodipta Ghosh(QuantInsti 副�
 
 ## **活动照片**
 
-<figure class="kg-card kg-gallery-card kg-width-wide">![](img/75865e5bf55e3cd3ce0a84ef6e96c21f.png)![](img/d21f43fd2ebc63b9108e83cde6a3ed98.png)</figure>
+![](img/75865e5bf55e3cd3ce0a84ef6e96c21f.png)![](img/d21f43fd2ebc63b9108e83cde6a3ed98.png)

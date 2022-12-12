@@ -31,7 +31,7 @@
 
 普遍使用的 SMA-LMA 线对包括 20-40、20-60 和 50-200。SMA-LMA 图以及 Nifty looks 调整后的收盘价如下
 
-<figure class="kg-card kg-image-card kg-width-full">![close price for Nifty](img/b7756d53e361767a1854539ed9ab3e40.png)</figure>
+![close price for Nifty](img/b7756d53e361767a1854539ed9ab3e40.png)
 
 交易规则很简单。
 

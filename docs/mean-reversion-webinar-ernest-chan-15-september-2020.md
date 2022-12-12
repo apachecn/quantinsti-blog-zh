@@ -32,7 +32,7 @@
 
 ## ****S** 匹克简介**
 
-<figure class="kg-card kg-image-card">![](img/6459ba2fac6619414985f7460890aee4.png)</figure>
+![](img/6459ba2fac6619414985f7460890aee4.png)
 
 ### 陈欧内斯特博士
 

@@ -39,7 +39,7 @@
 
 ## 关于演讲者
 
-<figure class="kg-card kg-image-card">![Andreas Clenow](img/a9876d8f2757b6abcc84fccd8a71644d.png)</figure>
+![Andreas Clenow](img/a9876d8f2757b6abcc84fccd8a71644d.png)
 
 ### 安德烈亚斯·克莱诺
 

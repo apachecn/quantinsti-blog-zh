@@ -42,11 +42,11 @@
 
 此外，预计云计算[市场规模](https://www.globenewswire.com/news-release/2022/07/20/2483111/0/en/The-cloud-computing-market-size-is-expected-to-be-valued-at-US-405-295-8-million-in-2022-and-reach-US-1-465-818-2-million-by-2028.html)将很快在 2022 年达到 4052.958 亿美元，并在 2028 年达到 14658.182 亿美元。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Cloud storage market](img/8ad98f1209a55e3f1415637c9d6a4b2d.png)
+![Cloud storage market](img/8ad98f1209a55e3f1415637c9d6a4b2d.png)
 
-<figcaption>Cloud storage market</figcaption>
+Cloud storage market
 
-</figure>
+
 
 由于云计算提供了更快的创新和灵活的资源，因此非常方便。此外，像 Blueshift 这样的云计算平台是免费的，这也有助于您确保低成本。
 
@@ -86,11 +86,11 @@
 
 让我们进一步了解每个型号。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Cloud deployment models](img/4c92c6d7f8beaed2189a4a9d2ca9733c.png)
+![Cloud deployment models](img/4c92c6d7f8beaed2189a4a9d2ca9733c.png)
 
-<figcaption>Cloud deployment models - Source: [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)</figcaption>
+Cloud deployment models - Source: [Wikipedia](https://en.wikipedia.org/wiki/Cloud_computing)
 
-</figure>
+
 
 ### 软件即服务(SaaS)
 
@@ -122,11 +122,11 @@
 
 公共云是一种云计算模式，其中第三方提供商通过互联网向公众提供计算资源。有了公共云，企业不必在内部设置和维护自己的云服务器。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Cloud computing deployment models](img/9cd1387fbcf1e732edc4507c4af5e5ee.png)
+![Cloud computing deployment models](img/9cd1387fbcf1e732edc4507c4af5e5ee.png)
 
-<figcaption>Cloud computing deployment models</figcaption>
+Cloud computing deployment models
 
-</figure>
+
 
 * * *
 
@@ -283,11 +283,11 @@ Blueshift 上提供实时交易的经纪商有羊驼、FXCM 和 MASTERTRUST。�
 
 下图来自 [Cloudwards](https://www.cloudwards.net/cloud-computing-statistics/) 显示了最常见和最紧迫的云安全问题，以及每种问题出现的百分比。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Cloud security concern](img/6be60b4b12a5e70052501d0f916804a2.png)
+![Cloud security concern](img/6be60b4b12a5e70052501d0f916804a2.png)
 
-<figcaption>Cloud security concern</figcaption>
+Cloud security concern
 
-</figure>
+
 
 * * *
 

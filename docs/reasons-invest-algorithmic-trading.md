@@ -24,7 +24,7 @@
 
 当你从零开始学习之旅时，你可能会遇到困难，但你必须时刻记住，学习算法交易确实很难，但不是不可能。
 
-<figure class="kg-card kg-image-card kg-width-full">![Learning algorithmic trading from scratch](img/cc274193ceaf8fe089e8ca85f1ce9af8.png)</figure>
+![Learning algorithmic trading from scratch](img/cc274193ceaf8fe089e8ca85f1ce9af8.png)
 
 想象你和上图中的人一样努力工作。这可能是它看起来的样子。但是严肃地说，算法交易确实需要你对学习有强烈的意愿和热情。
 
@@ -42,11 +42,11 @@
 
 虽然，即使你没有足够的必修课知识，你仍然可以通过学习专门的课程来开始你的[算法交易之旅](https://quantra.quantinsti.com/courses)。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Educational background in subjects meant for algorithmic trading](img/82c32cfc1d945f30c2de9a06a2582f19.png)
+![Educational background in subjects meant for algorithmic trading](img/82c32cfc1d945f30c2de9a06a2582f19.png)
 
-<figcaption>Educational background in subjects meant for algorithmic trading</figcaption>
+Educational background in subjects meant for algorithmic trading
 
-</figure>
+
 
 * * *
 
@@ -58,11 +58,11 @@
 
 如果你一直在投入大量的时间和精力进行人工交易，却没有满意的结果，你可能想试试算法交易！或者在手工交易中尝到成功的滋味后，想用算法交易让自己的技巧更上一层楼。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Transition from manual trading to algorithmic trading](img/bf50837f678a33503582a098c407ff83.png)
+![Transition from manual trading to algorithmic trading](img/bf50837f678a33503582a098c407ff83.png)
 
-<figcaption>Transition from manual trading to algorithmic trading</figcaption>
+Transition from manual trading to algorithmic trading
 
-</figure>
+
 
 * * *
 
@@ -74,11 +74,11 @@
 
 算法交易极大地改变了金融市场的交易场景。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Quick and dynamic to advanced technical knowledge](img/5efd8c1ebde83d3e549593523abe4f75.png)
+![Quick and dynamic to advanced technical knowledge](img/5efd8c1ebde83d3e549593523abe4f75.png)
 
-<figcaption>Quick and dynamic to advanced technical knowledge</figcaption>
+Quick and dynamic to advanced technical knowledge
 
-</figure>
+
 
 * * *
 
@@ -90,11 +90,11 @@
 
 只要你愿意，从头开始学习算法交易技巧肯定不是不可能的。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Willing to dedicate considerable time and effort to learning and practice](img/142af831c661c3090a8d122a74da0584.png)
+![Willing to dedicate considerable time and effort to learning and practice](img/142af831c661c3090a8d122a74da0584.png)
 
-<figcaption>Willing to dedicate considerable time and effort to learning and practice</figcaption>
+Willing to dedicate considerable time and effort to learning and practice
 
-</figure>
+
 
 * * *
 

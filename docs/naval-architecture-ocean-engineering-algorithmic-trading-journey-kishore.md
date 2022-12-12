@@ -12,7 +12,7 @@
 
 嗨！我的名字是基肖尔·森希尔内森·阿达什，我来自印度。我已经完成了 IIT 马德拉斯大学的造船和海洋工程本科毕业。我还完成了金融硕士学位。
 
-<figure class="kg-card kg-image-card">![ Kishore Senthilnathan Adharsh EPAT Alumnus Photo](img/33390a42cc1d4ff0878c24eeabb2745e.png)</figure>
+![ Kishore Senthilnathan Adharsh EPAT Alumnus Photo](img/33390a42cc1d4ff0878c24eeabb2745e.png)
 
 除了我的 CFA 学习，我正在寻找研究生课程和实习机会，特别是在量化交易结构和风险部门。
 

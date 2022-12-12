@@ -20,4 +20,4 @@ QuantCon 2017 由 Quantopian 主办，于 4 月 28 日<sup>日</sup>至 30 日<s
 
 ## **下面是我们图库中 QuantCon 演讲者的照片:**
 
-<figure class="kg-card kg-gallery-card kg-width-wide">![](img/1956eb780f78989f67817f4a016c01f8.png)![](img/a595ca919a4a51278b9d82832acc4c11.png)![](img/885822e437a1f626884c78ee40800f47.png)![](img/3034b8a9ca860a241229a3eaa47c4017.png)</figure>
+![](img/1956eb780f78989f67817f4a016c01f8.png)![](img/a595ca919a4a51278b9d82832acc4c11.png)![](img/885822e437a1f626884c78ee40800f47.png)![](img/3034b8a9ca860a241229a3eaa47c4017.png)

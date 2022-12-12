@@ -30,4 +30,4 @@ Nitesh Khandelwal 毕业于 IIT 坎普尔大学电气工程专业，并获得了
 
 ## **活动照片**
 
-<figure class="kg-card kg-gallery-card kg-width-wide">![](img/2dcd5de8c8e330a162ba7ca5d68a6170.png)![](img/1a0c73ac1b33c67f348395ea88cdd12a.png)![](img/8d0212f0e8c765872c1922286e597ee1.png)![](img/22f4e61f18f3846ef5455732464a9e25.png)</figure>
+![](img/2dcd5de8c8e330a162ba7ca5d68a6170.png)![](img/1a0c73ac1b33c67f348395ea88cdd12a.png)![](img/8d0212f0e8c765872c1922286e597ee1.png)![](img/22f4e61f18f3846ef5455732464a9e25.png)

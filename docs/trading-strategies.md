@@ -169,7 +169,7 @@ Rf= [无风险利率](https://quantra.quantinsti.com/glossary/Risk-Free-Rate)
 
 它可以用公式表示为:
 
-<figure class="kg-card kg-image-card">![](img/b07aac0795cc34940959c968aeb96ed6.png)</figure>
+![](img/b07aac0795cc34940959c968aeb96ed6.png)
 
 在哪里，
 
@@ -201,19 +201,19 @@ L =新高之前的最低值
 
 这段视频让我们对实时交易有了更深入的了解:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/wfeS2QLWRuI?feature=oembed](https://www.youtube.com/embed/wfeS2QLWRuI?feature=oembed)
 
-</figure>
+
 
 此外，你可以沉浸在刘辉博士和阿迪蒂亚·古普塔的大师级实践录音中，他们解释了如何创建算法交易策略，并在真实市场中实施。他们探索了[交易策略](https://quantra.quantinsti.com/course/quantitative-trading-strategies-models)的领域，创建了一个样本策略，对其进行了回溯测试，并分析了以下结果:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/VFhSKz4hyTA?feature=oembed](https://www.youtube.com/embed/VFhSKz4hyTA?feature=oembed)
 
-</figure>
+
 
 ## 结论
 

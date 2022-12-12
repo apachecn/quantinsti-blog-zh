@@ -4,7 +4,7 @@
 
 * * *
 
-<figure class="kg-card kg-image-card">![](img/e63e8489b4a86358bd6e22d28ec98ad7.png)</figure>
+![](img/e63e8489b4a86358bd6e22d28ec98ad7.png)
 
 * * *
 
@@ -33,7 +33,7 @@
 
 ## **扬声器**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/a5056c328bc14ce783fa8056584493a9.png)</figure>
+![](img/a5056c328bc14ce783fa8056584493a9.png)
 
 * * *
 

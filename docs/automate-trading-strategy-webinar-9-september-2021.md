@@ -54,7 +54,7 @@
 
 ## 关于演讲者
 
-<figure class="kg-card kg-image-card kg-width-full">![rishabh mittal](img/0b367427914496455d21d661f7a8c159.png)</figure>
+![rishabh mittal](img/0b367427914496455d21d661f7a8c159.png)
 
 **里沙布·米塔尔**
 **(Quantra by QuantInsti 的量化分析师)**

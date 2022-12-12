@@ -12,7 +12,7 @@
 
 ## 嗨，Arushi，告诉我们关于你自己的情况吧！
 
-<figure class="kg-card kg-image-card">![EPAT alumnus Arushi Roy pic](img/dc359611f5841c65b682c5d987df14cb.png)</figure>
+![EPAT alumnus Arushi Roy pic](img/dc359611f5841c65b682c5d987df14cb.png)
 
 嗨！我是 Arushi Roy，来自印度的德里。我是一名受过教育的化学工程师，目前在沸腾证券私人有限公司担任定量研究员。
 

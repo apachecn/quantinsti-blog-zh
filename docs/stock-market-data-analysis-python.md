@@ -33,17 +33,17 @@ Yahoo finance 是获得历史日价量股票市场数据的第一个来源。您
 
 如果你的电脑上没有安装 yfinance，那么从你的 Jupyter 笔记本上运行下面一行代码来安装 yfinance。
 
-<figure class="kg-card kg-image-card kg-width-full">![yfinance installation logs](img/a7e1e73c6d4a6c50c77a7a3088c0b778.png)</figure>
+![yfinance installation logs](img/a7e1e73c6d4a6c50c77a7a3088c0b778.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![data using yfinance](img/e1649b1c36022717e3ae0dd5e49a1c63.png)</figure>
+![data using yfinance](img/e1649b1c36022717e3ae0dd5e49a1c63.png)
 
 要可视化调整后的收盘价数据，可以使用 matplotlib 库和 plot 方法，如下所示。
 
-<figure class="kg-card kg-image-card kg-width-full">![amazon data plot](img/9eb8dce96d0b84fe3a35d616980018db.png)</figure>
+![amazon data plot](img/9eb8dce96d0b84fe3a35d616980018db.png)
 
 让我们通过调整大小、给出适当的标签和添加网格线来提高可读性。
 
-<figure class="kg-card kg-image-card kg-width-full">![adjusted close price of amazon](img/a704f123f37cd278f2c0926e7e8bd0d5.png)</figure>
+![adjusted close price of amazon](img/a704f123f37cd278f2c0926e7e8bd0d5.png)
 
 **优势**
 
@@ -69,9 +69,9 @@ Yahoo finance 是获得历史日价量股票市场数据的第一个来源。您
 
 为了简单起见，我创建了一个数据框架`data`来存储股票调整后的收盘价。
 
-<figure class="kg-card kg-image-card kg-width-full">![multiple data tickers](img/796fbccb6119ffd6427cf087a59e48a6.png)</figure>
+![multiple data tickers](img/796fbccb6119ffd6427cf087a59e48a6.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![adjusted close price plot](img/34096b197c2465d7a73e86975cedfe35.png)</figure>
+![adjusted close price plot](img/34096b197c2465d7a73e86975cedfe35.png)
 
 * * *
 
@@ -79,9 +79,9 @@ Yahoo finance 是获得历史日价量股票市场数据的第一个来源。您
 
 如果你想分析组成标准普尔 500 的所有股票的市场数据，下面的代码将会帮助你。它从维基百科页面获取股票列表，然后从 yahoo finance 获取股票市场数据。
 
-<figure class="kg-card kg-image-card kg-width-full">![data for tickers](img/987798e6519bb9f9a6c11c5bb419b81d.png)</figure>
+![data for tickers](img/987798e6519bb9f9a6c11c5bb419b81d.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![ stock market data for all the stocks which make up S&P 500](img/8e05fab97c1e008d02a8932de2fd7409.png)</figure>
+![ stock market data for all the stocks which make up S&P 500](img/8e05fab97c1e008d02a8932de2fd7409.png)
 
 * * *
 
@@ -101,7 +101,7 @@ yfinance 模块有下载方法，可以用来下载股市数据。
 
 下面的代码以 1 分钟的频率获取 MSFT 过去 5 天的股票市场数据。
 
-<figure class="kg-card kg-image-card kg-width-full">![stock market data for msft for the past 5 days of 1 minute frequency](img/0c9bdc10a358532df2fbbec61314dbe4.png)</figure>
+![stock market data for msft for the past 5 days of 1 minute frequency](img/0c9bdc10a358532df2fbbec61314dbe4.png)
 
 * * *
 
@@ -125,7 +125,7 @@ yfinance 模块有下载方法，可以用来下载股市数据。
 *   d 持续 1 天，并且
 *   m 为 1 个月
 
-<figure class="kg-card kg-image-card kg-width-full">![resample data stock market python](img/81f4968ba983c0adb94e247c1fea753d.png)</figure>
+![resample data stock market python](img/81f4968ba983c0adb94e247c1fea753d.png)
 
 雅虎财经拥有有限的分钟级数据集。如果你需要更高范围的股票市场数据，那么你可以从 Quandl、AlgoSeek 或你的经纪人那里获得数据。
 
@@ -173,11 +173,11 @@ quandl`get`方法以这个股市数据作为输入，返回开盘价、最高价
 
 ### **收入**
 
-<figure class="kg-card kg-image-card kg-width-full">![total-revenues](img/e121842e62a353f9696ada3c90e65b9c.png)</figure>
+![total-revenues](img/e121842e62a353f9696ada3c90e65b9c.png)
 
 ### **息税前收益(EBIT)**
 
-<figure class="kg-card kg-image-card kg-width-full">![ebit](img/3827c2b2854c7f8c11f45524abe4fc6c.png)</figure>
+![ebit](img/3827c2b2854c7f8c11f45524abe4fc6c.png)
 
 ### **资产负债表、现金流等信息**
 
@@ -213,7 +213,7 @@ quandl`get`方法以这个股市数据作为输入，返回开盘价、最高价
 | 2019-01-18 | HDFC | 2019-02-28 | Two thousand and eighteen point five five | Two thousand and twenty-five point seven five | Two thousand and five | Two thousand and eighteen point four | Two thousand and seventeen point two five | Two thousand and eighteen point four | Four hundred and eighty-one | 4.845300e+08 | Five million six hundred and thirty-seven thousand | Ninety-two thousand | Two thousand and six point eight five |
 | 2019-01-21 | HDFC | 2019-02-28 | Two thousand and eleven point two five | Two thousand and thirty-one point one | One thousand nine hundred and ninety-eight | Two thousand and sixteen point five five | Two thousand and sixteen point six | Two thousand and sixteen point five five | One thousand four hundred and eighty-nine | 1.505249e+09 | Six million two hundred and fifty-eight thousand | Six hundred and twenty-one thousand | Two thousand and four point four five |
 
-<figure class="kg-card kg-image-card kg-width-full">![futures data closing price stock market data](img/b7499288da1c726643d941896c863903.png)</figure>
+![futures data closing price stock market data](img/b7499288da1c726643d941896c863903.png)
 
 ### **选项数据**
 
@@ -225,7 +225,7 @@ quandl`get`方法以这个股市数据作为输入，返回开盘价、最高价
 | 2019-01-18 | HDFC | 2019-02-28 | 这一个 | Two thousand | Sixty-three | Sixty-three | Sixty | Sixty | Sixty | Sixty | seven | Seven million two hundred and twelve thousand | Two hundred and twelve thousand | Eighteen thousand five hundred | Zero | Two thousand and six point eight five |
 | 2019-01-21 | HDFC | 2019-02-28 | 这一个 | Two thousand | Sixty-two point zero five | Sixty-nine | Sixty-two point zero five | Sixty-two point nine | Sixty-two point nine | Sixty-two point nine | six | Six million one hundred and ninety-eight thousand | One hundred and ninety-eight thousand | Twenty thousand | One thousand five hundred | Two thousand and four point four five |
 
-<figure class="kg-card kg-image-card kg-width-full">![options data close price stock market data](img/f2335dc5f87c837cb03c83fd91ac27de.png)</figure>
+![options data close price stock market data](img/f2335dc5f87c837cb03c83fd91ac27de.png)
 
 * * *
 
@@ -259,7 +259,7 @@ quandl`get`方法以这个股市数据作为输入，返回开盘价、最高价
 
 如果尚未安装 pyfolio，请安装，如下所示:
 
-<figure class="kg-card kg-image-card kg-width-full">![analyze stock market data performance using pyfolio tear sheet](img/22eae5480d94cf107d31b6abece9d3ac.png)</figure>
+![analyze stock market data performance using pyfolio tear sheet](img/22eae5480d94cf107d31b6abece9d3ac.png)
 
 **建议使用 Python 进行数据可视化读取**
 

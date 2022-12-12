@@ -39,11 +39,11 @@ P(A)= 3/6 = 1/2，P(B) = 2/6 = 1/3
 
 其中一个例子可以是同时滚动两个骰子。两次掷骰的结果将相互独立。由于这两个事件互不影响对方的发生，所以它们被认为是独立的事件。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Independent events](img/729d62cfec272cb5c1a6b9b9011d649c.png)
+![Independent events](img/729d62cfec272cb5c1a6b9b9011d649c.png)
 
-<figcaption>Independent events</figcaption>
+Independent events
 
-</figure>
+
 
 ### 交易领域中独立事件的示例
 

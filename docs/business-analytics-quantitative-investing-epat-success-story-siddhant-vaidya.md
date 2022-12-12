@@ -12,7 +12,7 @@
 
 ## 嗨，Siddhant，给我们介绍一下你自己吧！
 
-<figure class="kg-card kg-image-card">![Siddhant Vaidya pic](img/768d4feb328b02d5bca6ce2919f53c46.png)</figure>
+![Siddhant Vaidya pic](img/768d4feb328b02d5bca6ce2919f53c46.png)
 
 嗨！我是 [Siddhant Vaidya](https://www.linkedin.com/in/siddhant-vaidya/) ，我住在美国的泽西城。我目前在纽约银河数码公司的产品开发团队工作。
 

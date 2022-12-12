@@ -62,7 +62,7 @@
 
 ### Renato Votto(来自英国的数据分析师)
 
-<figure class="kg-card kg-image-card kg-width-wide">![Renato Votto pic](img/a4dc8b8c9467d5e9bd93254922fd055c.png)</figure>
+![Renato Votto pic](img/a4dc8b8c9467d5e9bd93254922fd055c.png)
 
 Renato 真正喜欢并热衷于开发自动化软件，寻找复杂问题的算法解决方案并优化程序。他拥有量化优势，精通算法交易、量化开发、机器学习、数据工程、Python、C++和 SQL。Renato 拥有能源工程背景，是算法交易(EPAT)高管课程的毕业生。在进入 EPAT 大学之前，他还完成了机器学习和数据工程研究。
 
@@ -72,7 +72,7 @@ Renato 真正喜欢并热衷于开发自动化软件，寻找复杂问题的算�
 
 ### Ujjwal Agrawal(量化交易者和来自印度的企业主)
 
-<figure class="kg-card kg-image-card kg-width-wide">![Ujjwal Agrawal pic](img/2f8f050fb330bd69c79c92deffb1a4a2.png)</figure>
+![Ujjwal Agrawal pic](img/2f8f050fb330bd69c79c92deffb1a4a2.png)
 
 Ujjwal Agrawal 是 CFA(特许金融分析师)三级考生，拥有浦那大学机械工程学士学位。他是奥里萨邦农产品加工业的业主，过去 4 年一直在印度市场做生意。全职管理一家企业和交易有时会变得很困难，这让他开始自动化自己的交易设置。完成 EPAT 课程后，在 QuantInsti 团队的无条件支持下，Ujjwal 现在已经完全实现了交易系统的自动化，并将全部时间投入到自己的业务中。
 

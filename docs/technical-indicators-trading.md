@@ -53,11 +53,11 @@
 
 假设你有一个证券的每日价格数据，你需要计算周期为 5 的移动平均线。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/2b6e1166873238e286a0df6f294491f2.png)
+![](img/2b6e1166873238e286a0df6f294491f2.png)
 
-<figcaption>5-Day Moving Average</figcaption>
+5-Day Moving Average
 
-</figure>
+
 
 前四个值是 NaN，因为您正在计算 5 天移动周期的移动平均值。第一个移动平均线是为“2021-05-14”计算的，这是从“2021-05-10”到“2021-05-13”的最后五天价格的平均值。同样，“2021-05-17”的移动平均线是从“2021-05-11”到“2021-05-14”的平均价格。
 

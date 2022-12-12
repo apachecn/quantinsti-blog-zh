@@ -27,4 +27,4 @@
 
 ## **发言人和小组成员**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/f40f66a643785134c63b7ed1d152c36b.png)</figure>
+![](img/f40f66a643785134c63b7ed1d152c36b.png)

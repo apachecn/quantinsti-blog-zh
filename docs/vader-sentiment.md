@@ -35,7 +35,7 @@ VADER 的资源高效方法帮助我们解码和量化文本、音频或视频�
 
 *如果这些话现在对你没有任何意义，不要担心。在这篇博客结束的时候，你会对这些词的意思有很深的理解。*
 
-<figure class="kg-card kg-image-card kg-width-full">*![vader sentiment analysis meme](img/0b46d891a2e7ea7791c031d42d4907a0.png)*</figure>
+*![vader sentiment analysis meme](img/0b46d891a2e7ea7791c031d42d4907a0.png)*
 
 *继续下一节，讨论 VADER 模型的分类精度以及 VADER 是如何实现的。*
 
@@ -78,7 +78,7 @@ VADER 的资源高效方法帮助我们解码和量化文本、音频或视频�
 
 ******无需深入技术细节，这里有一个创建这样一个字典的两步过程分解。******
 
-<figure class="kg-card kg-image-card kg-width-full">******![vader sentiment analysis dictionary steps](img/c19a967806f3e3330ea6926246f5e45f.png)******</figure>
+******![vader sentiment analysis dictionary steps](img/c19a967806f3e3330ea6926246f5e45f.png)******
 
 ******研究 VADER 的研究人员使用****C****rowd’(****WotC****)方法确认了这些负责情感的词汇特征的普遍适用性。******
 

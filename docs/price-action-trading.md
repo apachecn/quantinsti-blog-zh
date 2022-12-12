@@ -55,11 +55,11 @@
 
 一个简单的折线图提供了一项资产在特定时间内的收盘价数据的汇总。下面是一个显示苹果每日收盘价数据的简单折线图示例。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![charting platform for price action trading](img/64da789b8eb53cb8c51ecd811adde2a8.png)
+![charting platform for price action trading](img/64da789b8eb53cb8c51ecd811adde2a8.png)
 
-<figcaption>Charting platform: tradingview.com</figcaption>
+Charting platform: tradingview.com
 
-</figure>
+
 
 折线图的一个缺点是，其他重要的数据，如当天的开盘价，最高和最低交易价格，根本不包括在图表中。
 
@@ -67,11 +67,11 @@
 
 下面是一个蜡烛图，也显示了每个时间间隔的开盘价、最高价、最低价和收盘价。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![candlestick chart for price action](img/a427670e561a992a7eee741b0d484c59.png)
+![candlestick chart for price action](img/a427670e561a992a7eee741b0d484c59.png)
 
-<figcaption>(Source: tradingview.com)</figcaption>
+(Source: tradingview.com)
 
-</figure>
+
 
 清楚地理解如何使用烛台来代表 OHLC 数据是能够发现和阅读图表中的价格行动所必需的。如果你想了解更多关于烛台的信息，你可以访问此[链接](/candlestick-patterns-meaning/)。
 
@@ -83,31 +83,31 @@
 
 每当价格运动的方式，它形成了一系列的较低的高点和较低的低点时，与它以前的摆动高点和摆动低点相比，我们可以说，资产价格有一个持续的下降趋势或熊市趋势。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![downtrend for price action](img/b718ba390de1dccb96e179c772cfb4e3.png)
+![downtrend for price action](img/b718ba390de1dccb96e179c772cfb4e3.png)
 
-<figcaption>(Source: tradingview.com)</figcaption>
+(Source: tradingview.com)
 
-</figure>
+
 
 ### **上升趋势**
 
 当价格持续移动，形成一系列更高的高点和更高的低点，与之前的高点和低点相比，我们可以得出结论，资产价格处于上升趋势或看涨趋势。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![uptrend price action](img/3dd31fccb405a8c4bdfcb3cab16d96e0.png)
+![uptrend price action](img/3dd31fccb405a8c4bdfcb3cab16d96e0.png)
 
-<figcaption>(Source: tradingview.com)</figcaption>
+(Source: tradingview.com)
 
-</figure>
+
 
 ### **横盘走势**
 
 如果波动高点和波动低点在一段时间内倾向于在一个水平范围内移动，这个趋势可以被称为横向趋势。在盘整阶段，价格通常会横向移动。这些阶段可能会导致现有上升趋势/下降趋势的延续，有时甚至可能预示着整体趋势的逆转。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![sideway trend for price action](img/315a6735f7d7d9438c5aedec7c3a22bc.png)
+![sideway trend for price action](img/315a6735f7d7d9438c5aedec7c3a22bc.png)
 
-<figcaption>(Source: tradingview.com)</figcaption>
+(Source: tradingview.com)
 
-</figure>
+
 
 * * *
 
@@ -115,21 +115,21 @@
 
 阻力是一个重要的水平，在这个水平上，可用供应往往会超过总体需求，这阻止了价格的进一步上涨。在大多数情况下，价格将面临巨大的抛售压力，当价格到达这一区域时，可以预期会出现大幅下跌。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![resistance zone for price action](img/b4125381e1660300a43b17aec5f88781.png)
+![resistance zone for price action](img/b4125381e1660300a43b17aec5f88781.png)
 
-<figcaption>(Source: tradingview.com)</figcaption>
+(Source: tradingview.com)
 
-</figure>
+
 
 上图显示了 2300 价格带附近的一个非常强的阻力区。
 
 相反，**支撑位**是一个重要的价格水平，在这里对资产的需求超过了可获得的供给，这阻止了价格的进一步下跌。在大多数情况下，该资产在关键支撑位似乎被低估，导致投资者/交易者买入该资产并创建新的多头头寸。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![support and resistance for price action](img/5f8e91e2b06f906c06b2671b926f838f.png)
+![support and resistance for price action](img/5f8e91e2b06f906c06b2671b926f838f.png)
 
-<figcaption>(Source: tradingview.com)</figcaption>
+(Source: tradingview.com)
 
-</figure>
+
 
 上图显示了 160 价格带附近的一个关键支撑/需求区和 360 价格带附近的一个强阻力区。当价格进入这些重要区域时，观察价格趋势如何强烈反转。
 
@@ -139,11 +139,11 @@
 
 趋势线是一条直线，连接至少三个波动高点或三个波动低点，并向未来延伸，作为支撑或阻力区。大多数适用于支撑区和阻力区的属性也可以在趋势线上看到。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![trendline for price action](img/3a4d4dc702d8d6d8638be5563b83405a.png)
+![trendline for price action](img/3a4d4dc702d8d6d8638be5563b83405a.png)
 
-<figcaption>(Source: tradingview.com)</figcaption>
+(Source: tradingview.com)
 
-</figure>
+
 
 上图向我们展示了一条连接 2015 年至 2020 年波动高点的趋势线。正如我们所观察到的，价格处于下降趋势，因为它在此期间形成了一系列较低的高点和较低的低点。
 

@@ -18,7 +18,7 @@ Luiz 博士拥有 PUC/里约 pontifíCIA Universidade católica do Rio de Rio de
 
 ## 嗨，路易斯博士，给我们介绍一下你自己
 
-<figure class="kg-card kg-image-card">![Dr Luiz Guedes EPAT alumnus](img/b1125671b00ca7ccbbe734eadcbafb55.png)</figure>
+![Dr Luiz Guedes EPAT alumnus](img/b1125671b00ca7ccbbe734eadcbafb55.png)
 
 嗨！我的名字是路易斯·古德斯。我是一名计算机工程师，拥有计算机科学学位，是巴西里约热内卢军事学院的教授。
 

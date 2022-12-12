@@ -27,13 +27,13 @@
 
 ### 伊桑·沙阿(AVP，QuantInsti 的内容与研究)
 
-<figure class="kg-card kg-image-card">![Ishan Shah pic](img/8e9f3adbd9a8683c96eb4ea73e4c9ec4.png)</figure>
+![Ishan Shah pic](img/8e9f3adbd9a8683c96eb4ea73e4c9ec4.png)
 
 伊桑·沙阿是 AVP，领导 QuantInsti 公司 Quantra 的内容和研究团队。在此之前，他曾在巴克莱全球市场团队和美国银行 Merill Lynch 工作。他在金融市场拥有丰富的经验，在不同的资产类别中担任不同的角色。
 
 ### rek hit Pachanekar(QuantInsti 的定量分析师)
 
-<figure class="kg-card kg-image-card kg-width-full">![Rekhit Pachanekar pic](img/aa39703b7125786e9950045c3024ba1a.png)</figure>
+![Rekhit Pachanekar pic](img/aa39703b7125786e9950045c3024ba1a.png)
 
 Rekhit Pachanekar 在 IIM 印多尔完成了他的 PGDM，是一名计算机工程师。他是 Quantra 内容团队的一员，研究股票和固定收益证券。工作之余，他喜欢阅读市场中的异常数据，并怀着浓厚的兴趣关注特斯拉公司(Tesla Inc .)。
 

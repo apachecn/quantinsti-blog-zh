@@ -50,11 +50,11 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 瞧啊！Ta-Lib 现在安装好了！
 
-<figure class="kg-card kg-image-card kg-width-full">![anaconda write code](img/a69c26efc80c467a21b5a884788916d7.png)</figure>
+![anaconda write code](img/a69c26efc80c467a21b5a884788916d7.png)
 
 几分钟后，ta-lib 包将被安装。
 
-<figure class="kg-card kg-image-card kg-width-full">![talib python installation](img/e2661a4325ac4459d5bb5389af9ca13b.png)</figure>
+![talib python installation](img/e2661a4325ac4459d5bb5389af9ca13b.png)
 
 这就是全部了。大多数情况下，这种方法可以帮助你安装软件包，但是如果你仍然面临任何问题，请继续阅读，找到操作系统的安装说明。
 
@@ -74,13 +74,13 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 您将获得如下所示的输出:
 
-<figure class="kg-card kg-image-card">![cmd_Python-version](img/c7a7eea7a79b11e3da2edb2ad7aacbe2.png)</figure>
+![cmd_Python-version](img/c7a7eea7a79b11e3da2edb2ad7aacbe2.png)
 
 对于 windows 体系结构，您只需右键单击“计算机”(通常命名为“这台电脑”或“我的电脑”)图标，然后单击“属性”，就会显示您的系统详细信息。
 
-<figure class="kg-card kg-image-card">![windows_architecture](img/3d9f93ad0515eb684eb3c9f09548e881.png)</figure>
+![windows_architecture](img/3d9f93ad0515eb684eb3c9f09548e881.png)
 
-<figure class="kg-card kg-image-card">![System-Type](img/ab732d9c311a72253cff258ab0ce9735.png)</figure>
+![System-Type](img/ab732d9c311a72253cff258ab0ce9735.png)
 
 步骤 2:在安装 Ta-Lib 时，我们不能直接使用“pip install”命令。因此，我们将首先安装“whl”文件，该文件可在以下链接中找到:[https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib](https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib)
 
@@ -88,7 +88,7 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 您可以向下滚动到我们将找到相关链接的部分，如下所示:
 
-<figure class="kg-card kg-image-card">![Ta-Lib_Wrapper-1](img/5311fa77a9b568fb445baa00ca7ed32a.png)</figure>
+![Ta-Lib_Wrapper-1](img/5311fa77a9b568fb445baa00ca7ed32a.png)
 
 需要注意的是，在下载文件时，请记住您的 Python 版本和 Windows 架构(32 位或 64 位)。例如，由于我们安装了 python 版和 64 位 Windows 7 系统，我们将下载文件“TA _ Lib-0 . 4 . 17-cp37-cp37m-win _ amd64 . whl”。
 
@@ -98,7 +98,7 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 例如:C:\Users\rekhit.p
 
-<figure class="kg-card kg-image-card">![Annaconda_prompt](img/afdb9295a1a7970de8b1b79ed303a064.png)</figure>
+![Annaconda_prompt](img/afdb9295a1a7970de8b1b79ed303a064.png)
 
 现在是容易的部分。
 
@@ -108,7 +108,7 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 如果没有错误，那么就暗示我们已经成功安装了 Ta-Lib。您应该会看到一个显示以下消息的屏幕。
 
-<figure class="kg-card kg-image-card">![windows_install_talib](img/8afe40c8a1b46ce80da482a7f7eece6e.png)</figure>
+![windows_install_talib](img/8afe40c8a1b46ce80da482a7f7eece6e.png)
 
 太好了！我们刚刚安装完 Ta-Lib Python 库。
 
@@ -120,11 +120,11 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 如果没有错误，则意味着 python Ta-Lib 库已经成功安装在您的计算机上。
 
-<figure class="kg-card kg-image-card">![windows_import_talib](img/6a6168983f720cdb0ea33a8362e24646.png)</figure>
+![windows_import_talib](img/6a6168983f720cdb0ea33a8362e24646.png)
 
 或者，您也可以打开 Jupyter notebook(或 Spyder)并尝试运行相同的代码来检查 Python Ta-Lib 是否安装正确。
 
-<figure class="kg-card kg-image-card kg-width-full">![jupyter_import_talib](img/fa0d32fba279a8a1861c1082831592b5.png)</figure>
+![jupyter_import_talib](img/fa0d32fba279a8a1861c1082831592b5.png)
 
 * * *
 
@@ -138,11 +138,11 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 **注意:**在 Anaconda 安装期间，您将被要求安装 Python 2.7 或 3.7。由于对 Python 2.7 的支持将于 2020 年 1 月 1 日结束，建议选择 3.7 版本。对于无缝安装，请选择图形安装程序。
 
-<figure class="kg-card kg-image-card kg-width-full">![mac_python_version](img/9105a4f1bdb3c23f7448f279face41e9.png)</figure>
+![mac_python_version](img/9105a4f1bdb3c23f7448f279face41e9.png)
 
 然后，您将看到下面的对话框。
 
-<figure class="kg-card kg-image-card kg-width-full">![Dialog_box](img/5d58b12ecf075b5aae44f2da461a47a2.png)</figure>
+![Dialog_box](img/5d58b12ecf075b5aae44f2da461a47a2.png)
 
 选择“继续”选项卡并选择合适的安装目标，您将在短时间内完成安装。
 
@@ -156,15 +156,15 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 如果成功，您将看到以下消息:
 
-<figure class="kg-card kg-image-card kg-width-full">![message box](img/2ac68ceebd8f1f74d7b1b638c284b061.png)</figure>
+![message box](img/2ac68ceebd8f1f74d7b1b638c284b061.png)
 
 您可能会被要求输入密码，这是该过程的一部分。
 
-<figure class="kg-card kg-image-card kg-width-full">![message box](img/8d38976188dd64458fda48763dcd691d.png)</figure>
+![message box](img/8d38976188dd64458fda48763dcd691d.png)
 
 当然，您会得到一个提示，要求您按“Return”继续安装，或者按任何其他键取消安装。
 
-<figure class="kg-card kg-image-card kg-width-full">![brew command message box](img/c0a9f79ffb1f681a7c108cd2d8f79671.png)</figure>
+![brew command message box](img/c0a9f79ffb1f681a7c108cd2d8f79671.png)
 
 如果你对‘brew’命令很好奇，可以随时访问[这个网站](https://treehouse.github.io/installation-guides/mac/homebrew)了解更多。
 
@@ -174,7 +174,7 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 您将看到以下屏幕
 
-<figure class="kg-card kg-image-card kg-width-full">![brew command installed message box](img/7e2fb6d574a889ef85b2ab17988e1f1f.png)</figure>
+![brew command installed message box](img/7e2fb6d574a889ef85b2ab17988e1f1f.png)
 
 现在，我们使用熟悉的命令，即“pip”在 MacOS 上安装 Ta-Lib。该命令如下所示:
 
@@ -182,7 +182,7 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 您会看到以下文件正在您的系统上安装。
 
-<figure class="kg-card kg-image-card kg-width-full">![talib installed message box](img/493bbe82588a72278f047263b3d0e140.png)</figure>
+![talib installed message box](img/493bbe82588a72278f047263b3d0e140.png)
 
 太好了！我们已经成功地在 MacOS 上安装了 Ta-Lib。
 
@@ -196,7 +196,7 @@ Anaconda 是一个开源的 Python 分发平台，帮助个人和商业企业轻
 
 * * *
 
-<figure class="kg-card kg-image-card kg-width-full">![import talib python](img/bdef1b444dacd4815221ee16e916b38e.png)</figure>
+![import talib python](img/bdef1b444dacd4815221ee16e916b38e.png)
 
 ## **在 Linux 上安装 Ta-Lib**
 

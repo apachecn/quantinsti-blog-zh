@@ -40,7 +40,7 @@
 
 ## **关于演讲者**
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/03d4cf9938d6a066ee6c900ab1b871dc.png)</figure>
+![](img/03d4cf9938d6a066ee6c900ab1b871dc.png)
 
 **Nitesh Khan delwal(QuantInsti 联合创始人&首席执行官)**
 

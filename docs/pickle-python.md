@@ -64,9 +64,9 @@
 
 ### *Pickle Python 场景 1*
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">*![pickle python example high level abstraction](img/d8aba545ac40fe242a0fde8cd539d956.png)
+*![pickle python example high level abstraction](img/d8aba545ac40fe242a0fde8cd539d956.png)
 
-<figcaption>Pickle Python example - High level abstraction</figcaption>* </figure>
+Pickle Python example - High level abstraction* 
 
 *该图显示了 ML 项目中常见的非常高层次的抽象。*
 
@@ -90,9 +90,9 @@
 
 *在下面的场景中，我们可以看到测试流程和预测流程之间的 Pickle 对象。*
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">*![pickle python example pickle object between the testing process and the forecasting process](img/9608f8a9be8713087b954421d99aeb30.png)
+*![pickle python example pickle object between the testing process and the forecasting process](img/9608f8a9be8713087b954421d99aeb30.png)
 
-<figcaption>Pickle Python example - Pickle object between the testing process and the forecasting process</figcaption>* </figure>
+Pickle Python example - Pickle object between the testing process and the forecasting process* 
 
 *简而言之，Pickle 允许我们将内存中的 Python 对象转储到二进制文件中，以便稍后检索它们并继续工作。让我们看看如何将内存转储到文件中，然后再从文件中加载内存。*
 

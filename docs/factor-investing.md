@@ -26,11 +26,11 @@
 
 要素投资[经过一段时间](https://economictimes.indiatimes.com/markets/stocks/news/factor-investing-a-way-to-capture-value-and-quality/articleshow/62790758.cms)已经从仅仅针对市场和公司发展到各种要素。下面是描绘相同的图像:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Factor investing evolved gradually](img/89887ff64768937296e8b0d4f49a18f0.png)
+![Factor investing evolved gradually](img/89887ff64768937296e8b0d4f49a18f0.png)
 
-<figcaption>Factor investing evolved gradually</figcaption>
+Factor investing evolved gradually
 
-</figure>
+
 
 * * *
 
@@ -42,11 +42,11 @@
 
 这些是捕捉各种资产类别回报的广泛风险的工具。此外，宏观经济因素的一些简单例子是:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Examples of macroeconomic factors ](img/3fb9d7d565742748cb48a2ca19f5d2d7.png)
+![Examples of macroeconomic factors ](img/3fb9d7d565742748cb48a2ca19f5d2d7.png)
 
-<figcaption>Examples of macroeconomic factors </figcaption>
+Examples of macroeconomic factors 
 
-</figure>
+
 
 ******经济增长******
 
@@ -72,11 +72,11 @@
 
 风格因素或特征有助于解释资产类别中的回报和风险。以下是一些风格因素的例子:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Examples of style factors](img/d5f16c2c13d7d3aa59c2c3f124b2089f.png)
+![Examples of style factors](img/d5f16c2c13d7d3aa59c2c3f124b2089f.png)
 
-<figcaption>Examples of style factors</figcaption>
+Examples of style factors
 
-</figure>
+
 
 **值**
 
@@ -96,11 +96,11 @@
 
 *例如，通过使用 Python 代码和[蓝移](https://blueshift.quantinsti.com/)应用多空策略，策略回报如下:*
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Momentum as a style factor](img/7b92a29ac9d32a26efe0dd17e4b71d0f.png)
+![Momentum as a style factor](img/7b92a29ac9d32a26efe0dd17e4b71d0f.png)
 
-<figcaption>Momentum as a style factor</figcaption>
+Momentum as a style factor
 
-</figure>
+
 
 上图显示了多空策略如何超越基准。你可以在我们关于[动量交易策略](/momentum-trading-strategies/)的博客中看到用 Python 编码的策略和详细解释。
 

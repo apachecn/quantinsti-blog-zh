@@ -78,4 +78,4 @@ Prodipta 是一位经验丰富的 quant，目前在 QuantInsti 担任副总裁�
 
 ## **活动照片**
 
-<figure class="kg-card kg-gallery-card kg-width-wide">![](img/41fec9cc68bb88601f56c2acacd928ad.png)![](img/d11cd550b653fd7fa76fa9f3b959797c.png)![](img/04f3b09dbaddd3ee42a0515ec7b50ffb.png)![](img/d291332b13d2345076a309dbd6787310.png)</figure>
+![](img/41fec9cc68bb88601f56c2acacd928ad.png)![](img/d11cd550b653fd7fa76fa9f3b959797c.png)![](img/04f3b09dbaddd3ee42a0515ec7b50ffb.png)![](img/d291332b13d2345076a309dbd6787310.png)

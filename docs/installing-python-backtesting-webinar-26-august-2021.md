@@ -52,7 +52,7 @@
 
 ## 关于演讲者
 
-<figure class="kg-card kg-image-card kg-width-wide">![](img/162f884e02bc31da8770b586ea8a9ab5.png)</figure>
+![](img/162f884e02bc31da8770b586ea8a9ab5.png)
 
 **Vivek Krishnamoorthy(QuantInsti 的内容&研究负责人)** Vivek 教授参与者数据分析，使用 Python 构建量化策略和时间序列分析。他在印度、新加坡和加拿大的工业、学术和研究领域拥有超过 15 年的经验。
 

@@ -64,11 +64,11 @@
 
 现在让我们看看移动平均线交易的例子，图表显示 10 天，20 天和 50 天的移动平均线。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Example of moving average](img/0c4d036f5a3fb1619a723700654ae899.png)
+![Example of moving average](img/0c4d036f5a3fb1619a723700654ae899.png)
 
-<figcaption>Example of moving average</figcaption>
+Example of moving average
 
-</figure>
+
 
 上面的图表显示了期货合约的收盘价(蓝线)，10 天移动平均线(红线)，20 天移动平均线(绿线)和 50 天移动平均线(紫线)。
 
@@ -120,11 +120,11 @@ SMA 通常用于识别趋势方向，但是它也可以用于产生潜在的交�
 
 然后将所有这些线性加权元素的总和相加，并除以乘数的总和。在 10 个元素的情况下，总和将除以 55 (n(n+1)/2)。下图显示了 30 天的 SMA(红线)、EMA(绿线)和 LWMA(紫线)。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Weighted moving average](img/efae624f5a8b77dcf5f25b3839b43879.png)
+![Weighted moving average](img/efae624f5a8b77dcf5f25b3839b43879.png)
 
-<figcaption>Weighted moving average</figcaption>
+Weighted moving average
 
-</figure>
+
 
 从上图可以看出，和指数移动平均线一样，加权移动平均线对价格曲线变化的反应比简单移动平均线更快。
 
@@ -165,11 +165,11 @@ SMA 通常用于识别趋势方向，但是它也可以用于产生潜在的交�
 
 在下图中，蓝线代表每日收盘价，红线代表 30 日均线，绿线代表 30 日均线。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Exponential moving average](img/0b0d53ef5153d9aef4bbb9bc62044812.png)
+![Exponential moving average](img/0b0d53ef5153d9aef4bbb9bc62044812.png)
 
-<figcaption>Exponential moving average</figcaption>
+Exponential moving average
 
-</figure>
+
 
 下面我提到了约翰·j·墨菲的著作《金融市场的技术分析》的摘录，该书由纽约金融研究所于 1999 年出版。这项工作包含了一个关于指数加权移动平均线优于简单移动平均线的最好解释。
 
@@ -193,11 +193,11 @@ SMA 通常用于识别趋势方向，但是它也可以用于产生潜在的交�
 
 **TMA = (SMA1 + SMA2 + SMA3 +。。。。。。+ SMAn) / n**
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Triangular moving average](img/512108d00c3092af2909107f9d862fa0.png)
+![Triangular moving average](img/512108d00c3092af2909107f9d862fa0.png)
 
-<figcaption>Triangular moving average</figcaption>
+Triangular moving average
 
-</figure>
+
 
 考虑上面的图表，它由每日收盘价曲线(蓝线)、30 天 SMA(红线)和 30 天 TMA(绿线)组成。可以观察到，TMA 比 SMA 平滑得多。TMA 的波动比 SMA 更长更稳定。
 
@@ -251,11 +251,11 @@ VMA [1] =变量移动平均线的前一个值*
 
 对于更长的时间框架(日线或周线)，交易者更喜欢使用简单的移动平均线(例如 5，10，20 日均线或 4，10，50 日均线)。移动平均周期根据交易者的策略和交易的证券而变化。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Triangular moving average](img/44e1a7c8aa3887ee1a08ffbdab75ec47.png)
+![Triangular moving average](img/44e1a7c8aa3887ee1a08ffbdab75ec47.png)
 
-<figcaption>Triangular moving average</figcaption>
+Triangular moving average
 
-</figure>
+
 
 考虑上面图表中的点“A ”,三条均线围绕这个点改变方向。
 
@@ -287,11 +287,11 @@ VMA [1] =变量移动平均线的前一个值*
 
 交易者在快速移动平均线穿过慢速移动平均线时买入，在快速移动平均线穿过慢速移动平均线时卖出。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Moving Average Ribbon](img/29af3ee917f2347629e3f1d968d4a55f.png)
+![Moving Average Ribbon](img/29af3ee917f2347629e3f1d968d4a55f.png)
 
-<figcaption>Moving Average Ribbon</figcaption>
+Moving Average Ribbon
 
-</figure>
+
 
 ### 移动平均收敛发散(MACD)
 
@@ -307,11 +307,11 @@ MACD 策略由定义策略的三个参数表示，即三个移动平均线的时
 
 MACD 线=收盘价的 12 日均线-收盘价的 26 日均线信号线= MACD 线的 9 日均线柱状图= MACD 线-信号线
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![MACD](img/3a1a5c15f55c7f75635d878cec3b4acc.png)
+![MACD](img/3a1a5c15f55c7f75635d878cec3b4acc.png)
 
-<figcaption>MACD</figcaption>
+MACD
 
-</figure>
+
 
 图表的上半部分包含每日收盘价(蓝线)、12 日均线(红线)和 26 日均线(绿线)。
 

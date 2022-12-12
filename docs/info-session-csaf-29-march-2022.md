@@ -25,14 +25,14 @@ CSAF 是一个在现代金融方法中发展你职业生涯的完美平台，它
 
 ## 扬声器
 
-<figure class="kg-card kg-image-card">![Prof. Gautam Mitra](img/0883f90d8608ae9ddc02d108e23d7489.png)</figure>
+![Prof. Gautam Mitra](img/0883f90d8608ae9ddc02d108e23d7489.png)
 
 ### Gautam Mitra 教授
 
 **主席，UNICOM 和 OPTIRISK**
 Mitra 教授是运筹学领域，尤其是计算优化和建模领域的国际知名研究科学家。他是 OptiRisk Systems 和 UNICOM 研讨会的创始人和主席。他出版了五本书，发表了 150 多篇研究论文，并于 2004 年被布鲁内尔大学授予“杰出教授”称号。
 
-<figure class="kg-card kg-image-card">![Prof. Christina Erlwein-Sayer](img/d8812d377a7d24a7be5f866afed4f471.png)</figure>
+![Prof. Christina Erlwein-Sayer](img/d8812d377a7d24a7be5f866afed4f471.png)
 
 ### Christina Erlwein-Sayer 教授
 

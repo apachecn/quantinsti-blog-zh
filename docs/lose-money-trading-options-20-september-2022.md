@@ -14,7 +14,7 @@
 
 ### 尤安·辛克莱博士(头寸期权交易的作者和期权交易的行业领袖)
 
-<figure class="kg-card kg-image-card kg-width-wide">![](img/d5c386ef86f0fe2c3dce704134e5f932.png)</figure>
+![](img/d5c386ef86f0fe2c3dce704134e5f932.png)
 
 尤安博士拥有超过 20 年的期权交易经验。他目前是波动性交易基金 Talton Capital Management 的合伙人。他拥有布里斯托尔大学的理论物理学博士学位，写过两本书《波动性交易》和《期权交易》，这两本书都由 Wiley 出版，他还写过许多论文和文章。
 

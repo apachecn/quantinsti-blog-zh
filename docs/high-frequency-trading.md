@@ -55,7 +55,7 @@
 
 高频交易包括四种类型的 HFT 订单，我们已经在下面的信息图中讨论过了。
 
-<figure class="kg-card kg-image-card kg-width-full">![high frequency trading order types](img/58de668edbb45045da725334c4e5c65d.png)</figure>
+![high frequency trading order types](img/58de668edbb45045da725334c4e5c65d.png)
 
 接下来，让我们看看 HFT 的历史和有趣的事实。
 
@@ -146,11 +146,11 @@ HFT 包括分析这些数据来制定交易策略，这些策略的执行延迟�
 
 下图显示了相对于正态分布的厚尾分布。
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![HFT](img/102246a3c6d53b72cc4128b33699a01d.png)
+![HFT](img/102246a3c6d53b72cc4128b33699a01d.png)
 
-<figcaption>Source: lexicon.ft.com</figcaption>
+Source: lexicon.ft.com
 
-</figure>
+
 
 此外，高频数据显示:
 
@@ -184,7 +184,7 @@ HFT 玩家依赖微秒/纳秒延迟，并且必须处理大量数据。为 HFT �
 
 当一只股票的价格不断从买入价变为卖出价时，就会出现这种情况(反之亦然)。股票价格的变动只发生在买卖价差内，这就产生了反弹效应。这种买卖反弹的出现会导致高波动性读数，即使价格保持在买卖窗口内。
 
-<figure class="kg-card kg-image-card kg-width-full">![Bid ask bounce](img/9db5954ca89cd3218f4706403d01fcb6.png)</figure>
+![Bid ask bounce](img/9db5954ca89cd3218f4706403d01fcb6.png)
 
 **信息不对称**
 

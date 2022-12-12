@@ -20,7 +20,7 @@
 
 * * *
 
-<figure class="kg-card kg-image-card">![](img/c4decb2f1e977a545efba61dca063ecb.png)</figure>
+![](img/c4decb2f1e977a545efba61dca063ecb.png)
 
 ## **算法交易生态系统**
 

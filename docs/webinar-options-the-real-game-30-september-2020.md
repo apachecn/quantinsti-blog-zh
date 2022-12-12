@@ -32,7 +32,7 @@
 
 ## **关于演讲者**
 
-<figure class="kg-card kg-image-card">![](img/1a6ebdabc993d37dd8b6adf962bf7417.png)</figure>
+![](img/1a6ebdabc993d37dd8b6adf962bf7417.png)
 
 **Vishnu Bharath(印度期权交易员)**
 

@@ -33,7 +33,7 @@
 
 该图看起来像这样:
 
-<figure class="kg-card kg-image-card kg-width-full">![Volatility Skew](img/6c8b45de5eb43557939a3c308c6ec5e1.png)</figure>
+![Volatility Skew](img/6c8b45de5eb43557939a3c308c6ec5e1.png)
 
 根据布莱克·斯科尔斯模型，这应该是一条平坦的线。为了确保期权价格尽可能接近真实世界，赫斯顿模型提出了一个随机波动率模型，该模型将绕过这一限制，并保持其为封闭形式的解决方案，从而保持模型的相对简单性。
 

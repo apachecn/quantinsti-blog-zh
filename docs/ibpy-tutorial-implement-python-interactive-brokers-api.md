@@ -150,13 +150,13 @@ python setup.py install
 *   单击“完成”完成安装。
 *   点击桌面图标，启动 TWS 应用程序。
 
-<figure class="kg-card kg-image-card kg-width-full">![IBPy implementation in TWS](img/8480617a708126ef8245eaab361a1a2f.png)</figure>
+![IBPy implementation in TWS](img/8480617a708126ef8245eaab361a1a2f.png)
 
 由于我要使用模拟账户，因此，点击 **<u>没有用户名？</u>T3】**
 
 *   输入您的电子邮件地址，然后点击登录:
 
-<figure class="kg-card kg-image-card kg-width-full">![IBPy implementation in TWS](img/9689c19a345f40a2dd94b03106a65651.png)</figure>
+![IBPy implementation in TWS](img/9689c19a345f40a2dd94b03106a65651.png)
 
 * * *
 
@@ -172,11 +172,11 @@ python setup.py install
 *   将主 API 客户端 ID 设置为 100
 *   创建一个**可信 IP 地址**并设置为 127.0.0.1
 
-<figure class="kg-card kg-image-card kg-width-full">![Setting preferences for IBPY on Interactive Brokers TWS](img/d81c89d8754ec265b15df3707fbedc2f.png)</figure>
+![Setting preferences for IBPY on Interactive Brokers TWS](img/d81c89d8754ec265b15df3707fbedc2f.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![Setting preferences for IBPY on Interactive Brokers TWS](img/63b48035132a74f5c46125e75bf78102.png)</figure>
+![Setting preferences for IBPY on Interactive Brokers TWS](img/63b48035132a74f5c46125e75bf78102.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![Global preferences for Interactive Brokers API using IBPy](img/f30d838dc00541432f8b3fb0c863e540.png)</figure>
+![Global preferences for Interactive Brokers API using IBPy](img/f30d838dc00541432f8b3fb0c863e540.png)
 
 * * *
 
@@ -196,6 +196,6 @@ python setup.py install
 
 在 Spyder 控制台上，我将输入我的代码。
 
-<figure class="kg-card kg-image-card kg-width-full">![Spyder interface for IBPy](img/1120af875e77c166c7356a613b3744bd.png)</figure>
+![Spyder interface for IBPy](img/1120af875e77c166c7356a613b3744bd.png)
 
 ##### **步骤 1 -我们从导入代码所需的模块开始:**

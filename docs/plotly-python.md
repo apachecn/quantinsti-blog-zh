@@ -54,7 +54,7 @@ pip install plotly
 
 您可以在 Anaconda 终端中使用它，如下所示:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/5ca60e713ece29e2ca54d061a464585d.png)</figure>
+![](img/5ca60e713ece29e2ca54d061a464585d.png)
 
 如果你想检查 plotly 安装的版本，你可以使用下面的命令
 
@@ -64,7 +64,7 @@ pip show plotly
 
 您将看到如下所示的输出:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/479991df31d633fc491dca99c762292e.png)</figure>
+![](img/479991df31d633fc491dca99c762292e.png)
 
 Plotly 还包含一个“快速”特性，使得创建图形和对象更加容易。
 

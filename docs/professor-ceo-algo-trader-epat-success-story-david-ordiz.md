@@ -12,7 +12,7 @@
 
 ## 嗨，大卫，给我们介绍一下你自己吧！
 
-<figure class="kg-card kg-image-card">![David Ordiz pic](img/0e2d0349793a9fde0c3d933719cc95a5.png)</figure>
+![David Ordiz pic](img/0e2d0349793a9fde0c3d933719cc95a5.png)
 
 我是 David U. Ordiz，今年 42 岁，与我的妻子和两个孩子住在西班牙北部。我已经交易和研究市场超过 18 年了。
 

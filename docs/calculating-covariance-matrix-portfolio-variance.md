@@ -65,11 +65,11 @@
 
 ### 步骤 1 -获取股票数据
 
-<figure class="kg-card kg-image-card">![1.1](img/d9e13db559b8b6415df2e7ec8c8f20aa.png)</figure>
+![1.1](img/d9e13db559b8b6415df2e7ec8c8f20aa.png)
 
 我们将把这些股票数据合并到一个矩阵中，并将其命名为“S”:
 
-<figure class="kg-card kg-image-card">![1.2](img/eaade9019e270111ae42b9817cad8343.png)</figure>
+![1.2](img/eaade9019e270111ae42b9817cad8343.png)
 
 ### 步骤 2 -计算股票的平均价格
 
@@ -77,11 +77,11 @@
 
 例如，股票 <sub>1</sub> 的平均价格如下所示:
 
-<figure class="kg-card kg-image-card">![2.1](img/a8888ef9932da6435db92e14c401d410.png)</figure>
+![2.1](img/a8888ef9932da6435db92e14c401d410.png)
 
 接下来，我们将“n”只股票的所有平均值保存在一个名为“M”的矩阵中，如下所示:
 
-<figure class="kg-card kg-image-card">![2.2](img/fa2d0a84ba79a372a42b020056c09d74.png)</figure>
+![2.2](img/fa2d0a84ba79a372a42b020056c09d74.png)
 
 我们的最终目标是理解一只股票的行为与另一只股票的行为之间的关系。要比较两只价格区间完全不同的股票，首先需要建立一个共同的基础。因此，为了使股票走势的比较更加均衡，我们从股票价格中减去股票价格的平均值。
 
@@ -91,15 +91,15 @@
 
 首先，我们从相应股票的收盘价中减去平均股价。这将为我们提供具有去均值得分的矩阵，或者一个数据点离其均值有多远的度量。
 
-<figure class="kg-card kg-image-card">![3.10](img/378d8523d507431b7c5650159ddbb03f.png)</figure>
+![3.10](img/378d8523d507431b7c5650159ddbb03f.png)
 
 ### 步骤 4 -协方差矩阵
 
 一旦我们有了去均值价格序列，我们通过将去均值价格序列的转置与其自身相乘并除以“m”(数据点的数量)来建立不同股票的协方差，这给出了协方差矩阵:
 
-<figure class="kg-card kg-image-card">![4.10](img/85cf53a6ee7266ef2d14d605a41f9550.png)</figure>
+![4.10](img/85cf53a6ee7266ef2d14d605a41f9550.png)
 
-<figure class="kg-card kg-image-card">![4.3](img/4325c7501f3344c489400e8b34dcde1b.png)</figure>
+![4.3](img/4325c7501f3344c489400e8b34dcde1b.png)
 
 在生成的协方差矩阵中，对角线元素表示股票的方差。
 
@@ -115,7 +115,7 @@
 
 对于包含“n”只股票的投资组合，权重分布由矩阵“W”给出
 
-<figure class="kg-card kg-image-card">![5.1](img/21790fe7ddfc85dffbc0fd2d7c967b51.png)</figure>
+![5.1](img/21790fe7ddfc85dffbc0fd2d7c967b51.png)
 
 投资组合的预期回报由下式给出:
 
@@ -133,7 +133,7 @@
 
 人们可以通过改变投资组合中股票的资本配置权重来构建各种投资组合。一旦你将这些投资组合绘制成图表，它看起来会像这样:
 
-<figure class="kg-card kg-image-card">![Portfolio optimization](img/7e32e5b11b1b15b771485c3c19135778.png)</figure>
+![Portfolio optimization](img/7e32e5b11b1b15b771485c3c19135778.png)
 
 这里的黑线表示有效边界，它表示给定风险下的最大利润。
 

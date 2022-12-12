@@ -14,7 +14,7 @@
 
 ## 嗨，叶夫根尼！你能给我们介绍一下你自己吗？
 
-<figure class="kg-card kg-image-card">![Evgeny Tishkin pic](img/b8c19fa8f7dfda4603fddfc6af5839a3.png)</figure>
+![Evgeny Tishkin pic](img/b8c19fa8f7dfda4603fddfc6af5839a3.png)
 
 嗨，我是[叶夫根尼·蒂什金](https://www.linkedin.com/in/evgeny-tishkin/)！本人量化分析师，算法交易整体经验 10 年，做软件开发，做高级软件开发，做各公司首席技术官，Quant，量化分析师，大概 10 年左右。
 

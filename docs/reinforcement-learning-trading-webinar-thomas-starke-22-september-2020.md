@@ -32,7 +32,7 @@
 
 ## ****S** 匹克简介**
 
-<figure class="kg-card kg-image-card">![](img/4b8fc10f6d5cc606c74ca0e2b835f260.png)</figure>
+![](img/4b8fc10f6d5cc606c74ca0e2b835f260.png)
 
 ### 托马斯·斯塔克博士
 

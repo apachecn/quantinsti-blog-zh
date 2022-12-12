@@ -40,11 +40,11 @@ https://github.com/PyPatel/Options-Trading-Strategies-in-Python/blob/master/TRIN
 
 在这段信息丰富的视频中了解更多关于 TRIN 的信息:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/iM9mqsO5XjM?feature=oembed](https://www.youtube.com/embed/iM9mqsO5XjM?feature=oembed)
 
-</figure>
+
 
 现在让我们找出 TRIN 的公式。
 
@@ -89,11 +89,11 @@ TRIN =上涨股/下跌股除以上涨量/下跌量
 
 ## TRIN 的例子
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/6ca6cd7c27cd5eef2e9a43b13b32fadd.png)
+![](img/6ca6cd7c27cd5eef2e9a43b13b32fadd.png)
 
-<figcaption>Fig1: $TRIN (Daily)</figcaption>
+Fig1: $TRIN (Daily)
 
-</figure>
+
 
 [资料来源:CFI](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/trin-indicator-technical-analysis/)
 

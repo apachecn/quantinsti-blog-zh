@@ -86,13 +86,13 @@ Yves Hilpisch 博士:让 Python 变得简单。在他第二节课的最后 5 分
 
 以下是不同剧本的交易统计。
 
-<figure class="kg-card kg-image-card">![](img/f28815a5b306e7e4b56197ee3ea856fd.png)</figure>
+![](img/f28815a5b306e7e4b56197ee3ea856fd.png)
 
-<figure class="kg-card kg-image-card">![](img/32e1c6744558cc7fc3cd5c4c1759450b.png)</figure>
+![](img/32e1c6744558cc7fc3cd5c4c1759450b.png)
 
-<figure class="kg-card kg-image-card">![](img/a2a33ee9594de9bf08e8210f86a3e7dc.png)</figure>
+![](img/a2a33ee9594de9bf08e8210f86a3e7dc.png)
 
-<figure class="kg-card kg-image-card">![](img/393a3f5e568760c5e765e3b371573418.png)</figure>
+![](img/393a3f5e568760c5e765e3b371573418.png)
 
 * * *
 

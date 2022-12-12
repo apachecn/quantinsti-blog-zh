@@ -67,7 +67,7 @@
 
 下图显示了 Python 获得的评分远远高于其他计算机语言，除了位于顶端的语言“C”。
 
-<figure class="kg-card kg-image-card kg-width-wide">![](img/1111a82b56846ba01c9205bcd6b787df.png)</figure>
+![](img/1111a82b56846ba01c9205bcd6b787df.png)
 
 来源: [ZDNet](https://www.zdnet.com/article/programming-language-pythons-popularity-ahead-of-java-for-first-time-but-still-trailing-c/#:~:text=Python%20is%20now%20the%20second,%2Dyear%2Dold%20Tiobe%20index.&text=For%20the%20first%20time%20in,second%2Dmost%20popular%20programming%20language.)
 

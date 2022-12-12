@@ -53,7 +53,7 @@
 
 下面的图表清楚地解释了当今流行的各种日历跨页的差异。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/1a7f6fb65ac279939218a4adad5288bf.png)</figure>
+![](img/1a7f6fb65ac279939218a4adad5288bf.png)
 
 * * *
 
@@ -70,7 +70,7 @@
 
 **日历价差策略将给出类似下图的收益:**
 
-<figure class="kg-card kg-image-card kg-width-wide">![calendar spread options trading strategy](img/58fc4d4ef38b25e909d40687a50f53d2.png)</figure>
+![calendar spread options trading strategy](img/58fc4d4ef38b25e909d40687a50f53d2.png)
 
 * * *
 
@@ -107,7 +107,7 @@
 
 下图捕捉了长达一个月的运动:
 
-<figure class="kg-card kg-image-card kg-width-wide">![nifty strike price](img/b863e7dd5c543e2f5b063fa4a51403bb.png)</figure>
+![nifty strike price](img/b863e7dd5c543e2f5b063fa4a51403bb.png)
 
 Nifty 在本月迄今为止没有看到任何突然的行动，最低为 10589.10 印度卢比，最高为 11023.20 印度卢比，最高接近目前的执行价格 11010.20 印度卢比。根据谷歌财经。
 
@@ -115,15 +115,15 @@ Nifty 在本月迄今为止没有看到任何突然的行动，最低为 10589.1
 
 以下是 7 月和 8 月 Nifty 期货的期权链:
 
-<figure class="kg-card kg-image-card kg-width-full">![nifty futures option chain](img/150cae356ae2fa93493ea68e80e6f0e9.png)</figure>
+![nifty futures option chain](img/150cae356ae2fa93493ea68e80e6f0e9.png)
 
 这是 Nifty 截止日期为 2018 年 7 月 27 日的期权链。
 
-<figure class="kg-card kg-image-card kg-width-full">![nifty july options chain](img/b867464042e5be43a86e8af4e6c669b8.png)</figure>
+![nifty july options chain](img/b867464042e5be43a86e8af4e6c669b8.png)
 
 这是 Nifty 截止日期为 2018 年 8 月 30 日的期权链。
 
-<figure class="kg-card kg-image-card kg-width-full">![nifty august options chain](img/f7c569315ebe83dcab4d289ff8486753.png)</figure>
+![nifty august options chain](img/f7c569315ebe83dcab4d289ff8486753.png)
 
 来源:nseindia.com
 

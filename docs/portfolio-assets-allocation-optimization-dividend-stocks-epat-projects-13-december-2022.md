@@ -2,7 +2,7 @@
 
 > 原文：<https://blog.quantinsti.com/portfolio-assets-allocation-optimization-dividend-stocks-epat-projects-13-december-2022/>
 
-<figure class="kg-card kg-image-card kg-width-wide">![](img/fdb206a2827caacb5789d1de25c3b12d.png)</figure>
+![](img/fdb206a2827caacb5789d1de25c3b12d.png)
 
 * * *
 
@@ -42,7 +42,7 @@
 
 **Kurt Selleslagh(香港交易及结算所有限公司项目经理)**
 
-<figure class="kg-card kg-image-card">![Kurt Selleslagh pic](img/e462227b30783fe1e612ba8902ca6bbe.png)</figure>
+![Kurt Selleslagh pic](img/e462227b30783fe1e612ba8902ca6bbe.png)
 
 Kurt 在金融市场拥有超过 27 年的经验。在他的职业生涯中，他曾在香港交易及结算所有限公司、渣打银行、纽约泛欧交易所和菲律宾证券交易所等知名交易所和机构担任过各种职务，如项目经理、业务项目经理、质量保证测试主管、Scrum Master、业务分析师和顾问。
 
@@ -52,7 +52,7 @@ Kurt 还在区块链、项目管理、云基础设施、金融工程、Python �
 
 **雷蒙多·马里诺(人工智能&大数据工程师-自由职业者)**
 
-<figure class="kg-card kg-image-card">![Raimondo Marino pic](img/a542d009e19249473cd390cc1f1b75a0.png)</figure>
+![Raimondo Marino pic](img/a542d009e19249473cd390cc1f1b75a0.png)
 
 雷蒙多·马里诺(Raimondo Marino)是一名职业自由职业者，为意大利中小型公司担任人工智能工程师。通过人工智能应用，他为公司内不同的公司职能部门提供端到端的解决方案(使用云服务从开发到生产):营销、人力资源、销售、生产等。
 

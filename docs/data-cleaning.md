@@ -34,13 +34,13 @@
 
 考虑一个数据集，其中包含关于一批不同种类水果的信息。
 
-<figure class="kg-card kg-image-card kg-width-full">![Fruits](img/5e819f1385ff3db4c80530ba3b5f0a2d.png)</figure>
+![Fruits](img/5e819f1385ff3db4c80530ba3b5f0a2d.png)
 
 数据集中的一些变量可能是定性的，如水果的名称、颜色、目的地和原产国、客户反馈(失望、满意、满意)或定量的，如水果的成本、运输成本、货物重量、运输成本和货物中的水果数量。
 
 其中一些变量可能来自其他较低层次的变量。在这个例子中，运输成本来自水果成本和运输成本变量。
 
-<figure class="kg-card kg-image-card kg-width-full">![types of variables](img/06c985649a3a5d3f732fa658f2628008.png)</figure>
+![types of variables](img/06c985649a3a5d3f732fa658f2628008.png)
 
 这些数量变量也可以分为两类，连续变量和离散变量。连续变量顾名思义在数轴上是连续的，可以取任何实值。离散变量可能只有特定的值，通常是整数。货物的重量将是一个连续变量，而如果我计算每批货物中水果的数量，它将是一个离散变量。
 
@@ -66,11 +66,11 @@
 
 理想情况下，这是您希望干净数据的样子:
 
-<figure class="kg-card kg-image-card kg-width-full">![Clean data](img/06aaeafdc306257c104a1654d7bb9b43.png)</figure>
+![Clean data](img/06aaeafdc306257c104a1654d7bb9b43.png)
 
 每列只有一个变量。在每一行中，您只有一个观察值。它被整齐地组织成一个矩阵形式，可以很容易地导入 Python 或 R 来执行复杂的分析。但通常情况下，原始数据并不是这样的。它看起来像这样-
 
-<figure class="kg-card kg-image-card kg-width-full">![Raw data](img/fa2dce4876cfe8f65d48da8114f752db.png)</figure>
+![Raw data](img/fa2dce4876cfe8f65d48da8114f752db.png)
 
 让你头晕是吗？
 
@@ -82,7 +82,7 @@
 
 ## 数据清理的好处
 
-<figure class="kg-card kg-image-card kg-width-full">![data cleaning](img/7394c6269e0ebad181e6cc565e5a2e93.png)</figure>
+![data cleaning](img/7394c6269e0ebad181e6cc565e5a2e93.png)
 
 如上所述，要产生合理的结果，干净的数据集是必要的。即使您想要在数据集上构建模型，检查和清理数据也可以成倍地改善结果。向模型提供不必要的或错误的数据会降低模型的准确性。一个更干净的数据集会比任何花哨的模型给你更好的分数。一个干净的数据集也将使您组织中的其他人将来更容易处理它。
 

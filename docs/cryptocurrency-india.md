@@ -24,11 +24,11 @@
 
 观看下面的视频，简单了解一些关于加密货币的有用信息:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/82LgksdhcvI?feature=oembed](https://www.youtube.com/embed/82LgksdhcvI?feature=oembed)
 
-</figure>
+
 
 那是在 2018 年，最高法院禁止在印度使用加密货币。但是，最近，最高法院解除了禁令。2019 年 4 月，印度储备银行发布了一份框架草案，用于监管沙箱。这将包括与[金融技术相关的](https://en.wikipedia.org/wiki/Financial_technology)产品和服务，其中也包括区块链。
 
@@ -86,7 +86,7 @@
 
 下图显示，比特币在 2017 年表现最低，但在年底有所上升:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/09a10045513308494526e9a7535ce006.png)</figure>
+![](img/09a10045513308494526e9a7535ce006.png)
 
 来源:[商业内幕](https://www.businessinsider.in/finance/bitcoin-went-bonkers-in-2017-heres-what-went-down-as-the-cryptocurrency-surged-more-than-1000/articleshow/62308684.cms)
 
@@ -104,17 +104,17 @@
 
 以下 BTC 价格以美元为单位。
 
-<figure class="kg-card kg-image-card kg-width-wide">![](img/29a106ae21a05d5b8d33e247a400f43f.png)</figure>
+![](img/29a106ae21a05d5b8d33e247a400f43f.png)
 
 从上图中我们可以看到，从 2014 年到 2017 年，价格大致保持不变，或者在一个特定的价格范围内(在 0 美元到 2500 美元之间)。此外，可以分析出，在 2018 年的某个时候，BTC 接近 2 万美元，然后一直保持在 2 万美元以下，直到现在，即 2020 年。它显示了其间的许多上升和下降趋势，以及接近 2019 年的价格大幅下降。
 
 还有，你可以看下面的视频，了解一下[算法交易](https://quantra.quantinsti.com/glossary/Algorithmic-trading)在加密货币热潮中的作用。
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/UYilw_AvC7E?feature=oembed](https://www.youtube.com/embed/UYilw_AvC7E?feature=oembed)
 
-</figure>
+
 
 让我们继续前进，了解印度的规章制度。
 
@@ -171,11 +171,11 @@
 
 在继续之前，让我们看一个关于加密货币框架下的电子钱包的短片。
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/sCxNO5Inetk?feature=oembed](https://www.youtube.com/embed/sCxNO5Inetk?feature=oembed)
 
-</figure>
+
 
 现在让我们来看看加密货币在印度的未来。
 

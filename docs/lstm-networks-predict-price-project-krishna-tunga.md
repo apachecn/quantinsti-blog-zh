@@ -14,7 +14,7 @@
 
 ## **关于作者**
 
-<figure class="kg-card kg-image-card">![](img/02c5af8fed8f5100dc9bd0e9b9a53e8d.png)</figure>
+![](img/02c5af8fed8f5100dc9bd0e9b9a53e8d.png)
 
 Krishna Tunga 博士拥有 IIT-马德拉斯大学的学士学位，佐治亚理工学院的硕士和博士学位，都是工程学学位。他的兴趣领域包括半导体、可靠性和风险预测、建模和仿真、人工智能、机器学习、深度学习、金融和金融衍生品。
 
@@ -61,11 +61,11 @@ c .应该用于确定输出并与当前内部状态一起传输到下一个单�
 
 使用根据训练集数据确定的拟合平均值和标准偏差来转换验证集的返回数据。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/8982d0e2f2137106fb6a8b60ecdc7d4a.png)
+![](img/8982d0e2f2137106fb6a8b60ecdc7d4a.png)
 
-<figcaption>Figure 1\. LSTM Base Structure</figcaption>
+Figure 1\. LSTM Base Structure
 
-</figure>
+
 
 基础结构有两个 LSTM 层。两层的电池状态和电池输出使用 64 个节点表示。两层的初始单元状态(状态 1 0 和状态 2 0)和单元输出(输出 1 0 和输出 2 0)被设置为由 *Keras* 提供的默认选项。
 
@@ -95,17 +95,17 @@ LSTM 网络使用反向传播来获得最佳权重。整个过程在本质上是
 
 在这项研究中，为了消除随机性并消除非确定性部分，相同的模型运行了 10 次。来自 10 次运行的输出的平均值和偏差用于评估拟合模型的质量和有用性。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/5a8f1741d7e521c16f184dd9c866f9de.png)
+![](img/5a8f1741d7e521c16f184dd9c866f9de.png)
 
-<figcaption>Epoch loss</figcaption>
+Epoch loss
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/27fae4b7b908ba4cbe6b115a8c42814c.png)
 
-<figcaption>Figure 2\. Training set and Validation set loss vs. Epochs</figcaption>
+![](img/27fae4b7b908ba4cbe6b115a8c42814c.png)
 
-</figure>
+Figure 2\. Training set and Validation set loss vs. Epochs
+
+
 
 图 2 显示了训练集(左图)和验证集(右图)的模型拟合的损失变化，该变化是训练的时期数的函数。
 
@@ -123,11 +123,11 @@ LSTM 网络使用反向传播来获得最佳权重。整个过程在本质上是
 
 图 3 给出了显示训练集和验证集的所有三个度量的变化的图。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/038ed7c3d3b4ec2985ef4eb277d3a7c1.png)
+![](img/038ed7c3d3b4ec2985ef4eb277d3a7c1.png)
 
-<figcaption>Figure 3\. Precision, recall and f1score for the training and validation set‌‌</figcaption>
+Figure 3\. Precision, recall and f1score for the training and validation set‌‌
 
-</figure>
+
 
 所有三个度量都随着训练集数据的历元数而增加，并且在 100 个历元的训练中大于 0.9。然而，当使用验证数据进行测试时，这些指标明显较低，并且似乎在大约 50 个时期时达到平稳状态。然而，平均平台水平高于 0.5，表明该模型可能仍然有用。
 
@@ -161,11 +161,11 @@ ROC 曲线通常用于通过绘制不同阈值水平下的收益与成本来选�
 
 当用作输入时，损失也低于单独使用 SPY 价格和数量数据时的损失。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/39bc60c5b16e87558c68c52d22a380e6.png)
+![](img/39bc60c5b16e87558c68c52d22a380e6.png)
 
-<figcaption>Figure 4\. Loss, F1 score and AUC for the validation data set‌‌</figcaption>
+Figure 4\. Loss, F1 score and AUC for the validation data set‌‌
 
-</figure>
+
 
 上述所有四种情况的拟合模型与验证数据集一起使用，以每天生成买入/卖出信号，然后用于做多或做空间谍指数 ETF。
 
@@ -177,11 +177,11 @@ ROC 曲线通常用于通过绘制不同阈值水平下的收益与成本来选�
 
 接下来，我们将看看是否可以通过改变 LSTM 网络架构来提高模型性能。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![](img/664272c89878919616a5b5fca73c4787.png)
+![](img/664272c89878919616a5b5fca73c4787.png)
 
-<figcaption>Figure 5\. Sharpe ratio comparison for four input cases</figcaption>
+Figure 5\. Sharpe ratio comparison for four input cases
 
-</figure>
+
 
 * * *
 
@@ -201,11 +201,11 @@ b)在每个 LSTM 层中使用三种不同的节点大小:32、64(当前)和 128�
 
 随着节点的减少，损失显著减少，f1 得分显著增加，特别是当使用间谍/TLT 价格/交易量数据作为输入时。随着节点的减少，ROC-AUC 评分仅在 SPY/TLT 价格/交易量用作输入数据时有所改善。因此，从所有三个指标来看，具有 32 个节点且未添加额外层的 LSTM 网络是最佳配置。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/7a17a02b8beda9abae2d16c743a30015.png)
+![](img/7a17a02b8beda9abae2d16c743a30015.png)
 
-<figcaption>Figure 6\. Effect of an additional LSTM layer and LSTM node count on metrics</figcaption>
+Figure 6\. Effect of an additional LSTM layer and LSTM node count on metrics
 
-</figure>
+
 
 图 7 显示了根据使用这些不同的 LSTM 配置生成的权益曲线确定的夏普比率的比较。
 
@@ -213,11 +213,11 @@ b)在每个 LSTM 层中使用三种不同的节点大小:32、64(当前)和 128�
 
 具有 32 个节点且没有添加额外层的配置再次看起来是最佳选择。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/d14307feeea83af45b31f60650f8a938.png)
+![](img/d14307feeea83af45b31f60650f8a938.png)
 
-<figcaption>Figure 7\. Effect of an additional LSTM layer and LSTM node count on Sharpe ratio</figcaption>
+Figure 7\. Effect of an additional LSTM layer and LSTM node count on Sharpe ratio
 
-</figure>
+
 
 * * *
 
@@ -233,11 +233,11 @@ b)在每个 LSTM 层中使用三种不同的节点大小:32、64(当前)和 128�
 
 然而，这也是以更高的损失为代价的。f1 得分似乎没有遵循任何可预测的趋势，但都在 0.6 以上，这很好。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/3b0a568bdebff896ac64564a323db0b2.png)
+![](img/3b0a568bdebff896ac64564a323db0b2.png)
 
-<figcaption>Figure 8\. Effect of a historical and future period variation on key model metrics</figcaption>
+Figure 8\. Effect of a historical and future period variation on key model metrics
 
-</figure>
+
 
 除了夏普比率之外，我们还将考察三个额外的回报指标-%最大提取额、%盈利和损益比率(盈利回报与亏损回报的比率)。
 
@@ -247,11 +247,11 @@ b)在每个 LSTM 层中使用三种不同的节点大小:32、64(当前)和 128�
 
 总的来说，纵观所有四个回报指标，90-3 组合似乎是最佳选择。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/493cc37f85a8a762f27933a3c1c78c7e.png)
+![](img/493cc37f85a8a762f27933a3c1c78c7e.png)
 
-<figcaption>Figure 9\. Effect of a historical and future period variation on return metrics‌‌</figcaption>
+Figure 9\. Effect of a historical and future period variation on return metrics‌‌
 
-</figure>
+
 
 我们现在将查看使用经过训练的 90-3 输入-输出周期组合、具有 32 个节点的双层 LSTM 网络生成的权益曲线，该网络将 SPY+TLT 价格和交易量数据作为输入，并生成买入/卖出信号。
 
@@ -263,11 +263,11 @@ b)在每个 LSTM 层中使用三种不同的节点大小:32、64(当前)和 128�
 
 验证数据集有大约 460 个交易日，基准收益率在此期间接近 22%。在同一时间段内，使用 LSTM 网络的策略预计回报率为 37.5%至 52.5%。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![](img/3217fd1fc482306be507024c838d4cbd.png)
+![](img/3217fd1fc482306be507024c838d4cbd.png)
 
-<figcaption>Figure 10\. Equity curve for the best LSTM configuration‌‌</figcaption>
+Figure 10\. Equity curve for the best LSTM configuration‌‌
 
-</figure>
+
 
 * * *
 

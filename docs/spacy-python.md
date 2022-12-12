@@ -63,11 +63,11 @@ spaCy 的主要优势在于，它被设计为以一种最优且健壮的方式�
 | 5. | NLTK 可以慢一点。 | 空间针对速度进行了优化。 |
 | 6. | 它是使用 Python 构建的。 | 它是使用 Cython 构建的。 |
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![spacy features](img/2abcae3c885704e9d18a0cdf70f7eedf.png)
+![spacy features](img/2abcae3c885704e9d18a0cdf70f7eedf.png)
 
-<figcaption>[Source](https://spacy.io/)</figcaption>
+[Source](https://spacy.io/)
 
-</figure>
+
 
 * * *
 
@@ -79,11 +79,11 @@ spaCy 为不同的[语言](https://spacy.io/usage/models#languages)提供了许�
 
 我们也可以在 spaCy 中设计自己的定制管道。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![pipelines in spacy](img/d8adc7a88f1678d31d31b717759381af.png)
+![pipelines in spacy](img/d8adc7a88f1678d31d31b717759381af.png)
 
-<figcaption>[Source](https://spacy.io/usage/processing-pipelines)</figcaption>
+[Source](https://spacy.io/usage/processing-pipelines)
 
-</figure>
+
 
 * * *
 

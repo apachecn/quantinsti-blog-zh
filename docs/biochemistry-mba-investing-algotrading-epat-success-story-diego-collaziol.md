@@ -12,7 +12,7 @@
 
 ## 嗨，迭戈，给我们介绍一下你自己吧？
 
-<figure class="kg-card kg-image-card kg-width-wide">![diego collaziol photo](img/1b34becc8e8fd25293b7882346408fd9.png)</figure>
+![diego collaziol photo](img/1b34becc8e8fd25293b7882346408fd9.png)
 
 我是迭戈·科拉齐奥尔，40 岁，来自巴西的 T2。我原本住在阿根廷的 T4，但最近才搬回来。我曾经是一名**生物化学家**，因为我的职业是(药学/生物化学家**)。在实验室工作了 15 年后，我决定休假一年，从事基因分析、食品分析或实验室质量管理等工作。**
 

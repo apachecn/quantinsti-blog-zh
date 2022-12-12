@@ -105,13 +105,13 @@ ETF 和共同基金的区别在于:
 
 根据雅虎财经的数据，去年排名前 20 的 ETF 的涨幅都在 50%以上。这还不包括那里的杠杆产品，如[迪瑞克森每日半导体牛 3X 股(SOXL)](http://www.etf.com/soxl) 、[迪瑞克森每日科技牛 3X 股(TECL)](http://www.etf.com/tecl) 或[迪瑞克森每日住宅建筑商&供应牛 3X 股(NAIL)](http://www.etf.com/nail) ，每股上涨超过 185%。
 
-<figure class="kg-card kg-image-card kg-width-wide">![](img/6cd0fd559cd968a1e6c7819a0856b2c9.png)</figure>
+![](img/6cd0fd559cd968a1e6c7819a0856b2c9.png)
 
 来源:雅虎财经
 
 此外，2019 年有 4 只表现最佳的杠杆 ETF，它们是:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/f954a7f5f291a31eab35782f64bcc58a.png)</figure>
+![](img/f954a7f5f291a31eab35782f64bcc58a.png)
 
 来源:雅虎财经
 

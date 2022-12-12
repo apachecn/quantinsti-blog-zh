@@ -36,11 +36,11 @@ Seaborn 构建在 Matplotlib 之上，其图形可以使用 Matplotlib 工具进
 
 绘图函数对包含整个数据集的 [Python](https://quantra.quantinsti.com/course/python-for-trading) 数据框和数组进行操作，并在内部执行必要的聚合和统计模型拟合以生成信息图。一些例子可以在[这里](http://seaborn.pydata.org/examples/index.html#example-gallery)找到。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Examples of the different types of plot created using Seaborn](img/73f10d9af26ac54633ba6bf4a5676963.png)
+![Examples of the different types of plot created using Seaborn](img/73f10d9af26ac54633ba6bf4a5676963.png)
 
-<figcaption>Source: Seaborn.pydata.org</figcaption>
+Source: Seaborn.pydata.org
 
-</figure>
+
 
 * * *
 
@@ -50,11 +50,11 @@ Seaborn 构建在 Matplotlib 之上，其图形可以使用 Matplotlib 工具进
 
 Seaborn 包允许创建带注释的热图，可以根据创建者的要求使用 Matplotlib 工具进行调整。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![heatmaps using seaborn python packages](img/6c70b71e8d5dc2013777d9e7f1e62ef1.png)
+![heatmaps using seaborn python packages](img/6c70b71e8d5dc2013777d9e7f1e62ef1.png)
 
-<figcaption>Annotated Heatmap: [Source](http://seaborn.pydata.org/_images/spreadsheet_heatmap.png)</figcaption>
+Annotated Heatmap: [Source](http://seaborn.pydata.org/_images/spreadsheet_heatmap.png)
 
-</figure>
+
 
 * * *
 

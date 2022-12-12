@@ -43,11 +43,11 @@
 
 有几个因素导致市场变得低效。这两类因素如下:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Factors leading to market inefficiency](img/df6535033700def3b209917e74fc6650.png)
+![Factors leading to market inefficiency](img/df6535033700def3b209917e74fc6650.png)
 
-<figcaption>Factors leading to market inefficiency</figcaption>
+Factors leading to market inefficiency
 
-</figure>
+
 
 **外部**
 
@@ -70,11 +70,11 @@
 
 显而易见，原油价格的趋势远高于平时，而雀巢公司的股价反映了快速消费品行业的状况，因为其价格与其价值相比要低得多。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Tradingview - Nestle and crude oil](img/0d74e3fb22ed52738ec1e2b4fb48aef3.png)
+![Tradingview - Nestle and crude oil](img/0d74e3fb22ed52738ec1e2b4fb48aef3.png)
 
-<figcaption>Tradingview - Nestle and crude oil</figcaption>
+Tradingview - Nestle and crude oil
 
-</figure>
+
 
 ### 收益发布
 
@@ -119,11 +119,11 @@
 
 让我们看看下图，看看互联网泡沫存在的时间线。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Rise and fall (Dotcom bubble)](img/2590dc7b2cbebdff8b5ef8dcb4ff04e6.png)
+![Rise and fall (Dotcom bubble)](img/2590dc7b2cbebdff8b5ef8dcb4ff04e6.png)
 
-<figcaption>Rise and fall (Dotcom bubble) (Source: [Flat World Business](https://flatworldbusiness.wordpress.com/flat-education/previously/web-1-0-vs-web-2-0-vs-web-3-0-a-bird-eye-on-the-definition/dotcom-bubble/))</figcaption>
+Rise and fall (Dotcom bubble) (Source: [Flat World Business](https://flatworldbusiness.wordpress.com/flat-education/previously/web-1-0-vs-web-2-0-vs-web-3-0-a-bird-eye-on-the-definition/dotcom-bubble/))
 
-</figure>
+
 
 上图清楚地显示了从 1996 年开始，关于基于互联网的公司的猜测显示了对其增长潜力的乐观态度。虽然，2001 年后，现实检查使交易者意识到互联网公司被高估，导致崩溃。
 
@@ -143,11 +143,11 @@
 
 让我们看看下面的图片，它显示了抵押贷款是如何无法控制的。因此，美国的房价一直虚高，直到 2007 年泡沫最终破裂，导致抵押贷款支持证券的价值损失。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Loss on mortgage backed securities](img/7094b0080b751c3ada643d6ebb4e6231.png)
+![Loss on mortgage backed securities](img/7094b0080b751c3ada643d6ebb4e6231.png)
 
-<figcaption>Loss on mortgage backed securities (Source: [THE FINANCIAL CRISIS INQUIRY REPORT](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf))</figcaption>
+Loss on mortgage backed securities (Source: [THE FINANCIAL CRISIS INQUIRY REPORT](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf))
 
-</figure>
+
 
 因此，显而易见的是，抵押贷款证券的次级股票出现了巨额亏损，最终导致了大萧条。
 

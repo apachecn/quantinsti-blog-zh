@@ -14,7 +14,7 @@ Laurent Bernut 带你了解市场机制的概念，以及如何在交易时利�
 
 ### ******洛朗·贝努特** **(阿尔法安全资本 CEO)******
 
-<figure class="kg-card kg-image-card">![Laurent Bernut pic](img/e58bc582a4bd13424632dda0c30b6e2b.png)</figure>
+![Laurent Bernut pic](img/e58bc582a4bd13424632dda0c30b6e2b.png)
 
 Laurent 在 Fidelity Investments、Rockhampton 和 Ward Ferry 拥有超过 18 年的另类投资经验。在富达的 8 年多时间里，他一直是现代史上最长熊市之一——日本股市——的专职卖空者。
 

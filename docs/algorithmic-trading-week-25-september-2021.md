@@ -22,7 +22,7 @@
 
 ### 刘辉博士**(Running River Investments LLC 创始人，IBridgePy 作者)**
 
-<figure class="kg-card kg-image-card">![Dr. Hui Liu pic](img/a7ec0db1482b4fbc095bccf60297b676.png)</figure>
+![Dr. Hui Liu pic](img/a7ec0db1482b4fbc095bccf60297b676.png)
 
 刘博士是 Running River Investments LLC 的创始人，该公司是一家私人对冲基金，专门从事各种自动化交易策略的开发和实施。
 

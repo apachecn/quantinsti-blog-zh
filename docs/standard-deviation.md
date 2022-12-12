@@ -45,11 +45,11 @@
 
 Simply put, the deviation is the distance of a data point from the mean. Consider a random variable X which consists of n different observations \(x_1, x_2, ..., x_n\) Below, we show the deviations of two observations \(x_1\) and \(x_2\) from the mean of X.
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![deviations](img/b011438ad426968eebe7d367f246cbc2.png)
+![deviations](img/b011438ad426968eebe7d367f246cbc2.png)
 
-<figcaption>Deviations of two observations</figcaption>
+Deviations of two observations
 
-</figure>
+
 
 这里的偏差告诉我们一个观察值离平均值有多远。它可以是正的，也可以是负的，取决于观察值是大于还是小于平均值。
 
@@ -119,11 +119,11 @@ Now, square kilometres may be easy to visualize as a unit, but what about \(year
 *   两个标准偏差内的 95%,以及
 *   99.7%落在平均值的三个标准偏差内。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Standard Normal Distribution](img/fb52170942db15401b1a5f84dc036b26.png)
+![Standard Normal Distribution](img/fb52170942db15401b1a5f84dc036b26.png)
 
-<figcaption>Standard Normal Distribution (Image Source: [Standard Normal Distribution](https://quantra.quantinsti.com/glossary/Standard-Normal-Distribution#!))</figcaption>
+Standard Normal Distribution (Image Source: [Standard Normal Distribution](https://quantra.quantinsti.com/glossary/Standard-Normal-Distribution#!))
 
-</figure>
+
 
 因此，我们可以得出结论，几乎 68%的居民的身高将位于平均值的一个标准偏差之间，即在 160 cm(平均值-标准差)和 170 cm(平均值+标准差)之间。你可以在这里阅读更多关于正态分布[。](https://quantra.quantinsti.com/glossary/Standard-Normal-Distribution)
 

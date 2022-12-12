@@ -32,11 +32,11 @@
 
 之后，交易者会下订单，经纪人会做一个快速检查，找出在市场上开仓的保证金。在必要的检查之后，交易者将能够看到其他市场参与者的订单，并判断下达交易订单的市场情况。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Working of direct market access](img/e15c5f9896fca4207e3b3b32f215232d.png)
+![Working of direct market access](img/e15c5f9896fca4207e3b3b32f215232d.png)
 
-<figcaption>Working of direct market access</figcaption>
+Working of direct market access
 
-</figure>
+
 
 * * *
 

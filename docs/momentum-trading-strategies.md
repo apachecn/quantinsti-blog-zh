@@ -99,11 +99,11 @@
 
 两条均线分别是**慢线**，或者回看周期更长的慢移动均线，比如 200。以及**快线**，或者回看周期更短的快速移动平均线，比如 50。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Golden cross and Death cross](img/3ecbac033b7095bef2a2bbff74f204d1.png)
+![Golden cross and Death cross](img/3ecbac033b7095bef2a2bbff74f204d1.png)
 
-<figcaption>Fig 1\. Golden cross and Death cross (Source: TradingView)</figcaption>
+Fig 1\. Golden cross and Death cross (Source: TradingView)
 
-</figure>
+
 
 金叉是一种图表模式，表明价格趋势看涨。当快线与慢线向上交叉时(即从下到上)，出现黄金交叉。
 
@@ -119,21 +119,21 @@
 
 2015 年以来的策略回报如下。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Long-short momentum strategy](img/d1e41c5903b5b911e65d5a22c59cdd6e.png)
+![Long-short momentum strategy](img/d1e41c5903b5b911e65d5a22c59cdd6e.png)
 
-<figcaption>Fig 2\. Strategy Performance for long-short strategy</figcaption>
+Fig 2\. Strategy Performance for long-short strategy
 
-</figure>
+
 
 动量策略**优于基准**。通过**实施适当的风险管理技术和微调参数**，可以进一步提高战略绩效。
 
 有趣的是，实施**只做多策略**(仅在黄金交叉时进入头寸)远比在死亡交叉时做空的策略更有利可图**。仅做多策略的回报如下所示。**
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Long-only momentum strategy](img/e35ec9563afc2846c75d9579f9e30b25.png)
+![Long-only momentum strategy](img/e35ec9563afc2846c75d9579f9e30b25.png)
 
-<figcaption>Fig 3\. Strategy Performance for long-only strategy</figcaption>
+Fig 3\. Strategy Performance for long-only strategy
 
-</figure>
+
 
 * * *
 

@@ -24,7 +24,7 @@
 
 ### Thomas Starke 博士(AAAQuants 首席执行官)
 
-<figure class="kg-card kg-image-card">![Dr Thomas Starke pic](img/d73ef959e8035a2402520c401f669d44.png)</figure>
+![Dr Thomas Starke pic](img/d73ef959e8035a2402520c401f669d44.png)
 
 斯塔克博士拥有物理学博士学位，目前担任澳大利亚领先的自营交易公司 AAAQuants 的首席执行官，领导该公司的量化交易团队。他还在牛津大学担任高级研究员。
 

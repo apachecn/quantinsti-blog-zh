@@ -27,7 +27,7 @@
 
 为了使对生存偏差的理解更有趣，我们可以看一个军队中偏差的例子。
 
-<figure class="kg-card kg-image-card">![](img/94e6b59aa14997bd05e9015b2858838c.png)</figure>
+![](img/94e6b59aa14997bd05e9015b2858838c.png)
 
 来源:[维基百科](https://en.wikipedia.org/wiki/Survivorship_bias)
 
@@ -53,7 +53,7 @@
 
 生存偏差的另一个例子可以在下面看到。当你跟踪一个人却不知道损失是否会大于收益时，你最终会成为生存偏差的受害者。
 
-<figure class="kg-card kg-image-card">![](img/8a23a4d3b008e377bade64bf18fc9a67.png)</figure>
+![](img/8a23a4d3b008e377bade64bf18fc9a67.png)
 
 来源:[培养基](https://medium.com/@solorwell/dont-let-gurus-sell-you-on-survivorship-bias-dd85e3c94b68)
 
@@ -77,7 +77,7 @@
 
 让我们再举一个例子，假设你投资了 5 只共同基金，你的投资组合在 2020 年的 3 年回报率如下:
 
-<figure class="kg-card kg-image-card">![](img/4881cb8a3a603407b465c11698ff2408.png)</figure>
+![](img/4881cb8a3a603407b465c11698ff2408.png)
 
 来源:[清税](https://cleartax.in/s/best-mutual-funds)
 
@@ -97,11 +97,11 @@
 
 这里有一个视频可以帮助你更好地了解生存偏差的重要性:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/GyEbt9zUhAM?feature=oembed](https://www.youtube.com/embed/GyEbt9zUhAM?feature=oembed)
 
-</figure>
+
 
 展望未来，让我们找出如何避免生存偏差。
 

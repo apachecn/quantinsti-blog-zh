@@ -56,7 +56,7 @@
 
 该框架的前提是投资组合是 **n** 个市场微观结构的总和。下面的等式是作为解释这一逻辑的一种新颖方式给出的。
 
-<figure class="kg-card kg-image-card">![1](img/c8c5738053840092f7727cc7aa1dcd31.png)</figure>
+![1](img/c8c5738053840092f7727cc7aa1dcd31.png)
 
 这个等式以一种新颖的方式陈述了投资组合的静态是组成市场微观结构及其权重的产物。
 
@@ -68,7 +68,7 @@
 
 绝对值符号被用作非线性的指示。下面的等式是投资组合动态的一种新的表现形式。
 
-<figure class="kg-card kg-image-card">![2](img/0c8793b2a76d02cf8ea5df279d652c39.png)</figure>
+![2](img/0c8793b2a76d02cf8ea5df279d652c39.png)
 
 上面的等式表明，投资组合的动态状态不仅取决于各个组成部分的微观结构，还取决于它们的相对相关性。
 
@@ -76,7 +76,7 @@
 
 微观结构成分相关性的概念可以写成条件概率。
 
-<figure class="kg-card kg-image-card">![3](img/0728ab1d14d5f183dfc703c96b64d51d.png)</figure>
+![3](img/0728ab1d14d5f183dfc703c96b64d51d.png)
 
 在哪里，
 
@@ -85,7 +85,7 @@ q 代表第 q 个资产的微观结构。**
 
 因此，相关项可以用矩阵形式表示:
 
-<figure class="kg-card kg-image-card">![4](img/df8ac874fbc1a3bee7631951b4a29165.png)</figure>
+![4](img/df8ac874fbc1a3bee7631951b4a29165.png)
 
 在哪里，
 
@@ -94,7 +94,7 @@ T3】m 是我们微结构分量的一个 **n×1** 向量
 
 因此，我们可以将我们的新等式更新为以下等式:
 
-<figure class="kg-card kg-image-card">![5](img/4bb061245e75285dc5cb0bb1340d144c.png)</figure>
+![5](img/4bb061245e75285dc5cb0bb1340d144c.png)
 
 系综的使用与投资组合是 n 个市场微观结构的组合的想法是一致的。集成的优势在于它们允许聚合多个(有时是弱的)模型，以创建更健壮的模型。
 
@@ -131,7 +131,7 @@ K-Means 是一种机器学习技术，旨在识别我们数据中的子群。这
 下面的
 是针对 K 均值的目标函数。
 
-<figure class="kg-card kg-image-card">![6](img/83fbbeaeec5a11aa68d6f6ff3b76a397.png)</figure>
+![6](img/83fbbeaeec5a11aa68d6f6ff3b76a397.png)
 
 在哪里，
 
@@ -149,7 +149,7 @@ m **<sub>k</sub>** 是第 **k <sub>th</sub>** 簇的 Mu，
 
 下面是高斯混合模型的一个等式:
 
-<figure class="kg-card kg-image-card">![7](img/d938cd1bde20a452580437e3dff8a99d.png)</figure>
+![7](img/d938cd1bde20a452580437e3dff8a99d.png)
 
 其中，
 **π <sub>k</sub>** 是一个观测值属于 **k <sub>th</sub>** 分布的概率；
@@ -161,7 +161,7 @@ m **<sub>k</sub>** 是第 **k <sub>th</sub>** 簇的 Mu，
 
 下面是**<sub>k</sub>**项的等式:
 
-<figure class="kg-card kg-image-card">![8](img/2231c3959aede0ed2d97b510e8dfb652.png)</figure>
+![8](img/2231c3959aede0ed2d97b510e8dfb652.png)
 
 γ， **γ** ，此项由第 **k <sub>个</sub>T5】高斯负责生成第 **n <sub>个</sub>个**点。
 
@@ -169,7 +169,7 @@ m **<sub>k</sub>** 是第 **k <sub>th</sub>** 簇的 Mu，
 
 我们可以通过下面的等式计算γ， **γ** ，项。**
 
-<figure class="kg-card kg-image-card">![9](img/bc3aff0893e50a85df4fe59543ac9f46.png)</figure>
+![9](img/bc3aff0893e50a85df4fe59543ac9f46.png)
 
 上面的等式是第 **k <sub>个</sub>个**高斯和所有高斯的商，或者换句话说是第 **k <sub>个</sub>个**高斯的比例。
 
@@ -185,7 +185,7 @@ m **<sub>k</sub>** 是第 **k <sub>th</sub>** 簇的 Mu，
 
 目标是最小化下面的成本函数:
 
-<figure class="kg-card kg-image-card">![10](img/44472df10ef2880f85d40f0f6bf66ac6.png)</figure>
+![10](img/44472df10ef2880f85d40f0f6bf66ac6.png)
 
 上面的成本函数是残差平方和，并且表示从第 **i <sub>个</sub>T3】观察的平均值到第 **j <sub>个</sub>T7】区域 **R** 的平均值的距离平方和。
 
@@ -430,7 +430,7 @@ features_copy.head()
 find_k(features_copy.fillna(0))
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![Fnding K](img/e012751ee6afe6732bd56e884e95b4db.png)</figure>
+![Fnding K](img/e012751ee6afe6732bd56e884e95b4db.png)
 
 好，我们将使用 15 作为 K 的值。现在我们准备实施 K 均值聚类算法，K 等于 15，并寻找可交易的关系。让我们从初始化我们的模型开始。
 
@@ -1350,7 +1350,7 @@ adbe_antm.generate_signals()
 adbe_antm.create_returns(30000,'ADBE_ANTM')
 ```
 
-<figure class="kg-card kg-image-card">![g1](img/5713c515ab184ec4e34fc2b3b1acca94.png)</figure>
+![g1](img/5713c515ab184ec4e34fc2b3b1acca94.png)
 
 我们可以对剩下的几对重复这个过程。注意，我们的 create_spread 方法返回了包含 spread 的 dataframe 的头部。
 
@@ -1364,7 +1364,7 @@ antm_aet.generate_signals()
 antm_aet.create_returns(30000,'ANTM & AET')
 ```
 
-<figure class="kg-card kg-image-card">![g2](img/6d37692afcf5b6de08fe101e8e4865df.png)</figure>
+![g2](img/6d37692afcf5b6de08fe101e8e4865df.png)
 
 ```py
 #repeating process for ANTM and AET
@@ -1374,7 +1374,7 @@ antm_aet.generate_signals()
 antm_aet.create_returns(30000,'ANTM & AET')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g3](img/3f7435e80639778bc8e6cf0866a49726.png)</figure>
+![g3](img/3f7435e80639778bc8e6cf0866a49726.png)
 
 好吧。并不是说我们已经创建了我们单独的 StatArb 实现，我们可以将它们组合成一个投资组合，计算我们的投资组合回报、mu、sigma 和 Sharpe 比率。
 
@@ -1466,7 +1466,7 @@ plt.title('Equally Weighted Portfolio Equity Curve')
 plt.show()
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g4](img/541082f03fb6cde49d56a50542c58537.png)</figure>
+![g4](img/541082f03fb6cde49d56a50542c58537.png)
 
 我们可以看到，尽管我们同等加权的投资组合价值增加了，但夏普仍然为负。
 
@@ -1505,11 +1505,11 @@ aet_antm_sigma=aet_antm.sigma
 
 我们投资组合的回报可以表示为
 
-<figure class="kg-card kg-image-card">![1.1](img/7e07e99870957cf1c9b0a41cf056ae13.png)</figure>
+![1.1](img/7e07e99870957cf1c9b0a41cf056ae13.png)
 
 或者作为
 
-<figure class="kg-card kg-image-card">![1.2](img/f94ebc23c75f65b557d09aa437519f9a.png)</figure>
+![1.2](img/f94ebc23c75f65b557d09aa437519f9a.png)
 
 在哪里，
 
@@ -1559,7 +1559,7 @@ avg_returns
 
 我们投资组合的方差可以表示为
 
-<figure class="kg-card kg-image-card">![1.3](img/82644efd365fa23fde5f6e45c8d51db9.png)</figure>
+![1.3](img/82644efd365fa23fde5f6e45c8d51db9.png)
 
 在哪里，
 
@@ -1656,7 +1656,7 @@ return
 efficient_frontier(returns.fillna(0))
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g5](img/335ee1619d72b4fffec6be4247776719.png)</figure>
+![g5](img/335ee1619d72b4fffec6be4247776719.png)
 
 ```py
 def stats(weights,rate=0.015):
@@ -1741,7 +1741,7 @@ adbe_antm_2.generate_signals()
 adbe_antm_2.create_returns(adbe_antm_allocation,'ADBE_ANTM_Portfolio _2')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g6](img/92c8024e65363d1938eacca98eef48c2.png)</figure>
+![g6](img/92c8024e65363d1938eacca98eef48c2.png)
 
 回忆一下，我们的第二对得到了 0%的分配。因此，我们将使用更新的权重创建第三对，并创建新的投资组合。
 
@@ -1753,7 +1753,7 @@ aet_antm_2.generate_signals()
 aet_antm_2.create_returns(aet_antm_allocation,'AET & ANTM')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g7](img/d75602aaeb62244a3b368718d4612438.png)</figure>
+![g7](img/d75602aaeb62244a3b368718d4612438.png)
 
 我们现在已经准备好构建我们的**有效前沿投资组合**。
 
@@ -1804,7 +1804,7 @@ plt.title('Efficient Frontier Portfolio Equity Curve')
 plt.show()
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g8](img/ff26e597944964a754efaed88db8d13b.png)</figure>
+![g8](img/ff26e597944964a754efaed88db8d13b.png)
 
 现在，我们可以将有效前沿投资组合的 Mu、适马和夏普指数存储在变量中。
 
@@ -1932,7 +1932,7 @@ adbe_antm_3_historical.generate_signals()
 adbe_antm_3_historical.create_returns(30000,'ADBE_ANTM_3 Over Training Period')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g9](img/1f73f61798082a11c8516e9c012573d5.png)</figure>
+![g9](img/1f73f61798082a11c8516e9c012573d5.png)
 
 好了，现在我们已经创建了我们的策略，让我们检查一下我们的回报。
 
@@ -1964,7 +1964,7 @@ antm_aet_3_historical.generate_signals()
 antm_aet_3_historical.create_returns(30000,'ANTM & AET_3 Over Hist. Train Period')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g10](img/9a9bfee0ceb9d20e1a91f6ca5b070630.png)</figure>
+![g10](img/9a9bfee0ceb9d20e1a91f6ca5b070630.png)
 
 让我们将我们在 AET ANTM 培训期间的回报存储在一个变量中
 
@@ -1981,7 +1981,7 @@ aet_antm_3_historical.generate_signals()
 aet_antm_3_historical.create_returns(30000,'AET & ANTM')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g11](img/5f4dc4c0b50c2e5f2ec0c6bc467c5dda.png)</figure>
+![g11](img/5f4dc4c0b50c2e5f2ec0c6bc467c5dda.png)
 
 ```py
 aet_antm_3_historical_rets=aet_antm_3_historical.portfolio['Returns']
@@ -2310,7 +2310,7 @@ adbe_antm_gmm_rf.analyze_historical_regimes()
 adbe_antm_gmm_rf.historical_regime_returns_volatility('ADBE_ANTM GMM Analysis')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g12](img/933869c28b1c755f7756940b94c4350a.png)</figure>
+![g12](img/933869c28b1c755f7756940b94c4350a.png)
 
 从上面的图中，我们可以看到对我们的策略最有利的方案是方案 1。这种制度的相对波动性最低，但回报率也最高。
 
@@ -2339,7 +2339,7 @@ antm_aet_gmm_rf.analyze_historical_regimes()
 antm_aet_gmm_rf.historical_regime_returns_volatility('ANTM AET GMM Analysis')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g13](img/a063ac316d28c109b8583b6d0a24ef85.png)</figure>
+![g13](img/a063ac316d28c109b8583b6d0a24ef85.png)
 
 好的，我们可以看到，方案 1 似乎为我们的 ANTM-AET 关系提供了最佳的风险/回报权衡。
 
@@ -2362,7 +2362,7 @@ aet_antm_gmm_rf.analyze_historical_regimes()
 aet_antm_gmm_rf.historical_regime_returns_volatility('AET_ANTM GMM Analysis')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g14](img/09140314fe4cc0939514839ff47c118b.png)</figure>
+![g14](img/09140314fe4cc0939514839ff47c118b.png)
 
 我们可以再次看到，尽管波动性很大，我们的回报仍然是正的。然而，从上面的图中我们可以注意到，在大多数情况下，制度 0 和制度 1 之间的波动水平是相似的。
 
@@ -2768,7 +2768,7 @@ adbe_antm_bottom_up.generate_signals()
 adbe_antm_bottom_up.create_returns(30000,'ADBE_ANTM Bottom Up')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g15](img/b875c8f0a276b299d0abfa174db89313.png)</figure>
+![g15](img/b875c8f0a276b299d0abfa174db89313.png)
 
 **ANTM_AET 自下而上实现**
 
@@ -2787,7 +2787,7 @@ antm_aet_bottom_up.generate_signals()
 antm_aet_bottom_up.create_returns(30000,'ANTM AET Bottom Up')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g16](img/0f94679db92f0674aef90a1dae04a1bd.png)</figure>
+![g16](img/0f94679db92f0674aef90a1dae04a1bd.png)
 
 在分析了我们的策略所属的历史制度并更新了我们的 statarb 实施以避免制度 0 之后，我们可以看到我们的 ANTM AET 实施在我们的测试期内没有交易。
 
@@ -2814,7 +2814,7 @@ aet_antm_bottom_up.generate_signals()
 aet_antm_bottom_up.create_returns(30000,'AET_ANTM Bottom Up')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g17](img/cb56fc5b89ba88609b90eed6f4ab69aa.png)</figure>
+![g17](img/cb56fc5b89ba88609b90eed6f4ab69aa.png)
 
 #### ****第六步:获取绩效指标****
 
@@ -2853,7 +2853,7 @@ plt.title('Bottom Up Portfolio')
 plt.show()
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g18](img/7e8dd0915784c963a561cdee5ee655e1.png)</figure>
+![g18](img/7e8dd0915784c963a561cdee5ee655e1.png)
 
 让我们通过创建 Sharpe 并将其存储在一个变量中以备后用，来总结我们自下而上的投资组合。
 
@@ -2892,7 +2892,7 @@ adbe_antm_spo.generate_signals()
 adbe_antm_spo.create_returns(adbe_antm_allocation,'ADBE_ANTM SPO Framework')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g19](img/488aaaaff3f50a3a6951a756f849074b.png)</figure>
+![g19](img/488aaaaff3f50a3a6951a756f849074b.png)
 
 让我们为 ANTM AET 的实施重复这一过程。
 
@@ -2913,7 +2913,7 @@ aet_antm_spo.generate_signals()
 aet_antm_spo.create_returns(aet_antm_allocation,'AET_ANTM SPO Framework')
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g20](img/905de651a7964966b136eb4507bc5950.png)</figure>
+![g20](img/905de651a7964966b136eb4507bc5950.png)
 
 **我们现在可以构建我们的 SPO 框架组合了**
 
@@ -2949,7 +2949,7 @@ plt.title('SPO Portfolio Equity Curve')
 plt.show()
 ```
 
-<figure class="kg-card kg-image-card kg-width-wide">![g21](img/90a641cc993706e9b60857efb93c3dc1.png)</figure>
+![g21](img/90a641cc993706e9b60857efb93c3dc1.png)
 
 我们现在可以比较我们每个投资组合的夏普比率。
 

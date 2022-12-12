@@ -47,11 +47,11 @@
 
 现在让我们看看下面的图表，它代表了铝期货在 93 个交易日内的每日收盘价，这是一个时间序列。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Close price](img/d8052988208ac99b6e07635a38cf5cba.png)
+![Close price](img/d8052988208ac99b6e07635a38cf5cba.png)
 
-<figcaption>Close price</figcaption>
+Close price
 
-</figure>
+
 
 时间序列分析很重要，因为它有助于:
 
@@ -105,11 +105,11 @@
 
 这里，Y 轴代表资产的价格。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Stationarity and Non stationarity of time series](img/237ec0d7606ec0db016f678d7b80c356.png)
+![Stationarity and Non stationarity of time series](img/237ec0d7606ec0db016f678d7b80c356.png)
 
-<figcaption>Stationarity and Non stationarity of time series</figcaption>
+Stationarity and Non stationarity of time series
 
-</figure>
+
 
 我们还观察到，在非平稳时间序列的情况下，数据往往是不可预测的，无法建模或预测。通过对数据进行差分或去趋势处理，可以将非平稳时间序列转换为平稳时间序列。
 

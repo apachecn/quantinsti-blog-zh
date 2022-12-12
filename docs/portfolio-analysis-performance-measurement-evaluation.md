@@ -47,7 +47,7 @@
 
 该期间投资组合的回报可计算如下:
 
-<figure class="kg-card kg-image-card">![Calculation of portfolio returns](img/2b2b16996222f40330e7b5ce1e8350fe.png)</figure>
+![Calculation of portfolio returns](img/2b2b16996222f40330e7b5ce1e8350fe.png)
 
 考虑下面的例子。
 

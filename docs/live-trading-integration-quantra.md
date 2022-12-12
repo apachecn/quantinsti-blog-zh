@@ -43,7 +43,7 @@ Quantra 试图做到这一点。在 Quantra，你可以学习不同的交易策�
 
 总而言之，你将特征或数据传递给机器学习算法，它将预测你定义的结果。
 
-<figure class="kg-card kg-image-card kg-width-full">![Machine Learning Flow Diagram](img/5f4d8d0f648595098bab40dd52bc0238.png)</figure>
+![Machine Learning Flow Diagram](img/5f4d8d0f648595098bab40dd52bc0238.png)
 
 让我们用这个概念来构建一个机器学习交易策略，来预测标准普尔 500 第二天的走势。
 

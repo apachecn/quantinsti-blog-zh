@@ -88,13 +88,13 @@
 
 倒票系统确实存在，我会给你看几个——但是 90%的成功率也有缺点。同样值得再次注意的是，我相信 90%的无瑕疵回测都是有瑕疵的头皮系统；简单的工程跟踪止损和回望偏差。
 
-<figure class="kg-card kg-image-card kg-width-full">![A black and silver text on a screen
+![A black and silver text on a screen
 
-Description automatically generated](img/a517d4a8e049dfff303cc47f34d70d74.png)</figure>
+Description automatically generated](img/a517d4a8e049dfff303cc47f34d70d74.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![A picture containing man
+![A picture containing man
 
-Description automatically generated](img/6e51e033dc1986da9bb962488d08013f.png)</figure>
+Description automatically generated](img/6e51e033dc1986da9bb962488d08013f.png)
 
 我鼓励大家尝试这些指标，看看哪些有效，哪些无效——我发现我对许多天平的优势感到惊讶，我发现这些优势并不吸引人，我还发现了一些我认为会做得很好的混合优势。
 

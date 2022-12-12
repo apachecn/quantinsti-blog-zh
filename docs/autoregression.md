@@ -124,21 +124,21 @@ ACF 图是数据随机性的良好指标。对于非随机数据，至少一个�
 
 您可以分别使用 statsmodels 库中的 [plot_acf](https://www.statsmodels.org/stable/generated/statsmodels.graphics.tsaplots.plot_acf.html) 和 [plot_pacf](https://www.statsmodels.org/stable/generated/statsmodels.graphics.tsaplots.plot_pacf.html) 方法绘制 ACF 和 PACF 图。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![ACF plot of J.P. Morgan stock price](img/edf73fff93a22ad63f03a52660863359.png)
+![ACF plot of J.P. Morgan stock price](img/edf73fff93a22ad63f03a52660863359.png)
 
-<figcaption>Fig. 1\. ACF plot of J.P. Morgan stock price</figcaption>
+Fig. 1\. ACF plot of J.P. Morgan stock price
 
-</figure>
+
 
 从上面的图中，您可以看到滞后 0 处的自相关值为 1(因为它是变量与其自身的相关性)。您看到的蓝色区域是置信带，滞后 20 之前的自相关位于该蓝色区域之外。
 
 这意味着直到滞后 20 的值在统计上是显著的，也就是说，它们影响当前价格。此外，随着滞后项的增加，自相关逐渐接近零。这意味着我们走得越远，相关性就越小。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![PACF plot of J.P. Morgan stock price](img/659dd67d2db9a84f18574d532fdf3b3d.png)
+![PACF plot of J.P. Morgan stock price](img/659dd67d2db9a84f18574d532fdf3b3d.png)
 
-<figcaption>Fig. 2\. PACF plot of J.P. Morgan stock price</figcaption>
+Fig. 2\. PACF plot of J.P. Morgan stock price
 
-</figure>
+
 
 从上图可以看出，滞后 1、2、3、4 等在置信带(蓝色区域)之外，因此具有统计学意义。
 
@@ -174,11 +174,11 @@ p-value: 0.00
 
 由于 p 值小于 0.05，时间序列是平稳的。现在，您可以对转换后的序列应用自回归模型。但在此之前，让我们使用变换序列上的 PACF 图来找到 AR 模型的阶数。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![PACF plot of first ordered differenced series](img/1a910b8d96cd85587d7cb3c1e1c7084a.png)
+![PACF plot of first ordered differenced series](img/1a910b8d96cd85587d7cb3c1e1c7084a.png)
 
-<figcaption>Fig. 3\. PACF plot of first ordered differenced series</figcaption>
+Fig. 3\. PACF plot of first ordered differenced series
 
-</figure>
+
 
 从上面的图可以看出，滞后 1，2，3，4 等。在置信带(蓝色区域)之外，因此具有统计学意义。此外，该图表明，我们可以拟合差分序列的一阶自回归模型。
 
@@ -186,7 +186,7 @@ p-value: 0.00
 
 下面代码的输出是
 
-<figure class="kg-card kg-image-card kg-width-full">![output of the code](img/f5937b64347839a9e5a67f19c4157073.png)</figure>
+![output of the code](img/f5937b64347839a9e5a67f19c4157073.png)
 
 从上面的输出中，您可以看到拟合的模型是
 

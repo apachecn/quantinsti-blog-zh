@@ -64,7 +64,7 @@ Python，一种由 Guido Van Rossum 在 20 世纪 80 年代后期构思的编程
 
 ## **为什么要用 Python 进行交易？**
 
-<figure class="kg-card kg-image-card kg-width-full">![python xkcd](img/17a858878bdf231b29f3a14ea994d4e9.png)</figure>
+![python xkcd](img/17a858878bdf231b29f3a14ea994d4e9.png)
 
 Python 已经成为最近交易的首选，因为 Python 是开源的，所有的[包](/installing-python-packages/)都可以免费用于商业用途。
 
@@ -121,7 +121,7 @@ Python 作为一种编程语言之所以流行，部分原因是该领域的一�
 
 这里列出了全球使用 Python 的一些大公司:
 
-<figure class="kg-card kg-embed-card">
+
 
 > 随着 [#Python](https://twitter.com/hashtag/Python?src=hash&ref_src=twsrc%5Etfw) 的持续快速增长，这里有一份[#使用 Python 的‘十大顶级公司’名单](https://twitter.com/hashtag/list?src=hash&ref_src=twsrc%5Etfw):
 > 👉谷歌
@@ -139,4 +139,3 @@ Python 作为一种编程语言之所以流行，部分原因是该领域的一�
 > 
 > — QuantInsti (@QuantInsti) [July 11, 2021](https://twitter.com/QuantInsti/status/1414064409698177027?ref_src=twsrc%5Etfw)
 
-</figure>

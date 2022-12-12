@@ -41,7 +41,7 @@
 
 [移动平均线](/moving-average-trading-strategies/)的示例如下:
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/a220d41f1c1efe1b490083f720e7cc0f.png)</figure>
+![](img/a220d41f1c1efe1b490083f720e7cc0f.png)
 
 在上图中，显示了价格(12 个观察值)和相同间隔的时间段数。实际数据点以蓝色显示，而 SMA 是使用以下公式计算的:
 
@@ -96,7 +96,7 @@ L =新高前的最小值
 
 (7500 – 50000) / 50000 = -85%.
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/57f1ac2e687d7601a71564da6ef1f822.png)</figure>
+![](img/57f1ac2e687d7601a71564da6ef1f822.png)
 
 你可以用这些业绩评估方法来比较两个投资组合，并且可以选择一个与另一个相比具有更高的夏普比率和更小的最大提款值。
 

@@ -23,11 +23,11 @@
 
 如果你想了解算法交易领域的演变、含义和未来，请观看此视频:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/73gr7qkQedo?feature=oembed](https://www.youtube.com/embed/73gr7qkQedo?feature=oembed)
 
-</figure>
+
 
 接下来，我们将了解一名算法交易员和一名量化开发人员的工资。
 
@@ -75,7 +75,7 @@ quant 开发人员需要编写算法来执行算法交易员开发的交易策�
 
 此外，工具的知识是成为一个定量分析师所必需的，因为这些工具有助于回溯测试和最终确定交易策略。一些通用工具有[蓝移](https://blueshift.quantinsti.com/)、[量子库](https://www.quantlib.org/)和[量子库](http://www.jquantlib.org/en/latest/usersguide.html#about-jquantlib)。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/4f34f7d44529a5ff38692cb09d7ea526.png)</figure>
+![](img/4f34f7d44529a5ff38692cb09d7ea526.png)
 
 为了学习这些技能，你可以看看我们的博客，上面有一个由免费资源组成的列表。
 

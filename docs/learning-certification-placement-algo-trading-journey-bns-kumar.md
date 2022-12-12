@@ -15,7 +15,7 @@
 
 ## 嗨，BNS，给我们介绍一下你自己
 
-<figure class="kg-card kg-image-card">![](img/47a234f9d63921cfd687dc0efd98e179.png)</figure>
+![](img/47a234f9d63921cfd687dc0efd98e179.png)
 
 我是 BNS·库马尔，在过去的十年里，我一直在量化领域工作。我拥有金融经济学硕士学位，目前正在印度精算师学院学习精算课程。我目前是一名**的定量分析师助理**。
 

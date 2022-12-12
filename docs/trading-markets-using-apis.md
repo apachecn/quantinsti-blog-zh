@@ -65,7 +65,7 @@ API 为交易者提供以下服务:
 
 API 是这样分类的:
 
-<figure class="kg-card kg-image-card kg-width-full">![Types of APIs](img/44351614d2f6fb312225d40350e85817.png)</figure>
+![Types of APIs](img/44351614d2f6fb312225d40350e85817.png)
 
 ### REST API
 
@@ -195,19 +195,19 @@ WebSocket 是一种允许与服务器之间传输数据的协议。连接到服�
 
 在本页注册:
 
-<figure class="kg-card kg-image-card kg-width-full">![Register in Binance trading API](img/80f02b01055a94cc335f7d10d9b101ea.png)</figure>
+![Register in Binance trading API](img/80f02b01055a94cc335f7d10d9b101ea.png)
 
 ### 步骤 2 -创建 API
 
 登录后，从控制面板转到 API 管理，然后单击“创建 API ”,之后您将看到一个安全验证弹出窗口，如下所示:
 
-<figure class="kg-card kg-image-card kg-width-full">![Security verification- first step](img/6665feb20e1091b13f46f0198449ec52.png)</figure>
+![Security verification- first step](img/6665feb20e1091b13f46f0198449ec52.png)
 
 ### 步骤 3 -验证
 
 完成一级验证后，您需要填写安全验证详细信息并继续。这里有一个例子:
 
-<figure class="kg-card kg-image-card kg-width-full">![Security verification second step](img/df91b054fbffa53290bd6fb7fffd7c83.png)</figure>
+![Security verification second step](img/df91b054fbffa53290bd6fb7fffd7c83.png)
 
 认证代码将在谷歌认证中随机生成。
 
@@ -215,13 +215,13 @@ WebSocket 是一种允许与服务器之间传输数据的协议。连接到服�
 
 现在，创建一个带有名称的 API 键。这里，我们使用的名称是“齐博客”
 
-<figure class="kg-card kg-image-card kg-width-full">![Create an API](img/3eb6a476588444cea15baa3eb58f17f8.png)</figure>
+![Create an API](img/3eb6a476588444cea15baa3eb58f17f8.png)
 
 ### 步骤 5 - API 创建
 
 然后，您需要创建一个 API 密钥和一个秘密密钥。这是您创建的 API 的外观:
 
-<figure class="kg-card kg-image-card kg-width-full">![Create an API key and a secret key](img/47f1098365b42fade3a6e3585b121c38.png)</figure>
+![Create an API key and a secret key](img/47f1098365b42fade3a6e3585b121c38.png)
 
 您必须确保记下 API 密钥和安全密钥，否则下次登录时会被屏蔽。
 
@@ -255,7 +255,7 @@ set binance_secret=your_api_secret_here
 
 此外，您可以使用如下命令提示符来确保正确保存密钥:
 
-<figure class="kg-card kg-image-card kg-width-full">![Securing API keys](img/d17ea84e00ce58f20ea0b3341354a752.png)</figure>
+![Securing API keys](img/d17ea84e00ce58f20ea0b3341354a752.png)
 
 ### 如何用币安 API 获取比特币的最新价格？
 

@@ -35,7 +35,7 @@
 
 ### **算法交易书-一个粗略的现成指南|免费书籍**
 
-<figure class="kg-card kg-image-card">![Algorithmic Trading Book - A Rough and Ready Guide](img/fe18528848b13bede713628841a85013.png)</figure>
+![Algorithmic Trading Book - A Rough and Ready Guide](img/fe18528848b13bede713628841a85013.png)
 
 这本书介绍了算法交易的原理、实践和组成部分。它还讨论了成为这个行业的一部分的职业道路
 
@@ -223,11 +223,11 @@
 
 本播客基于 Shishir Asthana (Moneycontrol)和 Nitesh Khan delwal(QuantInsti 首席执行官)之间关于算法交易的互动。它深入探讨了如何进入算法交易，你需要具备什么资格，以及你需要注意哪些熊市陷阱。
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://embeds.audioboom.com/posts/7139212/embed/v4](https://embeds.audioboom.com/posts/7139212/embed/v4)
 
-</figure>
+
 
 * * *
 
@@ -272,7 +272,7 @@
 
 ### **Python 基础手册|免费书籍**
 
-<figure class="kg-card kg-image-card">![Python Basics Handbook Free Book](img/e3b0eb9883f1104165a97e189e6fef08.png)</figure>
+![Python Basics Handbook Free Book](img/e3b0eb9883f1104165a97e189e6fef08.png)
 
 这本书对任何想要简要介绍 Python 及其数据科学堆栈的关键组件的人，以及想要快速复习使用 Python 进行数据分析的 Python 程序员都很有用。最好对编程有所了解。这里的概念和想法包括几个例子，以帮助理论联系实际。
 
@@ -434,7 +434,7 @@
 
 ### **如何使用机器学习进行交易|免费书籍**
 
-<figure class="kg-card kg-image-card">![How to Trade Using Machine Learning Free Book](img/9ab056b7ff94d98404a83c85c009db4b.png)</figure>
+![How to Trade Using Machine Learning Free Book](img/9ab056b7ff94d98404a83c85c009db4b.png)
 
 机器学习技术已经提升了金融、医学等主要领域的工作方式。一种广泛的机器学习技术涉及人工神经网络。
 

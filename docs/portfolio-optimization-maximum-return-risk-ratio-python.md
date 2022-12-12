@@ -56,7 +56,7 @@ print (data.round(2))
 
 数据如下所示:
 
-<figure class="kg-card kg-image-card">![Portfolio Optimization Process in Python](img/986fd58727b3a4eb558f3fb706c118c0.png)</figure>
+![Portfolio Optimization Process in Python](img/986fd58727b3a4eb558f3fb706c118c0.png)
 
 然后，我们将这些股票价格转换成收益，并将其保存在名称' **stock_ret** 下。
 
@@ -66,7 +66,7 @@ stock_ret = data.pct_change()
 print (stock_ret.round(4)*100)
 ```
 
-<figure class="kg-card kg-image-card">![Portfolio Optimization Process in Python 2](img/f42da688dfffa35b59cd24988f23bea0.png)</figure>
+![Portfolio Optimization Process in Python 2](img/f42da688dfffa35b59cd24988f23bea0.png)
 
 我们现在将计算所有股票的平均回报和协方差矩阵。
 
@@ -78,7 +78,7 @@ print (mean_returns)
 print (cov_matrix)
 ```
 
-<figure class="kg-card kg-image-card">![Portfolio Optimization Process in Python 3](img/fbd2b410966112fb9f32b9c9cd2e7b11.png)</figure>
+![Portfolio Optimization Process in Python 3](img/fbd2b410966112fb9f32b9c9cd2e7b11.png)
 
 让我们定义一个数组来保存每次迭代的结果。该数组将保存迭代中每一步的回报、标准差、[夏普比率](/sharpe-ratio-applications-algorithmic-trading/)和权重。我们将定义一个最初包含全零的结果数组，并将模拟结果保存在该数组中。数组中的列数是 7，用于保存投资组合回报、标准差、夏普比率和所有股票的权重。列的数量将随着[投资组合](/controlling-intraday-risk-profile-10-jan-2017/)中股票的数量而变化，因为我们必须存储所有股票的权重。这就是我们在定义数组时使用“len 函数”的原因。数组中的行数等于迭代次数。
 
@@ -128,7 +128,7 @@ print (sim_frame.head())
 print (sim_frame.tail())
 ```
 
-<figure class="kg-card kg-image-card">![Save the output in a ‘pandas data frame’](img/e1caab2e5ad0cfc04b230939608bbc8c.png)</figure>
+![Save the output in a ‘pandas data frame’](img/e1caab2e5ad0cfc04b230939608bbc8c.png)
 
 上面的输出显示了模拟结果的一些行。我们现在可以计算具有最大夏普比率或最小风险的投资组合。
 
@@ -144,7 +144,7 @@ print ("The portfolio for max Sharpe Ratio:\n", max_sharpe)
 print ("The portfolio for min risk:\n", min_std)
 ```
 
-<figure class="kg-card kg-image-card">![Portfolio for max Sharpe Ration](img/949dc29de3096776959f5c09c752ab83.png)</figure>
+![Portfolio for max Sharpe Ration](img/949dc29de3096776959f5c09c752ab83.png)
 
 可以使用 matplotlib 库绘制输出，因为相关点可以高亮显示，如下所示:
 
@@ -170,7 +170,7 @@ plt.show()
 
 在输出中，红星显示具有最大夏普比率的投资组合，蓝星显示具有最小标准差的点。
 
-<figure class="kg-card kg-image-card">![Output](img/a7273fc9b0b1f5930c21e369056f56a4.png)</figure>
+![Output](img/a7273fc9b0b1f5930c21e369056f56a4.png)
 
 从上面的曲线中，我们可以根据上面讨论的三个条件中的任何一个得到所需的最优投资组合的组成。我们可以选择给定风险下回报最大的投资组合，或者给定回报下风险最小的投资组合，或者我们可以简单地选择夏普比率最大的投资组合。
 

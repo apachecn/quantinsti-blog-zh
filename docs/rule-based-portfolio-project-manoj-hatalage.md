@@ -10,7 +10,7 @@
 
 ## 关于作者
 
-<figure class="kg-card kg-image-card">![Manoj Hatalage pic](img/0eb27537f7e1f141ecb5379165dfdac6.png)</figure>
+![Manoj Hatalage pic](img/0eb27537f7e1f141ecb5379165dfdac6.png)
 
 Manoj Hatalage 是一名拥有 18 年经验的石油&天然气专家。他在自己的领域拥有各种高度认可的证书。大约三年前，Manoj 对金融市场产生了浓厚的兴趣。
 
@@ -253,7 +253,7 @@ Smart beta 指数每季度或每半年调整一次。假设某个特定指数每
 
 让我们看看基于低波动性、低贝塔和波动性 w.r.t 回报的季度再平衡投资组合的累积回报的图形表示。
 
-<figure class="kg-card kg-image-card kg-width-full">![cumulative returns chart](img/3bf4d6471a145202cbc007089d39a2e9.png)</figure>
+![cumulative returns chart](img/3bf4d6471a145202cbc007089d39a2e9.png)
 
 从上面的累积回报图中可以看出，相对而言，波动性较低的投资组合表现稳定。在短时间内和回溯测试期末，相对于波动率投资组合的回报能够超过低波动率和低贝塔投资组合。
 

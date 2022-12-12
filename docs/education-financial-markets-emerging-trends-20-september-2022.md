@@ -12,25 +12,25 @@
 
 ## 小组成员
 
-<figure class="kg-card kg-image-card">![Andreas Clenow](img/86970759a5a88382d0ef209f35e86bbc.png "Andreas Clenow")</figure>
+![Andreas Clenow](img/86970759a5a88382d0ef209f35e86bbc.png "Andreas Clenow")
 
 ##### 安德烈亚斯·克莱诺(瑞士苏黎世)
 
 阿塞斯资产管理公司首席投资官。经验丰富的对冲基金，企业家和小说家。
 
-<figure class="kg-card kg-image-card">![Binni Ong](img/21c1bf5d76f4ff2028741b547a32d63b.png "Binni Ong")</figure>
+![Binni Ong](img/21c1bf5d76f4ff2028741b547a32d63b.png "Binni Ong")
 
 ##### Binni Ong(新加坡)
 
 SGX 学院教练。15 年外汇和股票交易和培训经验。
 
-<figure class="kg-card kg-image-card">![Karthik Rangappa](img/6e898ea5176b797f7e704c63d7ed869d.png "Karthik Rangappa")</figure>
+![Karthik Rangappa](img/6e898ea5176b797f7e704c63d7ed869d.png "Karthik Rangappa")
 
 ##### Karthik Rangappa(印度班加卢鲁)
 
 Zerodha 教育服务副总裁。二十年的印度资本市场经验。
 
-<figure class="kg-card kg-image-card">![Vivek Bajaj](img/d30742fb11cafb9a64e872d802d9f530.png "Vivek Bajaj")</figure>
+![Vivek Bajaj](img/d30742fb11cafb9a64e872d802d9f530.png "Vivek Bajaj")
 
 ##### Vivek Bajaj(印度加尔各答)
 

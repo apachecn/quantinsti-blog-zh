@@ -208,21 +208,21 @@ Python 有利于概念化和策略的回溯测试，并且有许多库用于结�
 *   逻辑和推理
 *   计量经济学
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![skills for quants](img/781dfcdda9b25fb5973c47d63c88188d.png)
+![skills for quants](img/781dfcdda9b25fb5973c47d63c88188d.png)
 
-<figcaption>Skills for Quants</figcaption>
+Skills for Quants
 
-</figure>
+
 
 * * *
 
 ## Ml 和 AI 对你算法交易生涯的影响
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![ai in finance](img/b8df9d0bbaefd2f9d025e4747caa19a5.png)
+![ai in finance](img/b8df9d0bbaefd2f9d025e4747caa19a5.png)
 
-<figcaption>(Source: Business Insider) AI In Finance</figcaption>
+(Source: Business Insider) AI In Finance
 
-</figure>
+
 
 [商业内幕](https://www.businessinsider.com/ai-in-finance)继续陈述:
 

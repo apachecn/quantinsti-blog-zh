@@ -77,4 +77,4 @@ NSE 为分析师、交易商、交易员、顾问和其他市场从业者提供�
 
 ## **活动照片**
 
-<figure class="kg-card kg-gallery-card kg-width-wide">![](img/d7fd2eb57bcfa2abc2d3722858f8edf6.png)![](img/54e42cd5d33dabd9b285bd20afeb6450.png)![](img/40371b9ea37fabf4f7eecc387eec4d46.png)![](img/fbed1ea9d44a1ba7629898445181ac49.png)![](img/d0e73d43891d911f5f06b8c35264ad5f.png)![](img/5acaf86dcc870ba76ae7e6dc135b5013.png)![](img/a32068ea4e1290fabb5911b045c7c062.png)![](img/69f979256bc4cddad8a0e186ff3226b1.png)</figure>**
+![](img/d7fd2eb57bcfa2abc2d3722858f8edf6.png)![](img/54e42cd5d33dabd9b285bd20afeb6450.png)![](img/40371b9ea37fabf4f7eecc387eec4d46.png)![](img/fbed1ea9d44a1ba7629898445181ac49.png)![](img/d0e73d43891d911f5f06b8c35264ad5f.png)![](img/5acaf86dcc870ba76ae7e6dc135b5013.png)![](img/a32068ea4e1290fabb5911b045c7c062.png)![](img/69f979256bc4cddad8a0e186ff3226b1.png)**

@@ -107,11 +107,11 @@ Pairs 交易又被称为[统计套利交易](https://quantra.quantinsti.com/cour
 
 您还可以在下面的视频中根据交易风格和系统交易策略的类别找到更深入的观点:
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.youtube.com/embed/EnQDHtifjVo?feature=oembed](https://www.youtube.com/embed/EnQDHtifjVo?feature=oembed)
 
-</figure>
+
 
 此外，你应该通读关于量化策略的初级读本，以便更好地理解。好的，我们将继续前进，找出系统交易和自主交易的区别。
 

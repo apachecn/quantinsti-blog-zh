@@ -33,11 +33,11 @@
 
 下面你可以看到算法交易架构的图解:
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Architecture for Algorithmic Trading](img/8b99743e4170a07b1f47895e92f58222.png)
+![Architecture for Algorithmic Trading](img/8b99743e4170a07b1f47895e92f58222.png)
 
-<figcaption>Architecture for Algorithmic Trading</figcaption>
+Architecture for Algorithmic Trading
 
-</figure>
+
 
 从上图中可以看出，订单是通过应用程序以 R、MATLAB、Python 等计算机语言下达的。
 

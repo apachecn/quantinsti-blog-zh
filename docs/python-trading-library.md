@@ -21,7 +21,7 @@ Python 是一种免费的开源和跨平台的语言，它有一个丰富的库�
 *   [回溯测试](#python-trading-libraries-for-backtesting)
 *   [数据收集](#python-trading-libraries-for-data-collection)
 
-<figure class="kg-card kg-image-card">![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")</figure>
+![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")
 
 ## 用于技术分析的 Python 交易库
 
@@ -29,7 +29,7 @@ Python 是一种免费的开源和跨平台的语言，它有一个丰富的库�
 
 [TA-Lib](/install-ta-lib-python/) 或技术分析库是一个开源库，广泛用于使用 RSI(相对强弱指数)、布林线、MACD 等技术指标对金融数据进行技术分析。它不仅适用于 Python，还适用于其他编程语言，如 C/C++、Java、Perl 等。下面是 TA-Lib 中可用的一些函数:BBANDS -用于布林线，AROONOSC -用于 Aroon 振荡器，MACD -用于移动平均线收敛/发散，RSI -用于相对强弱指标。在此阅读更多此类功能[。](https://www.ta-lib.org/function.html)
 
-<figure class="kg-card kg-image-card">![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")</figure>
+![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")
 
 ## 用于数据操作的 Python 交易库
 
@@ -45,7 +45,7 @@ Pandas 是一个巨大的 Python 库，用于数据分析和操作，也用于�
 
 [SciPy](https://www.scipy.org/) ，顾名思义，是一个用于科学计算的开源 Python 库。它与 NumPy 一起用于执行复杂的功能，如数值积分、优化、图像处理等。这是 SciPy 的几个模块，用于执行上述功能:scipy.integrate(用于数值积分)、scipy.signal(用于信号处理)、scipy.fftpack(用于快速傅立叶变换)等。
 
-<figure class="kg-card kg-image-card">![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")</figure>
+![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")
 
 ## 用于绘制结构的 Python 交易库
 
@@ -53,7 +53,7 @@ Pandas 是一个巨大的 Python 库，用于数据分析和操作，也用于�
 
 这是一个 Python 库，用于绘制 2D 结构，如图形、图表、直方图、散点图等。与用于计算的其他库一起，有必要使用 [matplotlib](/python-matplotlib-tutorial/) 使用图表和图形以图形格式表示数据。matplotlib 的一些功能包括散点图、饼图、堆积图、颜色条等。
 
-<figure class="kg-card kg-image-card">![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")</figure>
+![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")
 
 ## 用于机器学习的 Python 交易库
 
@@ -69,7 +69,7 @@ Pandas 是一个巨大的 Python 库，用于数据分析和操作，也用于�
 
 [Keras](https://keras.io/) 是深度学习库，用于开发神经网络和其他深度学习模型。它可以建立在 TensorFlow、Microsoft Cognitive Toolkit 或 Theano 之上，并专注于模块化和可扩展。它由用于构建神经网络的元素组成，如层、目标、优化器等。在 Python 和 R 上安装 Keras 在这里演示[。该库可用于利用人工神经网络](/installing-keras-python-r/)预测[股票价格的交易中。](/artificial-neural-network-python-using-keras-predicting-stock-price-movement/)
 
-<figure class="kg-card kg-image-card">![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")</figure>
+![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")
 
 ## 用于回溯测试的 Python 交易库
 
@@ -85,7 +85,7 @@ Pandas 是一个巨大的 Python 库，用于数据分析和操作，也用于�
 
 Python/pandas 中的矢量化回溯测试框架，旨在使您的回溯测试变得紧凑、简单和快速。它允许用户使用 pandas 的全部功能来指定交易策略，同时隐藏所有交易、股票、业绩统计的手动计算并创建可视化。产生的策略代码在研究和生产环境中都是可用的。目前，只支持单一安全性回溯测试，多重安全性测试可以通过运行单一 sec 回溯测试，然后结合股权来实现。它正在进一步发展，以包括多资产回溯测试能力。
 
-<figure class="kg-card kg-image-card">![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")</figure>
+![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")
 
 ## 用于数据收集的 Python 交易库
 
@@ -109,7 +109,7 @@ TradingWithPython 或 TWP 库也是一个矢量化系统。它是用于量化交
 
 **IBPy 是另一个 python 库，可用于使用交互式代理进行交易。关于安装和使用 IBPy 的细节可以在这里找到[。](/ibpy-tutorial-implement-python-interactive-brokers-api/)如上所述，每个库都有自己的优势和劣势。根据策略的要求，您可以在权衡利弊后选择最合适的库。到目前为止，我们已经看了不同的库，现在我们来看 Python 交易平台。**
 
-<figure class="kg-card kg-image-card">**![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")**</figure>
+**![Anchor](img/4765334125b448ec4c4bdf8285a1da72.png "Anchor")**
 
 ## **开源 Python 交易平台**
 

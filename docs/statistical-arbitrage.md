@@ -71,11 +71,11 @@
 
 在下图中，您可以看到两只股票之间的统计套利，即汽车行业的 LAD (Lithia Motors Inc .)和 TTM (Tata Motors Limited ADR)。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Close prices for statistical arbitrage](img/59d8a97fbb974f1ab279b7197c1e5acd.png)
+![Close prices for statistical arbitrage](img/59d8a97fbb974f1ab279b7197c1e5acd.png)
 
-<figcaption>Close prices for statistical arbitrage</figcaption>
+Close prices for statistical arbitrage
 
-</figure>
+
 
 在上图中，拉德和 TTM 的股票价格。你可以看到两只股票在整个时间跨度内都非常接近，只有几次分开。
 
@@ -149,11 +149,11 @@ StatArb 是[配对交易策略](/pairs-trading-basics/)的进化版本，其中�
 
 因此，该战略通常以自动化的方式实施，并非常重视降低交易成本。统计套利策略已经成为对冲基金和投资银行的主要力量。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Steps of statistical arbitrage strategy](img/cb82c6f7e0c8dd455b0a34e24ee62006.png)
+![Steps of statistical arbitrage strategy](img/cb82c6f7e0c8dd455b0a34e24ee62006.png)
 
-<figcaption>Steps of statistical arbitrage strategy</figcaption>
+Steps of statistical arbitrage strategy
 
-</figure>
+
 
 在上图中，你可以看到一个统计套利策略的实施步骤。
 

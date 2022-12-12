@@ -104,11 +104,11 @@ Excel 表格？
 
 在 Python 的帮助下，您可以[计算资产的最大消耗](/impact-covid-19-oil-price-trading/)并将其可视化。下面，您可以在图形表示中看到最大压降的样子。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Maximum drawdown](img/a7e953c619235848b9cb93522c25f239.png)
+![Maximum drawdown](img/a7e953c619235848b9cb93522c25f239.png)
 
-<figcaption>Maximum drawdown</figcaption>
+Maximum drawdown
 
-</figure>
+
 
 在找出不同证券的提款后，交易者必须选择与其他证券相比有较低或最低最大提款的证券。较低的最大提款权表明投资价值略有波动，因此金融风险程度较低，反之亦然。
 

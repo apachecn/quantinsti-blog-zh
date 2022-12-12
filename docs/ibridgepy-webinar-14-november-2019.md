@@ -23,7 +23,7 @@
 
 ## 扬声器简介:
 
-<figure class="kg-card kg-image-card">![](img/dbd5b3ce9d7c3867f8ba202da7103ae2.png)</figure>
+![](img/dbd5b3ce9d7c3867f8ba202da7103ae2.png)
 
 刘辉博士-教员，QuantInsti
 
@@ -31,8 +31,8 @@
 
 他在中国清华大学获得材料科学与工程学士和硕士学位，在美国弗吉尼亚大学获得博士学位。他在美国印第安纳大学获得工商管理硕士学位，在印第安纳大学的研究兴趣是定量分析。
 
-<figure class="kg-card kg-embed-card">
+
 
 [https://www.slideshare.net/slideshow/embed_code/key/nNyzbEHb5KscvT](https://www.slideshare.net/slideshow/embed_code/key/nNyzbEHb5KscvT)
 
-**[Backtesting And Live Trading With Interactive Brokers Using Python With Dr. Hui Liu](https://www.slideshare.net/QuantInsti/backtesting-and-live-trading-with-interactive-brokers-using-python-with-dr-hui-liu "Backtesting And Live Trading With Interactive Brokers Using Python With Dr. Hui Liu")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**</figure>
+**[Backtesting And Live Trading With Interactive Brokers Using Python With Dr. Hui Liu](https://www.slideshare.net/QuantInsti/backtesting-and-live-trading-with-interactive-brokers-using-python-with-dr-hui-liu "Backtesting And Live Trading With Interactive Brokers Using Python With Dr. Hui Liu")** from **[QuantInsti](https://www.slideshare.net/QuantInsti)**

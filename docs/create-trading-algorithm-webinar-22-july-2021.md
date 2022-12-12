@@ -38,7 +38,7 @@
 
 ## 关于演讲者
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/7a722487f3cf502d961b4227ce6b2379.png)</figure>
+![](img/7a722487f3cf502d961b4227ce6b2379.png)
 
 **Ashutosh Dave(高级助理，内容&在 QuantInsti 的研究)**
 

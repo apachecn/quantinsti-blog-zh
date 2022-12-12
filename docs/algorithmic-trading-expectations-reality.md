@@ -70,7 +70,7 @@
 
 算法交易是量化交易的一个印记，这意味着算法有助于在用量化技术系统地实施交易策略后执行交易。
 
-<figure class="kg-card kg-image-card kg-width-full">![quantitative trading algorithmic trading high frequency trading image](img/71aca691034d2397c663293d7884a274.png)</figure>
+![quantitative trading algorithmic trading high frequency trading image](img/71aca691034d2397c663293d7884a274.png)
 
 * * *
 

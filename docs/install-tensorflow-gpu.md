@@ -30,21 +30,21 @@
 
 登录到系统后，转到控制面板，然后转到“卸载程序”链接。然后向下滚动到由 Nvidia 公司发布的程序部分。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 1 unistall nvidia](img/854d8810476552a717b34513134bb14d.png)
+![tensorflow gpu installation step 1 unistall nvidia](img/854d8810476552a717b34513134bb14d.png)
 
-<figcaption>Uninstall Nvidia</figcaption>
+Uninstall Nvidia
 
-</figure>
+
 
 在这里，你卸载所有的 Nvidia 程序。如果您有一些驱动程序，请不要担心，它们可以在您完成安装后更新。
 
 一旦你删除了所有的程序，转到 c 盘，检查所有的程序文件文件夹，并删除其中的任何 Nvidia 文件夹。
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![tensorflow gpu installation step 1 delete nvidia folders](img/4116bd4e5c0a88562b09e07d629fba3d.png)
+![tensorflow gpu installation step 1 delete nvidia folders](img/4116bd4e5c0a88562b09e07d629fba3d.png)
 
-<figcaption>Delete Nvidia folders</figcaption>
+Delete Nvidia folders
 
-</figure>
+
 
 * * *
 
@@ -52,19 +52,19 @@
 
 下一步，我们将安装 visual studio 社区。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 2 visual studio](img/23ccc6e2a28a3f96e319579a3ee47b92.png)
+![tensorflow gpu installation step 2 visual studio](img/23ccc6e2a28a3f96e319579a3ee47b92.png)
 
-<figcaption>Download Visual Studio</figcaption>
+Download Visual Studio
 
-</figure>
+
 
 在这里，确保您选择了社区选项。
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![tensorflow gpu installation step 2 visual studio community option](img/e111fccf73bca8c4a1cef27aaea2ace0.png)
+![tensorflow gpu installation step 2 visual studio community option](img/e111fccf73bca8c4a1cef27aaea2ace0.png)
 
-<figcaption>Select the community option</figcaption>
+Select the community option
 
-</figure>
+
 
 下载 Visual Studio 后，请按照安装过程进行操作并完成安装。
 
@@ -78,11 +78,11 @@
 
 我有一个基于 windows 的系统，因此相应的链接显示 CUDA 的最新支持版本是 9.0，而其对应的 cuDNN 版本是 7。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 3 install cuda](img/37e4cd529d3f24c0dd69e973e07fda9a.png)
+![tensorflow gpu installation step 3 install cuda](img/37e4cd529d3f24c0dd69e973e07fda9a.png)
 
-<figcaption>Install CUDA</figcaption>
+Install CUDA
 
-</figure>
+
 
 不言而喻，要安装 TensorFlow GPU，您需要在系统中安装一个实际的 GPU。
 
@@ -92,11 +92,11 @@
 *   然后点击 exe(本地)按钮。
 *   现在下载基本安装程序和所有可用的补丁。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 3 install cuda installer and patches](img/ce2dd0bb499d7bb6230f2a427852ea7d.png)
+![tensorflow gpu installation step 3 install cuda installer and patches](img/ce2dd0bb499d7bb6230f2a427852ea7d.png)
 
-<figcaption>Install CUDA installer and patches</figcaption>
+Install CUDA installer and patches
 
-</figure>
+
 
 下载完成后，首先安装基本安装程序，然后安装从补丁 1 到补丁 4 的补丁。
 
@@ -112,27 +112,27 @@
 *   一旦您创建了您的登录名并同意条款和条件，请访问[存档的 cuDNN 文件](https://developer.nvidia.com/rdp/cudnn-archive)。
 *   点击 CUDA 9.0 版为 CUDA 9.0
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 4 install cudnn](img/919b95840d3474b20381589111367d2a.png)
+![tensorflow gpu installation step 4 install cudnn](img/919b95840d3474b20381589111367d2a.png)
 
-<figcaption>Install cuDNN</figcaption>
+Install cuDNN
 
-</figure>
+
 
 然后为您的系统选择合适的操作系统选项。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 4 install cudnn choose os](img/e80149a2fc7ac9c8dd17ba956cb458cc.png)
+![tensorflow gpu installation step 4 install cudnn choose os](img/e80149a2fc7ac9c8dd17ba956cb458cc.png)
 
-<figcaption>Install cuDNN and choose OS</figcaption>
+Install cuDNN and choose OS
 
-</figure>
+
 
 这会将一个 zip 文件下载到您的系统中。解压缩文件后，您会看到其中有三个文件夹:bin、include 和 lib。将这三个文件解压缩到您的桌面上。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 4 install cudnn extract files](img/c2db0fd0002df1484febcd7f5a5e347b.png)
+![tensorflow gpu installation step 4 install cudnn extract files](img/c2db0fd0002df1484febcd7f5a5e347b.png)
 
-<figcaption>Install cuDNN unzip and extract files</figcaption>
+Install cuDNN unzip and extract files
 
-</figure>
+
 
 一旦你提取了它们。转到 c 盘，在那里你会找到一个名为 NVIDIA GPU 计算工具包的文件夹。
 
@@ -142,30 +142,30 @@
 
 一旦你完成了内容的传输，进入开始菜单并搜索“编辑环境变量”。单击搜索结果，打开“系统属性”窗口，并在其中打开“高级”选项卡。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 4 install cudnn system properties](img/299e6581a0d175e786c02c2ba095a2c7.png)
+![tensorflow gpu installation step 4 install cudnn system properties](img/299e6581a0d175e786c02c2ba095a2c7.png)
 
-<figcaption>Install cuDNN system properties</figcaption>
+Install cuDNN system properties
 
-</figure>
+
 
 现在点击“环境变量”，
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![tensorflow gpu installation step 4 install cudnn environment variables](img/7c192026fe786bbd3e6da33e6000d993.png)
+![tensorflow gpu installation step 4 install cudnn environment variables](img/7c192026fe786bbd3e6da33e6000d993.png)
 
-<figcaption>Install cuDNN environment variables</figcaption>
+Install cuDNN environment variables
 
-</figure>
+
 
 在“系统变量”下，查找 PATH，选择它，然后单击“编辑”。将以下两条路径添加到 path 变量中:
 
 *   C:\Program Files\NVIDIA GPU 计算工具包\CUDA\v8.0\bin
 *   C:\Program Files\NVIDIA GPU 计算工具包\CUDA\v8.0\libnvvp
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![tensorflow gpu installation step 4 install cudnn add paths](img/6572c67eeb804ce95164d69847e3ad8b.png)
+![tensorflow gpu installation step 4 install cudnn add paths](img/6572c67eeb804ce95164d69847e3ad8b.png)
 
-<figcaption>Install cuDNN add paths</figcaption>
+Install cuDNN add paths
 
-</figure>
+
 
 完成这些之后，您可以下载 Anaconda，如果您已经有了它，那么在其中创建一个 Python 3.5 环境。
 

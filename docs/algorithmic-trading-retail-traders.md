@@ -128,7 +128,7 @@
 
 这张图片展示了算法交易的各个阶段或工作流程。你要联系的经纪人可以指导你这些步骤。每个经纪人都有不同的步骤，因此，您可能会发现略有不同，但目标是相同的。
 
-<figure class="kg-card kg-image-card kg-width-full">![retail algorithmic trading stages in algo trading](img/c9a8d07cd7da95a183bad5d1d291f143.png)</figure>
+![retail algorithmic trading stages in algo trading](img/c9a8d07cd7da95a183bad5d1d291f143.png)
 
 * * *
 

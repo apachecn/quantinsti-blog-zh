@@ -31,7 +31,7 @@
 
 ## 关于演讲者
 
-<figure class="kg-card kg-image-card kg-width-full">![Satyapriya Chaudhari](img/69c1d13dfeacd15b74871ffee5505312.png)</figure>
+![Satyapriya Chaudhari](img/69c1d13dfeacd15b74871ffee5505312.png)
 
 ### 萨特雅普里亚·乔德里
 

@@ -14,7 +14,7 @@
 
 克里斯特斯·克兰沃斯学过经济学、工商管理和信息学。他拥有 ICT 理学硕士学位以及 Udacity、Kaggle 和 Google 的多项编程和机器学习认证。克里斯特斯对人工智能、机器人、无人机和金融科技充满热情。
 
-<figure class="kg-card kg-image-card">![](img/24c98a25c29eab8ddfbfafc5ca4b899a.png)</figure>
+![](img/24c98a25c29eab8ddfbfafc5ca4b899a.png)
 
 2019 年 7 月，他因成功完成 QuantInsti 提供的算法交易高管课程而获得卓越证书。他已经做了两年的独立外汇交易员，使用各种平台，如 MT4、EAs、QuantConnect、Blueshift 和 InteractiveBrokers。
 
@@ -90,7 +90,7 @@ cum_ret:买入并持有
 
 累积 _ 策略 _ 回报:策略回报
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/7529a09ee12f2415017aaf0ca187b745.png)</figure>
+![](img/7529a09ee12f2415017aaf0ca187b745.png)
 
 战略的夏普比率在回测的大部分时间里大约是 2。
 
@@ -112,7 +112,7 @@ cum_ret:买入并持有
 
 (完整的树可以从下载中获得)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/4d82a12886078fc227ff7aeaed576482.png)</figure>
+![](img/4d82a12886078fc227ff7aeaed576482.png)
 
 * * *
 
@@ -133,9 +133,9 @@ cum_ret:买入并持有
 
 当然，优化可以而且应该在上线之前完成，这包括均线周期、挑选最有用的预测指标、使用交叉等进一步的预测指标、缩放一些预测指标以及使用更深入的历史数据。
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/b50f15410f283d021758ab1bcbb20601.png)</figure>
+![](img/b50f15410f283d021758ab1bcbb20601.png)
 
-<figure class="kg-card kg-image-card kg-width-full">![](img/9f34b93e0bd07621283194003ff8e046.png)</figure>
+![](img/9f34b93e0bd07621283194003ff8e046.png)
 
 * * *
 

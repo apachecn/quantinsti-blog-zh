@@ -87,11 +87,11 @@
 
 **纸上交易和现场交易的流程**
 
-<figure class="kg-card kg-image-card kg-width-wide kg-card-hascaption">![flow of paper trading and live trading](img/27752dfbe508efa4ae4050a8f028634b.png)
+![flow of paper trading and live trading](img/27752dfbe508efa4ae4050a8f028634b.png)
 
-<figcaption>Source: [Paper Trading](/paper-trading/) Steps for paper trading and live trading</figcaption>
+Source: [Paper Trading](/paper-trading/) Steps for paper trading and live trading
 
-</figure>
+
 
 票据交易的一些好处是:
 

@@ -138,11 +138,11 @@
 
 但是，如果观察值很少，并且违反了正态假设，则模型输出中的标准误差将是不可靠的。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Gaussian distribution of the error terms](img/944766c6d0142b0b9a7bdd34a94705d1.png)
+![Gaussian distribution of the error terms](img/944766c6d0142b0b9a7bdd34a94705d1.png)
 
-<figcaption>[Source](https://th.bing.com/th/id/R.0c838336ef5946e5c5996ac211d15bed?rik=JvkCFK%2fLT8kZ4w&riu=http%3a%2f%2fsherrytowers.com%2fwp-content%2fuploads%2f2013%2f08%2fqqplot_examples.jpg&ehk=mZvYiaWYbFh1afGaK99YqvXYan%2fu3Q7uKc7O0IURO9s%3d&risl=&pid=ImgRaw&r=0)</figcaption>
+[Source](https://th.bing.com/th/id/R.0c838336ef5946e5c5996ac211d15bed?rik=JvkCFK%2fLT8kZ4w&riu=http%3a%2f%2fsherrytowers.com%2fwp-content%2fuploads%2f2013%2f08%2fqqplot_examples.jpg&ehk=mZvYiaWYbFh1afGaK99YqvXYan%2fu3Q7uKc7O0IURO9s%3d&risl=&pid=ImgRaw&r=0)
 
-</figure>
+
 
 ### 如何检测正常？
 
@@ -177,11 +177,11 @@
 
 标准误差会增加，拟合优度可能会被夸大。显著回归系数可能看起来具有统计显著性，但实际上并非如此。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![No autocorrelation of the error terms](img/6b486647d373c518979eaa9589992f3c.png)
+![No autocorrelation of the error terms](img/6b486647d373c518979eaa9589992f3c.png)
 
-<figcaption>[Source](https://www.statisticshowto.com/wp-content/uploads/2016/06/serial-correlation.png)</figcaption>
+[Source](https://www.statisticshowto.com/wp-content/uploads/2016/06/serial-correlation.png)
 
-</figure>
+
 
 ### 如何检测自相关？
 

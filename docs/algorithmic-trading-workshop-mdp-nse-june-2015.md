@@ -143,4 +143,4 @@ Gaurav Raizada 是 iRageCapital Advisory Private Ltd .的董事，负责该公�
 
 ## **事件照片**
 
-<figure class="kg-card kg-gallery-card kg-width-wide">![](img/9f998cd1d3a771de94bcac0694734c35.png)![](img/23793a876faf1fc862c5de4a81631315.png)![](img/559c8eb3c6e65fa05a16d707a4533224.png)![](img/d36fd2a5c79dde0b9ed4492d7fba4a2a.png)![](img/7124f6072840e709c576e3587ef993c5.png)![](img/f517ecc7ec24fcb9af00e7933d6bdb23.png)![](img/9c53e40f6d3ea489b4d398d21ba9837e.png)</figure>
+![](img/9f998cd1d3a771de94bcac0694734c35.png)![](img/23793a876faf1fc862c5de4a81631315.png)![](img/559c8eb3c6e65fa05a16d707a4533224.png)![](img/d36fd2a5c79dde0b9ed4492d7fba4a2a.png)![](img/7124f6072840e709c576e3587ef993c5.png)![](img/f517ecc7ec24fcb9af00e7933d6bdb23.png)![](img/9c53e40f6d3ea489b4d398d21ba9837e.png)

@@ -76,11 +76,11 @@
 
 回溯测试结果-2018 年 7 月 1 日至 2018 年 9 月 1 日
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![backtest results fig 1](img/c37179f6e3bd8c367f51914da4632ce0.png)
+![backtest results fig 1](img/c37179f6e3bd8c367f51914da4632ce0.png)
 
-<figcaption>Backtesting results fig 1 Source: blueshift.quantinsti.com</figcaption>
+Backtesting results fig 1 Source: blueshift.quantinsti.com
 
-</figure>
+
 
 回报图是一个配对交易策略，使用塔塔汽车和塔塔钢铁的印度股票，它们具有很高的相关价值，因为它们都是塔塔集团的一部分。实施策略的两个月历史数据给出了 25.16%的回报率。
 
@@ -88,11 +88,11 @@
 
 回溯测试结果-2018 年 10 月 1 日至 2019 年 10 月 1 日
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![backtest results fig 2](img/88685031deabec0ff05e8a461c55e07d.png)
+![backtest results fig 2](img/88685031deabec0ff05e8a461c55e07d.png)
 
-<figcaption>Backtesting results fig 2 Source: blueshift.quantinsti.com</figcaption>
+Backtesting results fig 2 Source: blueshift.quantinsti.com
 
-</figure>
+
 
 第一次回溯测试中 25.16%的不均衡回溯测试结果是因为塔塔钢铁有着强烈的积极情绪，鉴于其强劲的欧洲销售，塔塔钢铁第一季度的净利润率翻了一番。
 
@@ -152,21 +152,21 @@
 
 而票据交易可以帮助你理解市场。它还能帮助你理解自己。您知道恐惧和贪婪会驱动您的决策过程，应该加以控制。让我们举个例子。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Paper Trading - Apple Inc Stock Price fig 1](img/fc572e20083f09eb3dbdde53d73b6660.png)
+![Paper Trading - Apple Inc Stock Price fig 1](img/fc572e20083f09eb3dbdde53d73b6660.png)
 
-<figcaption>Paper Trading - Apple Inc Stock Price fig 1</figcaption>
+Paper Trading - Apple Inc Stock Price fig 1
 
-</figure>
+
 
 这是苹果的价格图。或者更确切地说，是苹果的拆分调整价格图。假设你在 2019 年 5 月以 50 美元投资了苹果。当它突破 80 美元时，你会大吃一惊。
 
 但是由于新冠肺炎疫情，价格在 2020 年 2 月开始下跌。短短几周内从 80 美元暴跌到 56 美元。在这种情况下，很难保住你的位置。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Paper Trading - Apple Inc Stock Price fig 2](img/96fbb4776d595108bd3d9530f39498a1.png)
+![Paper Trading - Apple Inc Stock Price fig 2](img/96fbb4776d595108bd3d9530f39498a1.png)
 
-<figcaption>Paper Trading - Apple Inc Stock Price fig 2</figcaption>
+Paper Trading - Apple Inc Stock Price fig 2
 
-</figure>
+
 
 当然，苹果的价格不仅反弹，而且在 2021 年触及 140 美元。这个例子说明，当你的真金白银岌岌可危时，你很难继续持有急剧下跌的头寸。
 
@@ -190,11 +190,11 @@
 
 人们可以使用交互式代理很容易地自动化策略。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Paper Trading platform - Interactive Brokers (Source - interactivebrokers.com)](img/5d5cf7f026e44ef27cd37f5ebcec41ce.png)
+![Paper Trading platform - Interactive Brokers (Source - interactivebrokers.com)](img/5d5cf7f026e44ef27cd37f5ebcec41ce.png)
 
-<figcaption>Paper Trading platform - Interactive Brokers (Source - interactivebrokers.com)</figcaption>
+Paper Trading platform - Interactive Brokers (Source - interactivebrokers.com)
 
-</figure>
+
 
 ### TD Ameritrade
 
@@ -204,11 +204,11 @@ TD Ameritrade 的问题是，它不允许来自每个国家的客户在他们那
 
 它有一个社会情绪指标，提到了交易者对特定交易资产的情绪。下图描绘了同一个[情绪指标](https://quantra.quantinsti.com/course/trading-using-options-sentiment-indicators)。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Paper Trading platform - TD Ameritrade (Source - tdameritrade.com)](img/b7136cfeb317faa4a8145a122e9b8a0c.png)
+![Paper Trading platform - TD Ameritrade (Source - tdameritrade.com)](img/b7136cfeb317faa4a8145a122e9b8a0c.png)
 
-<figcaption>Paper Trading platform - TD Ameritrade (Source - tdameritrade.com)</figcaption>
+Paper Trading platform - TD Ameritrade (Source - tdameritrade.com)
 
-</figure>
+
 
 ### 羊驼
 
@@ -218,11 +218,11 @@ TD Ameritrade 的问题是，它不允许来自每个国家的客户在他们那
 
 除了 algo 票据交易平台，它还与 Tradingview.com 合作提供手动交易，以获得多样化的票据交易体验。它支持 python、C#、Go 和 Node 等编程语言。
 
-<figure class="kg-card kg-image-card kg-width-full kg-card-hascaption">![Paper Trading platform - Alpaca (Source - alpaca.markets)](img/c41bbb238ae3338258e9cf85580e3520.png)
+![Paper Trading platform - Alpaca (Source - alpaca.markets)](img/c41bbb238ae3338258e9cf85580e3520.png)
 
-<figcaption>Paper Trading platform - Alpaca (Source - alpaca.markets)</figcaption>
+Paper Trading platform - Alpaca (Source - alpaca.markets)
 
-</figure>
+
 
 ### 贸易站
 
@@ -256,35 +256,35 @@ moneycontrol.com 的 Moneybhai 有一个纸交易游戏平台，他们要求游�
 
 我们试图在下面的图片中演示如何创建一个游戏:
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Paper Trading game - Market Watch fig 1](img/6d126d6bdb893391b6c4fe5b57ff6488.png)
+![Paper Trading game - Market Watch fig 1](img/6d126d6bdb893391b6c4fe5b57ff6488.png)
 
-<figcaption>Paper Trading game - Market Watch fig 1</figcaption>
+Paper Trading game - Market Watch fig 1
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Paper Trading game - Market Watch fig 2](img/01e67c030bea398d1c7d61c2a18733c4.png)
 
-<figcaption>Paper Trading game - Market Watch fig 2</figcaption>
+![Paper Trading game - Market Watch fig 2](img/01e67c030bea398d1c7d61c2a18733c4.png)
 
-</figure>
+Paper Trading game - Market Watch fig 2
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Paper Trading game - Market Watch fig 3](img/9d8976de432262b662b8a6bd1747df13.png)
 
-<figcaption>Paper Trading game - Market Watch fig 3</figcaption>
 
-</figure>
+![Paper Trading game - Market Watch fig 3](img/9d8976de432262b662b8a6bd1747df13.png)
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Paper Trading game - Market Watch fig 4](img/c1f1124790a9c15af27033bf45c0d91a.png)
+Paper Trading game - Market Watch fig 3
 
-<figcaption>Paper Trading game - Market Watch fig 4</figcaption>
 
-</figure>
 
-<figure class="kg-card kg-image-card kg-card-hascaption">![Paper Trading game - Market Watch fig 5](img/ca6852134148cc1161c5fb80bb5f2658.png)
+![Paper Trading game - Market Watch fig 4](img/c1f1124790a9c15af27033bf45c0d91a.png)
 
-<figcaption>Paper Trading game - Market Watch fig 5</figcaption>
+Paper Trading game - Market Watch fig 4
 
-</figure>
+
+
+![Paper Trading game - Market Watch fig 5](img/ca6852134148cc1161c5fb80bb5f2658.png)
+
+Paper Trading game - Market Watch fig 5
+
+
 
 * * *
 
