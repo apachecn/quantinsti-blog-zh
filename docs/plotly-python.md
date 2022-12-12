@@ -1,6 +1,6 @@
 # plotly Python——交互式数据可视化
 
-> 原文:# t0]https://blog . quantities . com/plot ly-python/
+> 原文：<https://blog.quantinsti.com/plotly-python/>
 
 由[雷希特](https://www.linkedin.com/in/rekhit/)帕查内卡和[沙克蒂普拉萨德](https://www.linkedin.com/in/shaktishimpi/)希姆皮
 

@@ -1,6 +1,6 @@
 # 系统期权交易介绍|网上研讨会
 
-> 原文 http://blog . quantinsti . com/system-options-trading-webinar-2022 年 8 月 18 日/
+> 原文：<https://blog.quantinsti.com/system-options-trading-webinar/>
 
 ## 网络研讨会录制
 

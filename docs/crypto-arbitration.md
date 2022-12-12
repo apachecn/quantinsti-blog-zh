@@ -1,6 +1,6 @@
 # 加密套利:概述，交易策略，机会，等等
 
-> 原文:# t0]https://blog . quantities . com/crypto-arbitration/
+> 原文：<https://blog.quantinsti.com/crypto-arbitration/>
 
 苏莱曼·埃姆雷·耶希尔
 
